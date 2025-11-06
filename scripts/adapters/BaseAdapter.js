@@ -1,5 +1,3 @@
-const fetch = require('node-fetch');
-
 class BaseAdapter {
   constructor(source, cache, logger) {
     this.source = source;

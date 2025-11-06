@@ -113,19 +113,28 @@ class Crawler {
     const now = new Date();
     const oneWeekFromNow = new Date(now.getTime() + 7 * 24 * 60 * 60 * 1000);
 
+    this.logger.info('Crawler', `Filtering ${events.length} events...`);
+
+    // Count events without dates for debugging
+    const eventsWithoutDates = events.filter(e => !e.start_datetime).length;
+    if (eventsWithoutDates > 0) {
+      this.logger.warn('Crawler', `${eventsWithoutDates} events have no start_datetime`);
+    }
+
     // Filter events
     let filtered = events.filter(event => {
-      // Only include events with dates
-      if (!event.start_datetime) return false;
+      // If event has a date, check if it's upcoming
+      if (event.start_datetime) {
+        const eventDate = new Date(event.start_datetime);
 
-      const eventDate = new Date(event.start_datetime);
-
-      // Only include upcoming events (within next 2 weeks)
-      if (eventDate < now || eventDate > new Date(now.getTime() + 14 * 24 * 60 * 60 * 1000)) {
-        return false;
+        // Only include upcoming events (within next 2 weeks)
+        if (eventDate < now || eventDate > new Date(now.getTime() + 14 * 24 * 60 * 60 * 1000)) {
+          return false;
+        }
       }
+      // If no date, include it anyway (we'll rank it lower)
 
-      // Filter out family/kids events (implement your own logic here)
+      // Filter out family/kids events
       const text = `${event.title} ${event.description}`.toLowerCase();
       if (/kids|children|family|toddler|baby/.test(text)) {
         return false;
@@ -158,15 +167,20 @@ class Crawler {
         score += categoryWeights[cat] || 0;
       });
 
-      // Recency (prefer events happening soon)
-      const daysUntil = (new Date(event.start_datetime) - now) / (1000 * 60 * 60 * 24);
-      if (daysUntil <= 3) score += 15;
-      else if (daysUntil <= 7) score += 10;
+      // Recency (prefer events happening soon) - only if we have a date
+      if (event.start_datetime) {
+        const daysUntil = (new Date(event.start_datetime) - now) / (1000 * 60 * 60 * 24);
+        if (daysUntil <= 3) score += 15;
+        else if (daysUntil <= 7) score += 10;
 
-      // Weekend bonus
-      const eventDate = new Date(event.start_datetime);
-      const dayOfWeek = eventDate.getDay();
-      if (dayOfWeek === 5 || dayOfWeek === 6) score += 10; // Friday or Saturday
+        // Weekend bonus
+        const eventDate = new Date(event.start_datetime);
+        const dayOfWeek = eventDate.getDay();
+        if (dayOfWeek === 5 || dayOfWeek === 6) score += 10; // Friday or Saturday
+      } else {
+        // Events without dates get a penalty
+        score -= 20;
+      }
 
       return {
         ...event,
