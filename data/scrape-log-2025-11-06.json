@@ -1,29 +1,29 @@
 {
-  "scrape_start": "2025-11-06T21:54:22.849Z",
-  "scrape_end": "2025-11-06T21:54:23.165Z",
-  "duration_ms": 316,
+  "scrape_start": "2025-11-06T22:01:22.382Z",
+  "scrape_end": "2025-11-06T22:01:22.724Z",
+  "duration_ms": 342,
   "total_logs": 16,
   "logs": [
     {
-      "timestamp": "2025-11-06T21:54:22.850Z",
+      "timestamp": "2025-11-06T22:01:22.382Z",
       "level": "info",
       "source": "Crawler",
       "message": "🚀 Starting Charlotte event crawler..."
     },
     {
-      "timestamp": "2025-11-06T21:54:22.860Z",
+      "timestamp": "2025-11-06T22:01:22.393Z",
       "level": "info",
       "source": "Crawler",
       "message": "📡 Fetching from: Visit Charlotte"
     },
     {
-      "timestamp": "2025-11-06T21:54:22.862Z",
+      "timestamp": "2025-11-06T22:01:22.394Z",
       "level": "info",
       "source": "Visit Charlotte",
       "message": "Cache hit for https://www.charlottesgotalot.com/events"
     },
     {
-      "timestamp": "2025-11-06T21:54:22.907Z",
+      "timestamp": "2025-11-06T22:01:22.438Z",
       "level": "success",
       "source": "Visit Charlotte",
       "message": "Fetched 2 events",
@@ -31,19 +31,19 @@
       "status": "success"
     },
     {
-      "timestamp": "2025-11-06T21:54:22.907Z",
+      "timestamp": "2025-11-06T22:01:22.438Z",
       "level": "info",
       "source": "Crawler",
       "message": "📡 Fetching from: Eventbrite Charlotte"
     },
     {
-      "timestamp": "2025-11-06T21:54:22.912Z",
+      "timestamp": "2025-11-06T22:01:22.443Z",
       "level": "info",
       "source": "Eventbrite Charlotte",
       "message": "Cache hit for https://www.eventbrite.com/d/nc--charlotte/events/"
     },
     {
-      "timestamp": "2025-11-06T21:54:23.156Z",
+      "timestamp": "2025-11-06T22:01:22.715Z",
       "level": "success",
       "source": "Eventbrite Charlotte",
       "message": "Fetched 256 events",
@@ -51,55 +51,55 @@
       "status": "success"
     },
     {
-      "timestamp": "2025-11-06T21:54:23.156Z",
+      "timestamp": "2025-11-06T22:01:22.715Z",
       "level": "info",
       "source": "Crawler",
       "message": "⏭️  Skipping disabled source: Charlotte Five"
     },
     {
-      "timestamp": "2025-11-06T21:54:23.156Z",
+      "timestamp": "2025-11-06T22:01:22.715Z",
       "level": "info",
       "source": "Crawler",
       "message": "⏭️  Skipping disabled source: QCity Metro"
     },
     {
-      "timestamp": "2025-11-06T21:54:23.157Z",
+      "timestamp": "2025-11-06T22:01:22.716Z",
       "level": "info",
       "source": "Crawler",
       "message": "📝 Normalizing 258 raw events..."
     },
     {
-      "timestamp": "2025-11-06T21:54:23.159Z",
+      "timestamp": "2025-11-06T22:01:22.718Z",
       "level": "info",
       "source": "Crawler",
       "message": "🔍 Deduplicating events..."
     },
     {
-      "timestamp": "2025-11-06T21:54:23.162Z",
+      "timestamp": "2025-11-06T22:01:22.721Z",
       "level": "info",
       "source": "Crawler",
       "message": "⭐ Ranking and filtering events..."
     },
     {
-      "timestamp": "2025-11-06T21:54:23.162Z",
+      "timestamp": "2025-11-06T22:01:22.721Z",
       "level": "info",
       "source": "Crawler",
       "message": "Filtering 32 events..."
     },
     {
-      "timestamp": "2025-11-06T21:54:23.162Z",
+      "timestamp": "2025-11-06T22:01:22.721Z",
       "level": "warn",
       "source": "Crawler",
       "message": "32 events have no start_datetime"
     },
     {
-      "timestamp": "2025-11-06T21:54:23.164Z",
+      "timestamp": "2025-11-06T22:01:22.723Z",
       "level": "info",
       "source": "Crawler",
       "message": "💾 Saved events to: /home/runner/work/charlotte-concierge/charlotte-concierge/data/events-2025-11-06.json"
     },
     {
-      "timestamp": "2025-11-06T21:54:23.165Z",
+      "timestamp": "2025-11-06T22:01:22.724Z",
       "level": "info",
       "source": "Crawler",
       "message": "💾 Updated latest.json"
