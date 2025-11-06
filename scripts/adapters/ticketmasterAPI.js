@@ -2,7 +2,7 @@ const BaseAdapter = require('./BaseAdapter');
 
 class TicketmasterAPIAdapter extends BaseAdapter {
   async fetchRaw() {
-    const apiKey = process.env.TICKETMASTER_API_KEY;
+    const apiKey = process.env.TICKET_MASTER_API_KEY;
 
     if (!apiKey) {
       this.logger.warn(this.source.name, 'No API key found - skipping');

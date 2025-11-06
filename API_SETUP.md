@@ -37,7 +37,7 @@ This guide shows you how to get free API keys for Ticketmaster and Eventbrite to
 ### Step 3: Add to .env File
 
 ```bash
-TICKETMASTER_API_KEY=your_consumer_key_here
+TICKET_MASTER_API_KEY=your_consumer_key_here
 ```
 
 ---
@@ -82,7 +82,7 @@ EVENTBRITE_API_KEY=your_private_token_here
 
 2. **Edit `.env`** and add both API keys:
    ```bash
-   TICKETMASTER_API_KEY=K7nABc123XyZ456...
+   TICKET_MASTER_API_KEY=K7nABc123XyZ456...
    EVENTBRITE_API_KEY=ABCD1234WXYZ5678...
    ```
 
@@ -111,7 +111,7 @@ To run the crawler automatically on GitHub Actions (weekly refresh):
 4. Add both secrets:
 
    **Secret 1:**
-   - Name: `TICKETMASTER_API_KEY`
+   - Name: `TICKET_MASTER_API_KEY`
    - Value: Your Ticketmaster Consumer Key
 
    **Secret 2:**
@@ -129,7 +129,7 @@ The weekly crawler will now use these API keys automatically!
 ### "No API key found - skipping"
 - Make sure your `.env` file exists
 - Check that you copied the keys correctly (no extra spaces)
-- Variable names must match exactly: `TICKETMASTER_API_KEY` and `EVENTBRITE_API_KEY`
+- Variable names must match exactly: `TICKET_MASTER_API_KEY` and `EVENTBRITE_API_KEY`
 
 ### "Invalid API key"
 - **Eventbrite**: Make sure you're using the **Private Token**, not the Public token
