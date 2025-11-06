@@ -10,10 +10,18 @@ const { deduplicateEvents } = require('./utils/dedupe');
 // Adapters
 const VisitCharlotteAdapter = require('./adapters/visitCharlotte');
 const EventbriteAdapter = require('./adapters/eventbrite');
+const CharlotteOnTheCheapAdapter = require('./adapters/charlotteOnTheCheap');
+const CLTTodayAdapter = require('./adapters/cltToday');
+const AxiosCharlotteAdapter = require('./adapters/axiosCharlotte');
+const UptownCharlotteAdapter = require('./adapters/uptownCharlotte');
 
 const ADAPTER_MAP = {
   visitCharlotte: VisitCharlotteAdapter,
-  eventbrite: EventbriteAdapter
+  eventbrite: EventbriteAdapter,
+  charlotteOnTheCheap: CharlotteOnTheCheapAdapter,
+  cltToday: CLTTodayAdapter,
+  axiosCharlotte: AxiosCharlotteAdapter,
+  uptownCharlotte: UptownCharlotteAdapter
 };
 
 class Crawler {

@@ -19,11 +19,48 @@
       "url": "https://www.eventbrite.com/d/nc--charlotte/events/"
     },
     {
+      "id": "charlotte-on-the-cheap",
+      "name": "Charlotte on the Cheap",
+      "enabled": true,
+      "adapter": "charlotteOnTheCheap",
+      "priority": 3,
+      "method": "scrape",
+      "url": "https://www.charlotteonthecheap.com/"
+    },
+    {
+      "id": "clt-today",
+      "name": "CLTToday",
+      "enabled": true,
+      "adapter": "cltToday",
+      "priority": 4,
+      "method": "scrape",
+      "url": "https://clttoday.6amcity.com/"
+    },
+    {
+      "id": "axios-charlotte",
+      "name": "Axios Charlotte",
+      "enabled": false,
+      "adapter": "axiosCharlotte",
+      "priority": 5,
+      "method": "scrape",
+      "url": "https://www.axios.com/local/charlotte",
+      "notes": "Disabled - returns 403 Forbidden (blocks scrapers)"
+    },
+    {
+      "id": "uptown-charlotte",
+      "name": "Uptown Charlotte Events",
+      "enabled": true,
+      "adapter": "uptownCharlotte",
+      "priority": 6,
+      "method": "scrape",
+      "url": "https://www.uptowncharlotte.com/events"
+    },
+    {
       "id": "charlotte-five",
       "name": "Charlotte Five",
       "enabled": false,
       "adapter": "charlotteFive",
-      "priority": 3,
+      "priority": 7,
       "method": "scrape",
       "url": "https://www.charlotteobserver.com/charlottefive/"
     },
@@ -32,7 +69,7 @@
       "name": "QCity Metro",
       "enabled": false,
       "adapter": "qcityMetro",
-      "priority": 4,
+      "priority": 8,
       "method": "scrape",
       "url": "https://qcitymetro.com/events/"
     }

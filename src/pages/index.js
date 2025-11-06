@@ -61,28 +61,15 @@ export default function Home({ events, updatedAt }) {
             This Weekend's Top Events 🎉
           </p>
           {updatedAt && (
-            <div className="mt-4 flex flex-col items-center gap-3">
-              <p className="text-sm text-gray-200">
-                Updated {new Date(updatedAt).toLocaleDateString('en-US', {
-                  month: 'long',
-                  day: 'numeric',
-                  year: 'numeric',
-                  hour: 'numeric',
-                  minute: '2-digit'
-                })}
-              </p>
-              <a
-                href="https://github.com/MorganHeinly08/charlotte-concierge/actions/workflows/deploy.yml"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 px-6 py-3 bg-white/20 hover:bg-white/30 text-white rounded-lg font-semibold transition-all duration-200 backdrop-blur-sm border border-white/30"
-              >
-                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-                </svg>
-                Refresh Events
-              </a>
-            </div>
+            <p className="text-sm text-gray-200 mt-4">
+              Updated {new Date(updatedAt).toLocaleDateString('en-US', {
+                month: 'long',
+                day: 'numeric',
+                year: 'numeric',
+                hour: 'numeric',
+                minute: '2-digit'
+              })} • Auto-refreshes weekly
+            </p>
           )}
         </div>
       </header>
@@ -120,9 +107,9 @@ export default function Home({ events, updatedAt }) {
         {/* Footer */}
         <footer className="mt-16 pt-8 border-t border-gray-700 text-center text-gray-400 text-sm">
           <p>
-            Events aggregated from Visit Charlotte, Eventbrite, and more.
+            Events aggregated from Eventbrite, Visit Charlotte, Charlotte on the Cheap, and more.
             <br />
-            Data refreshes weekly every Monday.
+            Data refreshes weekly every Monday at 10am EST.
           </p>
         </footer>
       </main>
