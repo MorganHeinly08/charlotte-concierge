@@ -1,0 +1,130 @@
+{
+  "scrape_start": "2025-11-06T21:46:33.235Z",
+  "scrape_end": "2025-11-06T21:46:33.250Z",
+  "duration_ms": 15,
+  "total_logs": 16,
+  "logs": [
+    {
+      "timestamp": "2025-11-06T21:46:33.235Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "🚀 Starting Charlotte event crawler..."
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.247Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "📡 Fetching from: Visit Charlotte"
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.248Z",
+      "level": "info",
+      "source": "Visit Charlotte",
+      "message": "Fetching https://www.charlottesgotalot.com/events"
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.248Z",
+      "level": "error",
+      "source": "Visit Charlotte",
+      "message": "Fetch failed for https://www.charlottesgotalot.com/events: fetch is not a function"
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.248Z",
+      "level": "error",
+      "source": "Visit Charlotte",
+      "message": "Adapter failed: fetch is not a function",
+      "status": "failed",
+      "error": "fetch is not a function"
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.248Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "📡 Fetching from: Eventbrite Charlotte"
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.248Z",
+      "level": "info",
+      "source": "Eventbrite Charlotte",
+      "message": "Fetching https://www.eventbrite.com/d/nc--charlotte/events/"
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.248Z",
+      "level": "error",
+      "source": "Eventbrite Charlotte",
+      "message": "Fetch failed for https://www.eventbrite.com/d/nc--charlotte/events/: fetch is not a function"
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.248Z",
+      "level": "error",
+      "source": "Eventbrite Charlotte",
+      "message": "Adapter failed: fetch is not a function",
+      "status": "failed",
+      "error": "fetch is not a function"
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.248Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Charlotte Five"
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.248Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: QCity Metro"
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.248Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "📝 Normalizing 0 raw events..."
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.248Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "🔍 Deduplicating events..."
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.249Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⭐ Ranking and filtering events..."
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.250Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "💾 Saved events to: /home/runner/work/charlotte-concierge/charlotte-concierge/data/events-2025-11-06.json"
+    },
+    {
+      "timestamp": "2025-11-06T21:46:33.250Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "💾 Updated latest.json"
+    }
+  ],
+  "summary": {
+    "total_events": 0,
+    "sources": {
+      "Crawler": {
+        "events": 0,
+        "errors": 0,
+        "status": "unknown"
+      },
+      "Visit Charlotte": {
+        "events": 0,
+        "errors": 2,
+        "status": "failed"
+      },
+      "Eventbrite Charlotte": {
+        "events": 0,
+        "errors": 2,
+        "status": "failed"
+      }
+    },
+    "errors": 4,
+    "warnings": 0
+  }
+}
