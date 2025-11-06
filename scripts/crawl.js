@@ -7,21 +7,31 @@ const Cache = require('./utils/cache');
 const { normalizeEvent } = require('./utils/normalize');
 const { deduplicateEvents } = require('./utils/dedupe');
 
-// Adapters
+// Adapters - API
+const TicketmasterAPIAdapter = require('./adapters/ticketmasterAPI');
+const EventbriteAPIAdapter = require('./adapters/eventbriteAPI');
+
+// Adapters - Scraping
 const VisitCharlotteAdapter = require('./adapters/visitCharlotte');
 const EventbriteAdapter = require('./adapters/eventbrite');
 const CharlotteOnTheCheapAdapter = require('./adapters/charlotteOnTheCheap');
 const CLTTodayAdapter = require('./adapters/cltToday');
 const AxiosCharlotteAdapter = require('./adapters/axiosCharlotte');
 const UptownCharlotteAdapter = require('./adapters/uptownCharlotte');
+const TicketmasterAdapter = require('./adapters/ticketmaster');
 
 const ADAPTER_MAP = {
+  // API Adapters
+  ticketmasterAPI: TicketmasterAPIAdapter,
+  eventbriteAPI: EventbriteAPIAdapter,
+  // Scraping Adapters
   visitCharlotte: VisitCharlotteAdapter,
   eventbrite: EventbriteAdapter,
   charlotteOnTheCheap: CharlotteOnTheCheapAdapter,
   cltToday: CLTTodayAdapter,
   axiosCharlotte: AxiosCharlotteAdapter,
-  uptownCharlotte: UptownCharlotteAdapter
+  uptownCharlotte: UptownCharlotteAdapter,
+  ticketmaster: TicketmasterAdapter
 };
 
 class Crawler {

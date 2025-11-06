@@ -77,19 +77,29 @@ charlotte-concierge/
    npm install
    ```
 
-3. **Run the crawler** (optional, to get fresh data)
+3. **Get API keys** (Required for Ticketmaster & Eventbrite)
+
+   See [API_SETUP.md](./API_SETUP.md) for detailed instructions.
+
+   Quick steps:
+   - Get Ticketmaster API key: https://developer.ticketmaster.com/
+   - Get Eventbrite API key: https://www.eventbrite.com/platform/api
+   - Copy `.env.example` to `.env`
+   - Add your API keys to `.env`
+
+4. **Run the crawler** (fetches fresh event data)
    ```bash
    npm run crawl
    ```
    This will fetch events from all enabled sources and save to `data/latest.json`
 
-4. **Start development server**
+5. **Start development server**
    ```bash
    npm run dev
    ```
    Open [http://localhost:3000](http://localhost:3000)
 
-5. **Build for production**
+6. **Build for production**
    ```bash
    npm run build
    ```

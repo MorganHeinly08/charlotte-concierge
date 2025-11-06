@@ -38,6 +38,8 @@ jobs:
         run: npm run crawl
         env:
           NODE_ENV: production
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+          EVENTBRITE_API_KEY: ${{ secrets.EVENTBRITE_API_KEY }}
 
       - name: Commit data (if changed)
         run: |

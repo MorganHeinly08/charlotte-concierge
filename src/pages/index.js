@@ -27,7 +27,10 @@ export default function Home({ events, updatedAt }) {
       }
 
       // Time filter
-      if (filters.timeFilter !== 'all' && event.start_datetime) {
+      if (filters.timeFilter !== 'all') {
+        // If event has no date, exclude it when specific time filter is selected
+        if (!event.start_datetime) return false;
+
         const eventDate = parseISO(event.start_datetime);
 
         switch (filters.timeFilter) {

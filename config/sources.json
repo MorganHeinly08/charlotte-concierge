@@ -1,77 +1,110 @@
 {
   "sources": [
     {
+      "id": "ticketmaster-api",
+      "name": "Ticketmaster API",
+      "enabled": true,
+      "adapter": "ticketmasterAPI",
+      "priority": 1,
+      "method": "api",
+      "url": "https://app.ticketmaster.com/discovery/v2/events"
+    },
+    {
+      "id": "eventbrite-api",
+      "name": "Eventbrite API",
+      "enabled": true,
+      "adapter": "eventbriteAPI",
+      "priority": 2,
+      "method": "api",
+      "url": "https://www.eventbriteapi.com/v3/events/search"
+    },
+    {
       "id": "visit-charlotte",
       "name": "Visit Charlotte",
       "enabled": true,
       "adapter": "visitCharlotte",
-      "priority": 1,
+      "priority": 3,
       "method": "scrape",
       "url": "https://www.charlottesgotalot.com/events"
     },
     {
       "id": "eventbrite",
       "name": "Eventbrite Charlotte",
-      "enabled": true,
+      "enabled": false,
       "adapter": "eventbrite",
-      "priority": 2,
+      "priority": 4,
       "method": "scrape",
-      "url": "https://www.eventbrite.com/d/nc--charlotte/events/"
+      "url": "https://www.eventbrite.com/d/nc--charlotte/events/",
+      "notes": "Disabled - using Eventbrite API instead"
     },
     {
       "id": "charlotte-on-the-cheap",
       "name": "Charlotte on the Cheap",
       "enabled": true,
       "adapter": "charlotteOnTheCheap",
-      "priority": 3,
+      "priority": 5,
       "method": "scrape",
       "url": "https://www.charlotteonthecheap.com/"
     },
     {
       "id": "clt-today",
       "name": "CLTToday",
-      "enabled": true,
+      "enabled": false,
       "adapter": "cltToday",
-      "priority": 4,
+      "priority": 6,
       "method": "scrape",
-      "url": "https://clttoday.6amcity.com/"
+      "url": "https://clttoday.6amcity.com/",
+      "notes": "Disabled - needs HTML selector tuning (0 events found)"
     },
     {
       "id": "axios-charlotte",
       "name": "Axios Charlotte",
       "enabled": false,
       "adapter": "axiosCharlotte",
-      "priority": 5,
+      "priority": 7,
       "method": "scrape",
       "url": "https://www.axios.com/local/charlotte",
       "notes": "Disabled - returns 403 Forbidden (blocks scrapers)"
     },
     {
+      "id": "ticketmaster",
+      "name": "Ticketmaster Charlotte",
+      "enabled": false,
+      "adapter": "ticketmaster",
+      "priority": 8,
+      "method": "scrape",
+      "url": "https://www.ticketmaster.com/discover/sports/charlotte",
+      "notes": "Disabled - using Ticketmaster API instead"
+    },
+    {
       "id": "uptown-charlotte",
       "name": "Uptown Charlotte Events",
-      "enabled": true,
+      "enabled": false,
       "adapter": "uptownCharlotte",
-      "priority": 6,
+      "priority": 9,
       "method": "scrape",
-      "url": "https://www.uptowncharlotte.com/events"
+      "url": "https://www.uptowncharlotte.com/events",
+      "notes": "Disabled - needs HTML selector tuning (0 events found)"
     },
     {
       "id": "charlotte-five",
       "name": "Charlotte Five",
       "enabled": false,
       "adapter": "charlotteFive",
-      "priority": 7,
+      "priority": 10,
       "method": "scrape",
-      "url": "https://www.charlotteobserver.com/charlottefive/"
+      "url": "https://www.charlotteobserver.com/charlottefive/",
+      "notes": "Disabled - not yet implemented"
     },
     {
       "id": "qcity-metro",
       "name": "QCity Metro",
       "enabled": false,
       "adapter": "qcityMetro",
-      "priority": 8,
+      "priority": 11,
       "method": "scrape",
-      "url": "https://qcitymetro.com/events/"
+      "url": "https://qcitymetro.com/events/",
+      "notes": "Disabled - not yet implemented"
     }
   ]
 }
