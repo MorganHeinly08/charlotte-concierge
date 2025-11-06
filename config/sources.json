@@ -1,0 +1,40 @@
+{
+  "sources": [
+    {
+      "id": "visit-charlotte",
+      "name": "Visit Charlotte",
+      "enabled": true,
+      "adapter": "visitCharlotte",
+      "priority": 1,
+      "method": "scrape",
+      "url": "https://www.charlottesgotalot.com/events"
+    },
+    {
+      "id": "eventbrite",
+      "name": "Eventbrite Charlotte",
+      "enabled": true,
+      "adapter": "eventbrite",
+      "priority": 2,
+      "method": "scrape",
+      "url": "https://www.eventbrite.com/d/nc--charlotte/events/"
+    },
+    {
+      "id": "charlotte-five",
+      "name": "Charlotte Five",
+      "enabled": false,
+      "adapter": "charlotteFive",
+      "priority": 3,
+      "method": "scrape",
+      "url": "https://www.charlotteobserver.com/charlottefive/"
+    },
+    {
+      "id": "qcity-metro",
+      "name": "QCity Metro",
+      "enabled": false,
+      "adapter": "qcityMetro",
+      "priority": 4,
+      "method": "scrape",
+      "url": "https://qcitymetro.com/events/"
+    }
+  ]
+}

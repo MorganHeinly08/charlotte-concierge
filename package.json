@@ -1,20 +1,29 @@
 {
   "name": "charlotte-concierge",
   "version": "1.0.0",
-  "description": "Charlotte NC concierge service",
+  "description": "Charlotte events aggregator - What's happening in Charlotte this weekend",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export": "next export"
+    "crawl": "node scripts/crawl.js",
+    "test": "jest",
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "^14.0.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "date-fns": "^3.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "rss-parser": "^3.13.0",
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.32",
-    "tailwindcss": "^3.3.6"
+    "tailwindcss": "^3.3.6",
+    "jest": "^29.7.0",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.0.3"
   }
 }
