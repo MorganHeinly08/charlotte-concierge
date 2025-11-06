@@ -12,11 +12,12 @@
     {
       "id": "eventbrite-api",
       "name": "Eventbrite API",
-      "enabled": true,
+      "enabled": false,
       "adapter": "eventbriteAPI",
       "priority": 2,
       "method": "api",
-      "url": "https://www.eventbriteapi.com/v3/events/search"
+      "url": "https://www.eventbriteapi.com/v3/events/search",
+      "notes": "Disabled - API endpoint returning 404 (needs troubleshooting)"
     },
     {
       "id": "visit-charlotte",

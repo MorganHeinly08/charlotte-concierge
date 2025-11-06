@@ -16,7 +16,8 @@ class EventbriteAPIAdapter extends BaseAdapter {
       'location.within': '25mi',
       'expand': 'venue,category',
       'page_size': 100,
-      'sort_by': 'date'
+      'sort_by': 'date',
+      'token': apiKey  // Try token as query parameter
     });
 
     const url = `https://www.eventbriteapi.com/v3/events/search/?${params}`;
@@ -24,7 +25,6 @@ class EventbriteAPIAdapter extends BaseAdapter {
     try {
       const response = await fetch(url, {
         headers: {
-          'Authorization': `Bearer ${apiKey}`,
           'Accept': 'application/json'
         }
       });
