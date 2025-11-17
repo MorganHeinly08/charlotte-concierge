@@ -1,0 +1,191 @@
+{
+  "scrape_start": "2025-11-17T15:28:16.478Z",
+  "scrape_end": "2025-11-17T15:28:18.053Z",
+  "duration_ms": 1575,
+  "total_logs": 25,
+  "logs": [
+    {
+      "timestamp": "2025-11-17T15:28:16.478Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "🚀 Starting Charlotte event crawler..."
+    },
+    {
+      "timestamp": "2025-11-17T15:28:16.487Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "📡 Fetching from: Ticketmaster API"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:17.217Z",
+      "level": "success",
+      "source": "Ticketmaster API",
+      "message": "Fetched 100 events",
+      "items_found": 100,
+      "status": "success"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:17.218Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Eventbrite API"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:17.218Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "📡 Fetching from: Visit Charlotte"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:17.220Z",
+      "level": "info",
+      "source": "Visit Charlotte",
+      "message": "Fetching https://www.charlottesgotalot.com/events"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:17.513Z",
+      "level": "error",
+      "source": "Visit Charlotte",
+      "message": "Fetch failed for https://www.charlottesgotalot.com/events: HTTP 403: Forbidden"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:17.514Z",
+      "level": "error",
+      "source": "Visit Charlotte",
+      "message": "Adapter failed: HTTP 403: Forbidden",
+      "status": "failed",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:17.514Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Eventbrite Charlotte"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:17.514Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "📡 Fetching from: Charlotte on the Cheap"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:17.516Z",
+      "level": "info",
+      "source": "Charlotte on the Cheap",
+      "message": "Fetching https://www.charlotteonthecheap.com/"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.039Z",
+      "level": "success",
+      "source": "Charlotte on the Cheap",
+      "message": "Fetched 41 events",
+      "items_found": 41,
+      "status": "success"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.039Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: CLTToday"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.039Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Axios Charlotte"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.039Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Ticketmaster Charlotte"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.040Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Uptown Charlotte Events"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.040Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Charlotte Five"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.040Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: QCity Metro"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.040Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "📝 Normalizing 141 raw events..."
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.044Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "🔍 Deduplicating events..."
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.046Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⭐ Ranking and filtering events..."
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.046Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "Filtering 131 events..."
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.046Z",
+      "level": "warn",
+      "source": "Crawler",
+      "message": "13 events have no start_datetime"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.052Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "💾 Saved events to: /home/runner/work/charlotte-concierge/charlotte-concierge/data/events-2025-11-17.json"
+    },
+    {
+      "timestamp": "2025-11-17T15:28:18.053Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "💾 Updated latest.json"
+    }
+  ],
+  "summary": {
+    "total_events": 141,
+    "sources": {
+      "Crawler": {
+        "events": 0,
+        "errors": 0,
+        "status": "unknown"
+      },
+      "Ticketmaster API": {
+        "events": 100,
+        "errors": 0,
+        "status": "success"
+      },
+      "Visit Charlotte": {
+        "events": 0,
+        "errors": 2,
+        "status": "failed"
+      },
+      "Charlotte on the Cheap": {
+        "events": 41,
+        "errors": 0,
+        "status": "success"
+      }
+    },
+    "errors": 2,
+    "warnings": 1
+  }
+}
