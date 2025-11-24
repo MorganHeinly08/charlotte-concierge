@@ -1,0 +1,3188 @@
+[
+  {
+    "id": "7fc2337c5e91a6cf26a7381b2f128df3884e871c",
+    "title": "CATTLE DECAPITATION NO FEAR FOR TOMORROW NORTH AMERICAN TOUR 2025",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:00pm Show: 7:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2025-11-29T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/c7e/31503c33-2d1f-4d99-95c5-36d208255c7e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/cattle-decapitation-no-fear-for-tomorrow-charlotte-north-carolina-11-28-2025/event/2D0062EAD46E6788",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "2df80ef234ddd599b596bd5a67149c6ac3efb564",
+    "title": "ARIEL PINK With You Every Night Tour 2025",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2025-11-26T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/322/1cd5744f-f064-49e3-8401-f95aeaa61322_445521_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/ariel-pink-with-you-every-night-charlotte-north-carolina-11-25-2025/event/2D00633696BB77C2",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 80
+  },
+  {
+    "id": "6f33b82abf22825185d02b6e1b38e00ad6d6c0ee",
+    "title": "Avatar - In The Airwaves - USA 2025",
+    "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:00PM Show: 7:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2025-11-30T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/c70/ad5b0544-bd0f-4bf9-840a-83741a08cc70_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/avatar-in-the-airwaves-usa-2025-charlotte-north-carolina-11-29-2025/event/2D0062B4B98781BB",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "24e7af07f8c8f008f742c2462d5afcf9266937ee",
+    "title": "On the Border - The Ultimate Eagles Tribute",
+    "description": "On the Border - The Ultimate Eagles Tribute at The Carolina",
+    "start_datetime": "2025-11-30T00:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "Carolina Theatre Charlotte Belk Place - 230 North Tryon",
+      "neighborhood": "",
+      "lat": 35.22827319,
+      "lng": -80.84086174
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/f2c/16cae6dd-e3d7-4921-9ada-082a3437bf2c_1631531_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/on-the-border-the-ultimate-eagles-charlotte-north-carolina-11-29-2025/event/2D00632AF2246FE1",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "90db6610a8ce2c93008c90b05083b69c4fc8201d",
+    "title": "Blind Boys of Alamaba - Christmas Show",
+    "description": "Blind Boys of Alamaba - Christmas Show at Neighborhood Theater",
+    "start_datetime": "2025-11-30T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theater",
+      "address": "511 E 36th Street",
+      "neighborhood": "",
+      "lat": 35.24809,
+      "lng": -80.80386
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/eeb/4a6046a5-dc4d-4338-afe8-07d2b2379eeb_43281_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://wl.eventim.us/event/BLIND-BOYS-OF-ALABAMA-Christmas-Show/664821?afflky=MaxxMusic",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "374f88a701bb98e0c7bf242da8f5c13465d853bb",
+    "title": "Who's Bad - The Ultimate Michael Jackson Experience",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2025-11-30T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/153/45862c01-54ae-4a87-9f68-eeae4b15d153_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/whos-bad-the-ultimate-michael-jackson-charlotte-north-carolina-11-29-2025/event/2D006343DA9D999E",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "bf2b84d5c09c2a123b5027ef6cc9d284b29220b2",
+    "title": "Blind Boys of Alabama",
+    "description": "Blind Boys of Alabama at Neighborhood Theatre",
+    "start_datetime": "2025-11-30T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre",
+      "address": "511 East 36th St",
+      "neighborhood": "",
+      "lat": 35.219002,
+      "lng": -80.787598
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/6f9/6ec96eec-c387-42bd-89d7-c500b61756f9_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7jpOV",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "097e8e71ff1be2b0db175a7a4a500c41c110f278",
+    "title": "LITTLE IMAGE with Carver Commodore",
+    "description": "General Admission Standing Room Only. 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.) All Sales are Final, No Refunds",
+    "start_datetime": "2025-12-01T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Tap Room",
+      "address": "511 E 36th St, Charlotte",
+      "neighborhood": "",
+      "lat": 35.24779,
+      "lng": -80.0403
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/b9f/2bf6f3ca-581a-4b2a-a132-d1325c73bb9f_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/little-image-with-carver-commodore-charlotte-north-carolina-11-30-2025/event/2D00633AC02D8575",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "91289ee8fa2d549e9d2a133fc907ec3521a0fee7",
+    "title": "GUNNA - Wun World Tour",
+    "description": "Doors 7:00pm. Show 8:00pm. Parking is included in the ticket price. All purchase transactions will be cashless. Purchases can be made with a debit card or credit card; matching ID required. Concessions will be available. All dates, acts, & ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of sale. Any non-clear bag larger than 4.5\" x 6.5\" and clear bags larger than 12\" x 6\" x 12\" are not allowed.",
+    "start_datetime": "2025-12-01T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bojangles Coliseum",
+      "address": "2700 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/321/74eee5b1-1c76-4ca9-8ac3-12d96d58c321_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/gunna-wun-world-tour-charlotte-north-carolina-11-30-2025/event/2D006342C91FA028",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "57d6a85e7c408af5bb44321d6842d35e2d4be282",
+    "title": "J.I.D - God Does Like Paradise Tour",
+    "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2025-12-01T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/d5e/3153fb6e-9c03-424a-8be8-3f8e3860fd5e_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/jid-god-does-like-paradise-tour-charlotte-north-carolina-11-30-2025/event/2D00630F85EC1C4D",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "eaa9b0a5683b2f28df3e20f60854b7e478005aa3",
+    "title": "Yung Gravy: Voluptuous Voyage Tour",
+    "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2025-12-05T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/4a0/90e44e7b-6ed3-4bf1-a921-b173b33154a0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/yung-gravy-voluptuous-voyage-tour-charlotte-north-carolina-12-04-2025/event/2D0062E8AE9F2BF1",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "1767361156633d771a1fac852372e61643cef211",
+    "title": "Alabama",
+    "description": "Alabama at Spectrum Center",
+    "start_datetime": "2025-12-06T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/860/81b83151-ada6-4538-b795-0839d6370860_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/alabama-charlotte-north-carolina-12-05-2025/event/2D0062E9BBFE385D",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "8fc808d797119a9af9acb3f4d772b607492f8055",
+    "title": "Mark O'Connor's An Appalachian Christmas featuring Maggie O'Connor",
+    "description": "Featuring songs from their upcoming new album A Christmas Duet, Grammy Award winning Americana, bluegrass, classical and jazz artists Mark and Maggie OConnor bring their annual holiday tour, An Appalachian Christmas, to the Carolina Theatre for the first time.",
+    "start_datetime": "2025-12-06T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "Carolina Theatre Charlotte Belk Place - 230 North Tryon",
+      "neighborhood": "",
+      "lat": 35.22827319,
+      "lng": -80.84086174
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/004/c1581aae-ea20-4d89-aa6e-bc1d6f73e004_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/mark-oconnors-an-appalachian-christmas-featuring-charlotte-north-carolina-12-05-2025/event/2D006283DFE786E8",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "7cca5df1a30b93de49a5309cc940477ae2450008",
+    "title": "Camila: Regresa Tour",
+    "description": "Doors 7pm. Show 8pm. Parking is included in the ticket price. Ticket delivery will be mobile only. All purchase transactions will be cashless. Purchases can be made with a debit card or credit card; matching ID required. Concessions will be available. All dates, acts, & ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of sale. Any non-clear bag larger than 4.5\" x 6.5\" and clear bags larger than 12\" x 6\" x 12\" are not allowed.",
+    "start_datetime": "2025-12-06T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Ovens Auditorium",
+      "address": "2900 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/591/c1c0cbe2-a17a-4adb-9c7a-5e4cd3dda591_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/camila-regresa-tour-charlotte-north-carolina-12-05-2025/event/2D006337A8984DB0",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "a47247dfb566f8305118889cc28355b972809e0a",
+    "title": "Troyboi (18 and Over)",
+    "description": "Troyboi (18 and Over) at Blackbox Theater - Charlotte",
+    "start_datetime": "2025-12-06T03:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Blackbox Theater - Charlotte",
+      "address": "421 East Sugar Creek Rd",
+      "neighborhood": "",
+      "lat": 35.2897,
+      "lng": -80.730202
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/255/148b3190-4bbe-4d24-b29a-0758187a4255_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_IP6",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "a32cd87bd113aa995567b96cc5c66ec68f2e8dac",
+    "title": "Charlotte Checkers vs. Toronto Marlies",
+    "description": "Charlotte Checkers vs. Toronto Marlies at Bojangles Coliseum",
+    "start_datetime": "2025-11-28T21:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bojangles Coliseum",
+      "address": "2700 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/8d9/818ee4bb-df3e-4d58-8468-c23e293418d9_851601_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-checkers-vs-toronto-marlies-charlotte-north-carolina-11-28-2025/event/2D00631AE6896453",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "ffba6a75b3b0a81c28f232ac44c64d6d76fe0e14",
+    "title": "Charlotte Hornets vs. Chicago Bulls (NBA Emirates Cup Group Game)",
+    "description": "Charlotte Hornets vs. Chicago Bulls (NBA Emirates Cup Group Game) at Spectrum Center",
+    "start_datetime": "2025-11-29T00:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "sports",
+      "hornets"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/f48/2869041d-ebac-48fb-bf4f-54e797fa4f48_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-hornets-vs-chicago-bulls-nba-charlotte-north-carolina-11-28-2025/event/2D0062F9B4C4984E",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "789ac610cc66d2657d938ef119b9dec59f082d6c",
+    "title": "MLS Cup Playoffs Eastern Finals: Charlotte FC vs. TBD",
+    "description": "Unfortunately, the Event Organizer has had to cancel your event. You don't need to do a thing. We'll issue a refund to the original method of payment used at time of purchase, as soon as funds are received from the Event Organizer. It should appear on your account within 14-21 days. Please Note: If the tickets were transferred to you, the refund will go to the fan who originally purchased the tickets from Ticketmaster. Please see our Purchase Policy for more information.",
+    "start_datetime": "2025-11-29T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "sports",
+      "soccer"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/f6e/308835c9-2787-46e7-b887-3fe19dcc6f6e_1556291_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/mls-cup-playoffs-eastern-finals-charlotte-charlotte-north-carolina-11-29-2025/event/2D006338E1C67F5F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "63d8528b25ab329b421182459fa9d23be71dc1a7",
+    "title": "Charlotte Checkers vs. Toronto Marlies",
+    "description": "Charlotte Checkers vs. Toronto Marlies at Bojangles Coliseum",
+    "start_datetime": "2025-11-29T21:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bojangles Coliseum",
+      "address": "2700 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/8d9/818ee4bb-df3e-4d58-8468-c23e293418d9_851601_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-checkers-vs-toronto-marlies-charlotte-north-carolina-11-29-2025/event/2D00631AE68B6459",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "f68e83a3a6afada6368fb1f18b89b2bf895bbb17",
+    "title": "Charlotte Hornets vs. Toronto Raptors",
+    "description": "Charlotte Hornets vs. Toronto Raptors at Spectrum Center",
+    "start_datetime": "2025-11-29T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "sports",
+      "hornets"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/f48/2869041d-ebac-48fb-bf4f-54e797fa4f48_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-hornets-vs-toronto-raptors-charlotte-north-carolina-11-29-2025/event/2D0062F9B4C69853",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "cd5f7b08449816d311bf2090dbfad95ebcb60bbb",
+    "title": "PARTYOF2 - AMERIKA'S NEXT TOP PARTY! TOUR",
+    "description": "General Admission Standing Room Only. 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.) All Sales are Final, No Refunds",
+    "start_datetime": "2025-12-02T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Tap Room",
+      "address": "511 E 36th St, Charlotte",
+      "neighborhood": "",
+      "lat": 35.24779,
+      "lng": -80.0403
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/a38/1992bff2-b658-4700-b34c-9ae2879eaa38_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/partyof2-amerikas-next-top-party-tour-charlotte-north-carolina-12-01-2025/event/2D00632BD9A96770",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "6f310c6ad1fd9518e0b5449d88bc996be3ff5451",
+    "title": "Charlotte Hornets vs. New York Knicks (NBA Emirates Cup Group Game)",
+    "description": "Charlotte Hornets vs. New York Knicks (NBA Emirates Cup Group Game) at Spectrum Center",
+    "start_datetime": "2025-11-27T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "sports",
+      "hornets"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/f48/2869041d-ebac-48fb-bf4f-54e797fa4f48_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-hornets-vs-new-york-knicks-charlotte-north-carolina-11-26-2025/event/2D0062F9B4C2984C",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 60
+  },
+  {
+    "id": "7e012fb1b2b5827bd0c4a7dff6390623a2c546b8",
+    "title": "Roy Wood Jr.: The Man of Many Fathers Book Tour",
+    "description": "All Ages Welcome Doors: 6:30PM Show: 7:30PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase. Each ticket includes Roy Woods book The Man of Many Fathers: Life Lessons Disguised as a Memoir",
+    "start_datetime": "2025-11-29T00:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "entertainment"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/f2e/80bc7e36-9afc-486b-9eb0-8166fabb8f2e_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/roy-wood-jr-the-man-of-charlotte-north-carolina-11-28-2025/event/2D00631BD7415A1F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "arts & theatre"
+    ],
+    "_rank_score": 60
+  },
+  {
+    "id": "927ff9167dd36f5b3a72038e5141fcabf1d3df63",
+    "title": "Fortune Feimster: Takin' Care of Biscuits Comedy Tour",
+    "description": "Parking is included in the ticket price. Ticket delivery will be mobile only. All purchase transactions will be cashless. Purchases can be made with a debit card or credit card; matching ID required. Concessions will be available. All dates, acts, & ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of sale. Any non-clear bag larger than 4.5\" x 6.5\" and clear bags larger than 12\" x 6\" x 12\" are not allowed. These include but are not limited to: backpacks, briefcases, camera bags, cinch bags, computer bags, fanny packs, coolers of any kind and luggage of any kind.",
+    "start_datetime": "2025-11-29T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Ovens Auditorium",
+      "address": "2900 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "entertainment"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/276/47149ce4-970f-43e2-9440-dc698662d276_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/fortune-feimster-takin-care-of-biscuits-charlotte-north-carolina-11-28-2025/event/2D006273A0B03477",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "arts & theatre"
+    ],
+    "_rank_score": 60
+  },
+  {
+    "id": "624a67c69b223d6d83be93024fcc26dc1be4ee97",
+    "title": "Diva Royale Drag Queen Show - 21+",
+    "description": "Diva Royale Drag Queen Show - 21+ at 321 Bar & Lounge",
+    "start_datetime": "2025-11-29T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "321 Bar & Lounge",
+      "address": "321 N Caldwell St #100",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7__-M",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "8d3d0f044f02cd39d130e7239571ef05d234d3ce",
+    "title": "HunkOMania Male Revue - 18+",
+    "description": "HunkOMania Male Revue - 18+ at Mansion Nights Club",
+    "start_datetime": "2025-11-29T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Mansion Nights Club",
+      "address": "1212 Pecan Ave",
+      "neighborhood": "",
+      "lat": 35.219002,
+      "lng": -80.787598
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_kb3",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "03abc1c516e22b2d015d733fea5494ecd4c33e3f",
+    "title": "Carolina Panthers v Los Angeles Rams",
+    "description": "Bank of America Stadium was designed for fans of all ages. Please note that every child over the age of 12 months is required to have a game ticket to enter the stadium. Any child under the age of 12 months admitted without a ticket must share a seat with an accompanying adult. Please be aware that this event is subject to NFL flexible scheduling procedures. The date and time for some games may change from what is currently reflected on the schedule and from what may appear on the ticket. For more detailed information regarding scheduling for the 2025 NFL Season, please visit https://www.nfl.com/schedules/flexible-scheduling-procedures",
+    "start_datetime": "2025-11-30T18:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "sports",
+      "panthers"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/340/8f54cfaa-27bc-4e1d-a7ea-dd5e71782340_1325021_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/carolina-panthers-v-los-angeles-rams-charlotte-north-carolina-11-30-2025/event/2D00627B9EDE594E",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "b1cf9230170f03a59293b96601f5bf2311de4695",
+    "title": "Panthers VIP Tailgate v. Rams at South Lawn Village",
+    "description": "The Ultimate Tailgate Experience for the 2025-26 Panthers Season Located in South Lawn directly NEXT to Bank of America Stadium If you are a diehard Panthers fan and you want a VIP tailgating experience, check out the Panthers VIP Tailgate game day experience. Open three hours prior to kickoff for Panthers and opposing team fans. Come watch the ESPN pre-game breakdown All food and drinks (bar) are included in price All you can eat premium food stations exclusively created by Food Network Celebrity Chef Aaron May Live DJ Music Xbox gaming area inside the Panthers VIP tailgate",
+    "start_datetime": "2025-11-30T18:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "sports",
+      "panthers"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/da0/9ec17ede-a096-459e-b2b0-100a4081eda0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/panthers-vip-tailgate-v-rams-at-charlotte-north-carolina-11-30-2025/event/2D00631999249C19",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "24e7663f27fe5f48550b52ef0e5e0e01c9d17416",
+    "title": "Charlotte Invitational",
+    "description": "Charlotte Invitational at Spectrum Center",
+    "start_datetime": "2025-12-05T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/09e/0941ae05-33f1-4785-b362-bb85837d309e_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-invitational-charlotte-north-carolina-12-04-2025/event/2D0062F7BBA86257",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "98d68ee110d13585640ddee44b5eb89f855fffae",
+    "title": "Charlotte Checkers vs. Rochester Americans",
+    "description": "Charlotte Checkers vs. Rochester Americans at Bojangles Coliseum",
+    "start_datetime": "2025-12-06T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bojangles Coliseum",
+      "address": "2700 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/8d9/818ee4bb-df3e-4d58-8468-c23e293418d9_851601_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-checkers-vs-rochester-americans-charlotte-north-carolina-12-05-2025/event/2D00631AE68D645F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "629ef80e087601418659597736c07073537c9e03",
+    "title": "Virginia vs. Dayton",
+    "description": "Virginia vs. Dayton at Spectrum Center",
+    "start_datetime": "2025-12-06T17:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/d88/4fe3b6d5-6906-4a35-83c9-16308873fd88_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/virginia-vs-dayton-charlotte-north-carolina-12-06-2025/event/2D00635D058DDF40",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "e686a8c0cc2b96d0f6606c6df9882ed85c9ce09f",
+    "title": "Suite Access Pass - Hornets vs. Bulls",
+    "description": "Suite Access Pass - Hornets vs. Bulls at Spectrum Center",
+    "start_datetime": "2025-11-29T00:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 E Trade St",
+      "neighborhood": "Uptown",
+      "lat": 35.22506060000002,
+      "lng": -80.8393335
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 52
+  },
+  {
+    "id": "928de6a6050b6612c0cc2af68d58e0c23fea142d",
+    "title": "Postgame Pass - Section 103",
+    "description": "Postgame Pass - Section 103 at Spectrum Center",
+    "start_datetime": "2025-11-29T00:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade",
+      "neighborhood": "Uptown",
+      "lat": 35.22506060000002,
+      "lng": -80.8393335
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 52
+  },
+  {
+    "id": "0b03d02dc16d1797628e95c62160ce1242dfd36c",
+    "title": "Postgame Pass - Section 107",
+    "description": "Postgame Pass - Section 107 at Spectrum Center",
+    "start_datetime": "2025-11-29T00:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade",
+      "neighborhood": "Uptown",
+      "lat": 35.22506060000002,
+      "lng": -80.8393335
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 52
+  },
+  {
+    "id": "281c7716b6507fae7feabefba4420873ef491951",
+    "title": "Suite Access Pass - Hornets vs. Raptors",
+    "description": "Suite Access Pass - Hornets vs. Raptors at Spectrum Center",
+    "start_datetime": "2025-11-29T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 E Trade St",
+      "neighborhood": "Uptown",
+      "lat": 35.22506060000002,
+      "lng": -80.8393335
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 52
+  },
+  {
+    "id": "2f6e17504f025f99a13f28b0708704d84f9f49b8",
+    "title": "Mark Curry",
+    "description": "Land & Sea Restaurant will provide food for the show and your meals can be ordered via QR Code located on your table. Once your food is ordered you will receive a text message to pick your order up from the food station located at the rear of the venue. Meals are not included in the price of your ticket.",
+    "start_datetime": "2025-12-06T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Headliners Uptown Charlotte",
+      "address": "225 East 6th Street Suite A",
+      "neighborhood": "",
+      "lat": 35.227646,
+      "lng": -80.838947
+    },
+    "category": [
+      "entertainment"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/782/ddcdf1dd-7a73-42b0-b400-c06287980782_1099961_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z",
+      "merged_from": "Ticketmaster API"
+    },
+    "url": "https://www.ticketmaster.com/mark-curry-charlotte-north-carolina-12-05-2025/event/2D0063330AC8A520",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "arts & theatre"
+    ],
+    "_rank_score": 50
+  },
+  {
+    "id": "66ea0c788511eefe39d6fa4dfad64f989506bc20",
+    "title": "Robyn & Charlotte present: YULE Y'ALL! (18+)",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+    "start_datetime": "2025-12-06T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Main Room",
+      "address": "511 E 36th St",
+      "neighborhood": "",
+      "lat": 35.247447,
+      "lng": -80.803888
+    },
+    "category": [
+      "entertainment"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/3b7/f138cf42-21ea-4bbf-8239-4d2e7c91c3b7_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/robyn-charlotte-present-yule-yall-18-charlotte-north-carolina-12-05-2025/event/2D006348D98A9E02",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "arts & theatre"
+    ],
+    "_rank_score": 50
+  },
+  {
+    "id": "baa522cb980813ce5a21cba9abea013ac1be8558",
+    "title": "Levy Ticket Testing",
+    "description": "Levy Ticket Testing at Spectrum Center",
+    "start_datetime": "2025-11-26T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 E Trade St",
+      "neighborhood": "Uptown",
+      "lat": 35.22506060000002,
+      "lng": -80.8393335
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 47
+  },
+  {
+    "id": "bb1024b038059e4431bd02e3ec55a43ff1f0e554",
+    "title": "Postgame Pass - Section 103",
+    "description": "Postgame Pass - Section 103 at Spectrum Center",
+    "start_datetime": "2025-11-27T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade",
+      "neighborhood": "Uptown",
+      "lat": 35.22506060000002,
+      "lng": -80.8393335
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 47
+  },
+  {
+    "id": "87a0e6c2b49399b065f76a68b69cdec52baf3d59",
+    "title": "Suite Access Pass - Hornets vs. Knicks",
+    "description": "Suite Access Pass - Hornets vs. Knicks at Spectrum Center",
+    "start_datetime": "2025-11-27T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 E Trade St",
+      "neighborhood": "Uptown",
+      "lat": 35.22506060000002,
+      "lng": -80.8393335
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 47
+  },
+  {
+    "id": "c560bd3f8c4b3f59503d898b41334eb9fc8d6357",
+    "title": "Postgame Pass - Section 107",
+    "description": "Postgame Pass - Section 107 at Spectrum Center",
+    "start_datetime": "2025-11-27T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade",
+      "neighborhood": "Uptown",
+      "lat": 35.22506060000002,
+      "lng": -80.8393335
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 47
+  },
+  {
+    "id": "0db61fcf5b31f3125d0f5885fdd76b616ce4502a",
+    "title": "Diva Royale Drag Queen Show - 21+",
+    "description": "Diva Royale Drag Queen Show - 21+ at 321 Bar & Lounge",
+    "start_datetime": "2025-11-30T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "321 Bar & Lounge",
+      "address": "321 N Caldwell St #100",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7__-z",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "2dd1b089867031396c337a0d3745a06987aee50d",
+    "title": "HunkOMania Male Revue - 18+",
+    "description": "HunkOMania Male Revue - 18+ at Mansion Nights Club",
+    "start_datetime": "2025-11-30T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Mansion Nights Club",
+      "address": "1212 Pecan Ave",
+      "neighborhood": "",
+      "lat": 35.219002,
+      "lng": -80.787598
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_kbf",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "239933ba9c1157c9a09cd4ec07870b2a56eaf4cc",
+    "title": "Overdrive V2 (21 and Over)",
+    "description": "Overdrive V2 (21 and Over) at Blackbox Theater - Charlotte",
+    "start_datetime": "2025-11-30T03:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Blackbox Theater - Charlotte",
+      "address": "421 East Sugar Creek Rd",
+      "neighborhood": "",
+      "lat": 35.2897,
+      "lng": -80.730202
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7q_bE",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "88fc488f951d96f01d62d1d9ff39c2183cd656ac",
+    "title": "Real Boston Richey",
+    "description": "Real Boston Richey at Hive Night Club",
+    "start_datetime": "2025-11-30T03:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Hive Night Club",
+      "address": "300 N College St",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7r3ud",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "1fa2c534396c314889ce896d58bdd6921c8df1f7",
+    "title": "Carolina Panthers VIP Tailgate",
+    "description": "Carolina Panthers VIP Tailgate at South Lawn at Bank of America Stadium",
+    "start_datetime": "2025-11-30T15:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "South Lawn at Bank of America Stadium",
+      "address": "800 South Mint St",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_eZJ",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "8aa9bd420c3bfb1df147883f3d7b491285e2dbe6",
+    "title": "Registix Reserve Access NOT a Game Ticket - Rams v Panthers",
+    "description": "THIS IS NOT A GAME TICKET. A separate game ticket is required to enter the stadium before entering The Registix Reserve. Enjoy an all-inclusive bar with craft cocktails, beer, wine, and numerous culinary options with premium entrees, snacks, and desserts. Get as close to the action as possible from field-side access. Watch players warm up steps away in pregame and feel the pulse of all the action throughout the game. The Registix Reserve can be accessed from when stadium gates open until (60) minutes after the game's conclusion.",
+    "start_datetime": "2025-11-30T18:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/0e7/381f694d-0fac-45e9-a5f1-d98ea29b70e7_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "https://www.ticketmaster.com/registix-reserve-access-not-a-game-charlotte-north-carolina-11-30-2025/event/2D006297E6C884C0",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "miscellaneous"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "e524ff005427e129af8cc374540cbc7e31184cde",
+    "title": "Diva Royale Drag Queen Show - 21+",
+    "description": "Diva Royale Drag Queen Show - 21+ at 321 Bar & Lounge",
+    "start_datetime": "2025-12-06T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "321 Bar & Lounge",
+      "address": "321 N Caldwell St #100",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7__-y",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "ad6e033e088751a9b1b661a1061c81ef5a9ce302",
+    "title": "HunkOMania Male Revue - 18+",
+    "description": "HunkOMania Male Revue - 18+ at Mansion Nights Club",
+    "start_datetime": "2025-12-06T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Mansion Nights Club",
+      "address": "1212 Pecan Ave",
+      "neighborhood": "",
+      "lat": 35.219002,
+      "lng": -80.787598
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_kbp",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "353cbea5eb1bc6c94355ddf8f0898162ad7f5bda",
+    "title": "ACC Football Championship Gridiron Tickets",
+    "description": "ACC Football Championship Gridiron Tickets at Bank of America Stadium",
+    "start_datetime": "2025-12-07T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "sports",
+      "panthers"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/60b/327dc6a7-6200-4179-9a51-c5951db1c60b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://am.ticketmaster.com/atlanticcoast/buy/ism/QUNDMjAyNQ==?promoCode=R1JJRElST04yNQ==",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "9276ba53e70e5bf3b8be44c1fee56ddb3f3642b3",
+    "title": "ACC Football Championship Game - Vault Experience",
+    "description": "ACC Football Championship Game - Vault Experience at Bank of America Stadium",
+    "start_datetime": "2025-12-07T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "sports",
+      "panthers"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/60b/327dc6a7-6200-4179-9a51-c5951db1c60b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://am.ticketmaster.com/atlanticcoast/buy/ism/QUNDMjAyNQ==?promoCode=VkFVTFQyNQ==",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "16aba3ed51c6731cd6ce5ca6d088a381a388aaeb",
+    "title": "Gallery Access - MLS Playoffs Eastern Conf Finals",
+    "description": "Gallery Access - MLS Playoffs Eastern Conf Finals at Bank of America Stadium",
+    "start_datetime": "2025-11-30T00:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225629,
+      "lng": -80.85273999999998
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "b72dc87afccf63fa8174480b78dd5d4dca99ad61",
+    "title": "Registix Reserve Access - MLS Playoffs Conf Finals",
+    "description": "Registix Reserve Access - MLS Playoffs Conf Finals at Bank of America Stadium",
+    "start_datetime": "2025-11-30T00:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225629,
+      "lng": -80.85273999999998
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "b188bb155418e7ea1c9b49cb8517e9d8ce5d4b51",
+    "title": "Suite Premium - MLS Playoffs Eastern Conference Finals",
+    "description": "Suite Premium - MLS Playoffs Eastern Conference Finals at Bank of America Stadium",
+    "start_datetime": "2025-11-30T00:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225629,
+      "lng": -80.85273999999998
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "b6ca09553d6bedc5a58f9ec29a6ca6821283ed5f",
+    "title": "2025 fifty3 Access Passes",
+    "description": "2025 fifty3 Access Passes at Bank of America Stadium",
+    "start_datetime": "2025-11-30T18:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225629,
+      "lng": -80.85273999999998
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "e3aa5eb5c93445fbecac1717905d833c55bd121e",
+    "title": "2025 Ste. Prem - LAR",
+    "description": "2025 Ste. Prem - LAR at Bank of America Stadium",
+    "start_datetime": "2025-11-30T18:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225629,
+      "lng": -80.85273999999998
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "8bc99fe0a3789fe1e21fea8d10fd4fe85150ffff",
+    "title": "2025 PNC Music Pavilion Season",
+    "description": "2025 PNC Music Pavilion Season at PNC Music Pavilion",
+    "start_datetime": "2025-12-01T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "PNC Music Pavilion",
+      "address": "707 Pavilion Boulevard",
+      "neighborhood": "University",
+      "lat": 35.32735,
+      "lng": -80.71126400000003
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.980Z",
+      "merged_from": "Ticketmaster API"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "1b58d4a6c8db39f37bb622a5ae91ad904b30a4b6",
+    "title": "2025 PNC Music Pavilion Threshold Credit",
+    "description": "2025 PNC Music Pavilion Threshold Credit at PNC Music Pavilion",
+    "start_datetime": "2025-12-01T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "PNC Music Pavilion",
+      "address": "707 Pavilion Boulevard",
+      "neighborhood": "University",
+      "lat": 35.32735,
+      "lng": -80.71126400000003
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z",
+      "merged_from": "Ticketmaster API"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "e7db4f6ae255d20a617c2abb7b6b25d094239bf1",
+    "title": "2025 Skyla Credit Union Amp Season",
+    "description": "2025 Skyla Credit Union Amp Season at Skyla Credit Union Amp",
+    "start_datetime": "2025-12-01T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Skyla Credit Union Amp",
+      "address": "1000 NC Music Factory Blvd",
+      "neighborhood": "",
+      "lat": 35.239793,
+      "lng": -80.845042
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z",
+      "merged_from": "Ticketmaster API"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "6e57cd266c415180db087d4e053cb6ff450deed3",
+    "title": "2025 Skyla Credit Union Amphitheatre Series",
+    "description": "2025 Skyla Credit Union Amphitheatre Series at Skyla Credit Union Amp",
+    "start_datetime": "2025-12-01T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Skyla Credit Union Amp",
+      "address": "1000 NC Music Factory Blvd",
+      "neighborhood": "",
+      "lat": 35.239793,
+      "lng": -80.845042
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "1e5c3342cef2e98cec6fcd9db2d9fc099a80b480",
+    "title": "2025 PNC Music Pavilion Ticketbank",
+    "description": "2025 PNC Music Pavilion Ticketbank at PNC Music Pavilion",
+    "start_datetime": "2025-12-01T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "PNC Music Pavilion",
+      "address": "707 Pavilion Boulevard",
+      "neighborhood": "University",
+      "lat": 35.32735,
+      "lng": -80.71126400000003
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "15d00b4202a1c80882144d244c1d4d4191d5ace3",
+    "title": "2025 PNC Music Pavilion Series",
+    "description": "2025 PNC Music Pavilion Series at PNC Music Pavilion",
+    "start_datetime": "2025-12-01T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "PNC Music Pavilion",
+      "address": "707 Pavilion Boulevard",
+      "neighborhood": "University",
+      "lat": 35.32735,
+      "lng": -80.71126400000003
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "ba3e0f049ff915b32d82a2d1d978cd0f69a3197a",
+    "title": "Charlotte Invitational Luxury",
+    "description": "Charlotte Invitational Luxury at Spectrum Center",
+    "start_datetime": "2025-12-05T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 E Trade St",
+      "neighborhood": "Uptown",
+      "lat": 35.22506060000002,
+      "lng": -80.8393335
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "367c538b0eb38ca4816b9360a1b4a58caf4300d6",
+    "title": "Alabama Luxury",
+    "description": "Alabama Luxury at Spectrum Center",
+    "start_datetime": "2025-12-06T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 E Trade St",
+      "neighborhood": "Uptown",
+      "lat": 35.22506060000002,
+      "lng": -80.8393335
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "64f4851a30f4d9e6009f59ad56dc69813466bf79",
+    "title": "Virginia vs Dayton Men's Basketball",
+    "description": "Virginia vs Dayton Men's Basketball at Spectrum Center",
+    "start_datetime": "2025-12-06T17:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 E Trade St",
+      "neighborhood": "Uptown",
+      "lat": 35.22506060000002,
+      "lng": -80.8393335
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "9ecaaad8844742ba2df42612943445be872c1d23",
+    "title": "ACC VIP Tailgate at South Lawn",
+    "description": "ACC VIP Tailgate at South Lawn at Bank of America Stadium",
+    "start_datetime": "2025-12-06T21:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.22579499999999,
+      "lng": -80.852842
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "769a05e515bfad53ca8736dd947cb8ee1145628b",
+    "title": "ACCFCG Pre-Game On-Field Experience",
+    "description": "ACCFCG Pre-Game On-Field Experience at Bank of America Stadium",
+    "start_datetime": "2025-12-06T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.22579499999999,
+      "lng": -80.852842
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 42
+  },
+  {
+    "id": "0750f646fed47da3b4df54208261a045c0ab01a7",
+    "title": "Mark Curry",
+    "description": "Land & Sea Restaurant will provide food for the show and your meals can be ordered via QR Code located on your table. Once your food is ordered you will receive a text message to pick your order up from the food station located at the rear of the venue. Meals are not included in the price of your ticket.",
+    "start_datetime": "2025-12-07T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Headliners Uptown Charlotte",
+      "address": "225 East 6th Street Suite A",
+      "neighborhood": "",
+      "lat": 35.227646,
+      "lng": -80.838947
+    },
+    "category": [
+      "entertainment"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/782/ddcdf1dd-7a73-42b0-b400-c06287980782_1099961_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/mark-curry-charlotte-north-carolina-12-06-2025/event/2D0063330AD2A544",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "arts & theatre"
+    ],
+    "_rank_score": 40
+  },
+  {
+    "id": "c0c8b98c55be1c84ca08e41e1c0daab45b1fb161",
+    "title": "Franklin Presents: My Christmas",
+    "description": "This year, Vince Guaraldis iconic jazz album A Charlie Brown Christmas turns 60. Join us as we reimagine the classic tracks through the lens of the fictional Franklin character from Charles Schultzs Peanuts. This one night only, all ages event will fuse soulful reinterpretations, contemporary jazz, and funk infused arrangements to honor the original work while offering a vibrant new take. This production celebrates not just a cherished album, but a broader legacy of visibility, creativity, and inclusion in American culture. We will see you on December 6th at 8 pm at the new Carolina Theatre as we bring you a night of unforgettable Holiday magic.",
+    "start_datetime": "2025-12-07T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "Carolina Theatre Charlotte Belk Place - 230 North Tryon",
+      "neighborhood": "",
+      "lat": 35.22827319,
+      "lng": -80.84086174
+    },
+    "category": [
+      "entertainment"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/b20/5f6ff66c-354c-4b0c-8daa-9fdbe8e03b20_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/franklin-presents-my-christmas-charlotte-north-carolina-12-06-2025/event/2D0062F1E2EA8D3F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "arts & theatre"
+    ],
+    "_rank_score": 40
+  },
+  {
+    "id": "59db0eb3094b3bf73a98b02cc23882dcc874f7c7",
+    "title": "Robyn & Charlotte present: YULE Y'ALL! (18+)",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+    "start_datetime": "2025-12-07T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Main Room",
+      "address": "511 E 36th St",
+      "neighborhood": "",
+      "lat": 35.247447,
+      "lng": -80.803888
+    },
+    "category": [
+      "entertainment"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/2a9/e415105d-f43e-4a8e-80a4-65bcc23ff2a9_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/robyn-charlotte-present-yule-yall-18-charlotte-north-carolina-12-06-2025/event/2D006348D98C9E06",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "arts & theatre"
+    ],
+    "_rank_score": 40
+  },
+  {
+    "id": "3437987dfb05198a72d2b10ceff34e9b7f194541",
+    "title": "Diva Royale Drag Queen Show - 21+",
+    "description": "Diva Royale Drag Queen Show - 21+ at 321 Bar & Lounge",
+    "start_datetime": "2025-12-07T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "321 Bar & Lounge",
+      "address": "321 N Caldwell St #100",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7__xZ",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 35
+  },
+  {
+    "id": "941a42a853611a6abf8d3115ade22b24bc6e5217",
+    "title": "template",
+    "description": "template at The Underground",
+    "start_datetime": "2025-12-02T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.2397771,
+      "lng": -80.84820130000001
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "",
+    "confidence": 0.9,
+    "tags": [
+      "ticketmaster-api"
+    ],
+    "_rank_score": 32
+  },
+  {
+    "id": "0d75719b000e89d90a35825d929924e3a8d16669",
+    "title": "Clara’s Trip: A Cirque & Dance Nutcracker Story",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": ""
+    },
+    "image": null,
+    "source": {
+      "name": "Visit Charlotte",
+      "url": "https://www.charlottesgotalot.com/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.charlottesgotalot.com/events",
+    "confidence": 0.30000000000000004,
+    "tags": [],
+    "_rank_score": 9
+  },
+  {
+    "id": "86d110f97d632696ca024cdb53b7b11e0f629c8c",
+    "title": "ACC Football Championship Game",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": ""
+    },
+    "image": null,
+    "source": {
+      "name": "Visit Charlotte",
+      "url": "https://www.charlottesgotalot.com/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.charlottesgotalot.com/events",
+    "confidence": 0.30000000000000004,
+    "tags": [],
+    "_rank_score": 4
+  },
+  {
+    "id": "8faf338c37c133c4592f5d2b45fd13c29b67bdff",
+    "title": "Spring Consignment Sales in Charlotte 2025, some with new locations",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "opening"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2020/02/kids-shoes-Depositphotos_48109891_s-2019-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2025-11-24T15:29:07.982Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/charlotte-spring-consignment-sales/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": 2
+  },
+  {
+    "id": "39238253ee1a203af6878b99bcda60f228430ff6",
+    "title": "18 Great Day Trips from Charlotte",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "Day Trips from Charlotte",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2017/07/hiddenite-emarld-hollow-2-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2025-11-24T15:29:07.982Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/frugal-family-day-trips-charlotte/",
+    "confidence": 0.5499999999999999,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": 1.4999999999999964
+  },
+  {
+    "id": "56c2193c32077bdb813db26054e1b0cd2958be92",
+    "title": "Free days at Charlotte museums — updated for 2025",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "Charlotte museums — updated for 2025",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2021/03/bechtler-firebird-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2025-11-24T15:29:07.982Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/free-days-at-charlotte-museums/",
+    "confidence": 0.5499999999999999,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": 1.4999999999999964
+  },
+  {
+    "id": "717566e87fc4f77a2ea51a459cd1c142f0943f07",
+    "title": "Free and cheap things to do in Charlotte this week",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2025/06/Free-things-to-do-this-week-charlotte-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2025-11-24T15:29:07.982Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/freethingstodo/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "e8a4f429d5cf7ac8512fba741c62e4d5e4288373",
+    "title": "Free and cheap things to do in Charlotte this weekend",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2025/05/free-and-cheap-things-weekend-charlotte-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2025-11-24T15:29:07.982Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/free-things-weekend-4/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "9320ef44b0e64221668da1ba49ed7c19c3da54ce",
+    "title": "50+ Cheap Dates in Charlotte",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2023/01/rosies-wine-garden-jlm-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2025-11-24T15:29:07.982Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/cheap-dates/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "5244967c62717b7bccad9b095a560677c3141e85",
+    "title": "Free fitness classes and events in Charlotte — a calendar",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2019/03/charlotte-on-the-cheap-fitness-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2025-11-24T15:29:07.982Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/free-fitness-classes-charlotte/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "aa5bbccffa1f9dae47fc4d065190c3eb74f83593",
+    "title": "120 Charlotte area thrift, consignment, used books, antique and vintage stores",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2023/02/remix-market-harrisburg-jlm-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2025-11-24T15:29:07.982Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/charlotte-area-thrift-consignment-vintage-store/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "e6d6f5c111afa79a5066ed5441b2b19008a99098",
+    "title": "Day-by-day list of markets around Charlotte — art, vintage, hand-made items",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2023/09/ceramic-cups-Depositphotos_213916864_S-150x150.jpeg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2025-11-24T15:29:07.982Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/markets/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "0e1c37991a06b609dcdd2ee6d52a6b966306c6ad",
+    "title": "Charlotte Garage Sales this weekend — and 10 hints for finding hidden gems at great prices",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2019/07/garage-sale-Depositphotos_17860049_s-2019-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2025-11-24T15:29:07.982Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/charlotte-garage-sales/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "a53d3021d50ac691b03fa4a6333b819b5a372881",
+    "title": "Winter at Whitewater",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": ""
+    },
+    "image": null,
+    "source": {
+      "name": "Visit Charlotte",
+      "url": "https://www.charlottesgotalot.com/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.charlottesgotalot.com/events",
+    "confidence": 0.30000000000000004,
+    "tags": [],
+    "_rank_score": -5.999999999999998
+  },
+  {
+    "id": "884dd67b128072bfdcf2460bc1d3f562443101c8",
+    "title": "Charlotte Auto Show",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": ""
+    },
+    "image": null,
+    "source": {
+      "name": "Visit Charlotte",
+      "url": "https://www.charlottesgotalot.com/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.charlottesgotalot.com/events",
+    "confidence": 0.30000000000000004,
+    "tags": [],
+    "_rank_score": -5.999999999999998
+  },
+  {
+    "id": "0a1804ab6aa79c4e51df3d40be4af198307a3ed3",
+    "title": "Ice Skating at Camp North Pole",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": ""
+    },
+    "image": null,
+    "source": {
+      "name": "Visit Charlotte",
+      "url": "https://www.charlottesgotalot.com/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.charlottesgotalot.com/events",
+    "confidence": 0.30000000000000004,
+    "tags": [],
+    "_rank_score": -5.999999999999998
+  },
+  {
+    "id": "16163fbca78730d61d663fc1a508f9dd8f102ea4",
+    "title": "Novant Health Thanksgiving Eve Parade",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": ""
+    },
+    "image": null,
+    "source": {
+      "name": "Visit Charlotte",
+      "url": "https://www.charlottesgotalot.com/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.charlottesgotalot.com/events",
+    "confidence": 0.30000000000000004,
+    "tags": [],
+    "_rank_score": -5.999999999999998
+  },
+  {
+    "id": "090b528901d07125a8597f51404d155e967af0ca",
+    "title": "Mistletoe Market",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": ""
+    },
+    "image": null,
+    "source": {
+      "name": "Visit Charlotte",
+      "url": "https://www.charlottesgotalot.com/events",
+      "scraped_at": "2025-11-24T15:29:07.981Z"
+    },
+    "url": "https://www.charlottesgotalot.com/events",
+    "confidence": 0.30000000000000004,
+    "tags": [],
+    "_rank_score": -5.999999999999998
+  }
+]
