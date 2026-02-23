@@ -1,636 +1,7 @@
 {
-  "updated_at": "2026-02-16T15:47:27.621Z",
-  "count": 68,
+  "updated_at": "2026-02-23T15:53:28.851Z",
+  "count": 70,
   "events": [
-    {
-      "id": "2d100fae8cbf58c3b0ed320108eb177cb6bcbd55",
-      "title": "RAILROAD EARTH - 25th Anniversary Tour",
-      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
-      "start_datetime": "2026-02-20T00:30:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Neighborhood Theatre Main Room",
-        "address": "511 E 36th St",
-        "neighborhood": "",
-        "lat": 35.247447,
-        "lng": -80.803888
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/c69/2e7542a5-6245-4df6-8e17-55c7e0cadc69_RETINA_PORTRAIT_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/railroad-earth-25th-anniversary-tour-charlotte-north-carolina-02-19-2026/event/2D00636BBB5ED472",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "0181bec922ed693a3bd86dfa78179afba1e4f659",
-      "title": "Dirty Dancing in Concert",
-      "description": "All ages require ticket. Doors 6:30pm. Show 7:30pm Join us for DIRTY DANCING IN CONCERT, the classic film's first live film-to-concert experience. Enjoy the digitally remastered hit film like never before on a full-size cinema screen, with a live band and singers performing the film's iconic songs. With a soundtrack that marked a generation, DIRTY DANCING IN CONCERT promises to bring a thrilling new and unique experience to the 80s classic. Immerse yourself in the timeless romance and experience one of the most memorable movies of the past 35 years - now live!",
-      "start_datetime": "2026-02-20T00:30:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Ovens Auditorium",
-        "address": "2900 E Independence Boulevard",
-        "neighborhood": "East Charlotte",
-        "lat": 35.2050931,
-        "lng": -80.7953024
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/1a2/c797f609-0492-4460-a8c0-ea92b21b31a2_SOURCE",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/dirty-dancing-in-concert-charlotte-north-carolina-02-19-2026/event/2D00630CD2E93969",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "98deff1e8f53ad624a0f5527fe34cb0d9bfd72a0",
-      "title": "redveil",
-      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-02-20T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Underground",
-        "address": "820 Hamilton St",
-        "neighborhood": "",
-        "lat": 35.240299,
-        "lng": -80.845314
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/d14/e0b251df-c75a-4a82-bba3-65513d19ed14_RETINA_PORTRAIT_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/redveil-charlotte-north-carolina-02-19-2026/event/2D006365ABC8B4B4",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "34d136224a2b7989408677115d65e3d10b21dcb9",
-      "title": "Folsom Prison Live: The Johnny Cash Experience",
-      "description": "Cry Cry Cry: The Johnny Cash Experience is a tribute show dedicated to honoring the life and music of the legendary Johnny Cash. Known as \"The Man in Black,\" Cash's deep, resonant voice and storytelling ability captivated audiences across generations. This tribute performance brings the raw energy, emotional depth, and iconic songs of Johnny Cash to life, offering audiences an authentic and unforgettable journey through his storied career. From his early days at Sun Records to his iconic prison performances, Cry Cry Cry encapsulates every era of Cash's remarkable musical legacy.",
-      "start_datetime": "2026-02-21T00:30:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Carolina",
-        "address": "Carolina Theatre Charlotte Belk Place - 230 North Tryon",
-        "neighborhood": "",
-        "lat": 35.22827319,
-        "lng": -80.84086174
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/e/6dd/5d4d9da0-fd0b-4732-8601-b2079cb8f6dd_RETINA_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/folsom-prison-live-the-johnny-cash-charlotte-north-carolina-02-20-2026/event/2D0062BECF7A7C29",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "cfe95dc8502c02c5345d36198b656cae4c315b1f",
-      "title": "Monster Energy Outbreak Presents: Joey Valence & Brae",
-      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-02-21T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Underground",
-        "address": "820 Hamilton St",
-        "neighborhood": "",
-        "lat": 35.240299,
-        "lng": -80.845314
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/8f3/b8407b67-30c0-4ad5-a0c3-aba372c038f3_TABLET_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/monster-energy-outbreak-presents-joey-valence-charlotte-north-carolina-02-20-2026/event/2D00636699B2AF57",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "1d85c7cbf9ec29cbf7b45c12128b3746589a22c5",
-      "title": "ADAM DOLEAC: Dream House Tour",
-      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
-      "start_datetime": "2026-02-21T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Neighborhood Theatre Tap Room",
-        "address": "511 E 36th St, Charlotte",
-        "neighborhood": "",
-        "lat": 35.24779,
-        "lng": -80.0403
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/e/187/d2b9b57b-b12f-43cf-99ef-0a9d52acc187_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/adam-doleac-dream-house-tour-charlotte-north-carolina-02-20-2026/event/2D00638A90638E6F",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "b9f6c0b8eb8958ab5ad6f609265d34adbe2f5d9e",
-      "title": "Ernest",
-      "description": "Ernest at Coyote Joes",
-      "start_datetime": "2026-02-21T04:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Coyote Joes",
-        "address": "4621 Wilkinson Blvd.",
-        "neighborhood": "",
-        "lat": 35.221001,
-        "lng": -80.927597
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/db6/f5d421be-60ca-4699-90c0-32bc1955bdb6_TABLET_LANDSCAPE_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OkJe",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "255c97d47f399e12b4b134c5350ae9871ce352a8",
-      "title": "Descendents & Frank Turner & The Sleeping Souls",
-      "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:00PM Show: 7:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-02-21T23:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Fillmore Charlotte",
-        "address": "820 Hamilton Street",
-        "neighborhood": "",
-        "lat": 35.239095,
-        "lng": -80.845519
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/3ac/1594c4ba-9fa5-49ae-9b9e-9921d994b3ac_RETINA_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/descendents-frank-turner-the-sleeping-souls-charlotte-north-carolina-02-21-2026/event/2D00635F87744833",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "354673cc71016c71f5e42b97e08031d3215b2d0b",
-      "title": "MATTEO MANCUSO - Route 96 Tour",
-      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
-      "start_datetime": "2026-02-19T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Neighborhood Theatre Main Room",
-        "address": "511 E 36th St",
-        "neighborhood": "",
-        "lat": 35.247447,
-        "lng": -80.803888
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/e/3f7/93ac82ca-a84f-49e5-a28b-c092a63a53f7_RETINA_PORTRAIT_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/matteo-mancuso-route-96-tour-charlotte-north-carolina-02-18-2026/event/2D00637ADDA4D1FE",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 80
-    },
-    {
-      "id": "7db72be1b05d559d53049e382a5f27d273ed1b0b",
-      "title": "Ruel - Kicking My Feet Tour",
-      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-02-19T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Underground",
-        "address": "820 Hamilton St",
-        "neighborhood": "",
-        "lat": 35.240299,
-        "lng": -80.845314
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/0dd/c67002cd-0986-4810-baeb-d4525695d0dd_SOURCE",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/ruel-kicking-my-feet-tour-charlotte-north-carolina-02-18-2026/event/2D0063620C65BFA2",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 80
-    },
-    {
-      "id": "152ff5ccbe52d22a470c13c6cd432d9fbf7e7c87",
-      "title": "Monaleo",
-      "description": "This event has been moved to The Fillmore Charlotte All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-02-19T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Fillmore Charlotte",
-        "address": "820 Hamilton Street",
-        "neighborhood": "",
-        "lat": 35.239095,
-        "lng": -80.845519
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/8ba/1175f923-7c96-40f6-8f86-b97344e2d8ba_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/monaleo-charlotte-north-carolina-02-18-2026/event/2D0063518E9D5749",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 80
-    },
-    {
-      "id": "1a6e5b4fc174f34a8e74820712d54b4988180e7d",
-      "title": "Black Violin: Full Circle Tour",
-      "description": "Black Violin: Full Circle Tour at Belk Theater",
-      "start_datetime": "2026-02-19T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Belk Theater",
-        "address": "130 N. Tyron St.",
-        "neighborhood": "Uptown",
-        "lat": 35.227482,
-        "lng": -80.84174
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/9e6/99b295f8-215b-4a82-8fec-11ee84a289e6_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://tix.blumenthalarts.org/online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=42CDE20D-EADE-4ED6-8C7F-70E03C1BBA37",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 80
-    },
-    {
-      "id": "852d715ee4c2e4d22a26a97ed533ca9f804c9770",
-      "title": "Ace Hood",
-      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-02-22T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Underground",
-        "address": "820 Hamilton St",
-        "neighborhood": "",
-        "lat": 35.240299,
-        "lng": -80.845314
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/c65/0434ea53-0b22-4268-926b-e5ac2996bc65_1759061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/ace-hood-charlotte-north-carolina-02-21-2026/event/2D006383B1032F23",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
-    {
-      "id": "82299540cdc18b070773d6859b422515521c5cb6",
-      "title": "honestav - Hard to Love Tour",
-      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
-      "start_datetime": "2026-02-22T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Neighborhood Theatre Main Room",
-        "address": "511 E 36th St",
-        "neighborhood": "",
-        "lat": 35.247447,
-        "lng": -80.803888
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/e/2bb/ed75d01d-f519-4330-abb0-57c0431432bb_RETINA_PORTRAIT_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/honestav-hard-to-love-tour-charlotte-north-carolina-02-21-2026/event/2D00638F02023089",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
-    {
-      "id": "9294f8755009d8cea7b4cab617b5f9b67fb13d44",
-      "title": "MK (18+ Event)",
-      "description": "MK (18+ Event) at Blackbox Theater - Charlotte",
-      "start_datetime": "2026-02-22T03:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Blackbox Theater - Charlotte",
-        "address": "421 East Sugar Creek Rd",
-        "neighborhood": "",
-        "lat": 35.2897,
-        "lng": -80.730202
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Oex4",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
-    {
-      "id": "8e7588b46740b2764ca6830b22729dd7c79091f6",
-      "title": "DROPKICK MURPHYS:For The People In the Pit St. Patrick's Day 2026 Tour",
-      "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:00PM Show: 7:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-02-23T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Fillmore Charlotte",
-        "address": "820 Hamilton Street",
-        "neighborhood": "",
-        "lat": 35.239095,
-        "lng": -80.845519
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/193/836388c6-b1d3-4c3f-8f88-a4a526838193_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
-      },
-      "url": "https://www.ticketmaster.com/dropkick-murphysfor-the-people-in-the-charlotte-north-carolina-02-22-2026/event/2D006347B6553B99",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
-    {
-      "id": "c670d8bce5c91ffec2295ec0c45dff6a0b872cd6",
-      "title": "Aries",
-      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-02-23T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Underground",
-        "address": "820 Hamilton St",
-        "neighborhood": "",
-        "lat": 35.240299,
-        "lng": -80.845314
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/04e/c528df0d-ff70-4ebf-afe9-7926c518e04e_RETINA_PORTRAIT_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
-      },
-      "url": "https://www.ticketmaster.com/aries-charlotte-north-carolina-02-22-2026/event/2D006375217CE5AD",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
     {
       "id": "8d5c8d2f363a2523394e9b404ab2326b7ffb5f3b",
       "title": "ALLEYCVT (18 and Over) - Thursday",
@@ -658,7 +29,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7q_bg",
       "confidence": 1,
@@ -666,7 +37,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "6206ffda9da96873a8143e0b80eb93fd60fafccc",
@@ -695,7 +66,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/jack-burns-charlotte-north-carolina-02-27-2026/event/2D00642D97225E82",
       "confidence": 1,
@@ -703,7 +74,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "32ccdc66e596c72d1be9dbcefc76c0b414651718",
@@ -732,7 +103,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/broadway-rave-18-charlotte-north-carolina-02-27-2026/event/2D00642733FD3A75",
       "confidence": 1,
@@ -740,7 +111,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "0d700cc791cdfb95747be746ec49798beacd2d94",
@@ -769,7 +140,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/the-sixties-show-charlotte-north-carolina-02-27-2026/event/2D0062FF18989FA4",
       "confidence": 1,
@@ -777,7 +148,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "38b072899aa39af83eea905f1c71866f8550f5ba",
@@ -806,7 +177,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-charlotte-north-carolina-02-27-2026/event/2D00636689169243",
       "confidence": 1,
@@ -814,7 +185,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "d58c6e8b8fb5db55aab026cb0af9d217f0252bc1",
@@ -843,7 +214,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/monster-energy-presents-cash-cobain-party-charlotte-north-carolina-02-27-2026/event/2D0062D299D63CA6",
       "confidence": 1,
@@ -851,7 +222,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "aa084b5e0352d81da168f6b1aba7660226a075fd",
@@ -880,7 +251,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/new-edition-the-new-edition-way-charlotte-north-carolina-02-27-2026/event/2D006357C23DAC9F",
       "confidence": 1,
@@ -888,7 +259,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "28f73b31d7dd66ae73f0518c7eb3fd5892f53c1b",
@@ -917,7 +288,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7q__K",
       "confidence": 1,
@@ -925,7 +296,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "2952c3ae837e404c09f687c24d1b0e4ee3bd9a77",
@@ -954,7 +325,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7O90a",
       "confidence": 1,
@@ -962,24 +333,24 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
-      "id": "498120157c84800288bbd3cc8a0a94065a89b704",
-      "title": "Charlotte Hornets vs. Houston Rockets",
-      "description": "Charlotte Hornets vs. Houston Rockets at Spectrum Center",
-      "start_datetime": "2026-02-20T00:00:00.000Z",
+      "id": "0b92791670373cbe0eff9395912228cae85133de",
+      "title": "Bingo Loco",
+      "description": "Bingo Loco at Blackbox Theater - Charlotte",
+      "start_datetime": "2026-02-28T22:00:00.000Z",
       "end_datetime": null,
       "venue": {
-        "name": "Spectrum Center",
-        "address": "333 East Trade Street",
-        "neighborhood": "Uptown",
-        "lat": 35.225222,
-        "lng": -80.839921
+        "name": "Blackbox Theater - Charlotte",
+        "address": "421 East Sugar Creek Rd",
+        "neighborhood": "",
+        "lat": 35.2897,
+        "lng": -80.730202
       },
       "category": [
-        "sports",
-        "hornets"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -987,56 +358,19 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/a/f48/2869041d-ebac-48fb-bf4f-54e797fa4f48_RETINA_PORTRAIT_3_2.jpg",
+      "image": "https://s1.ticketm.net/dam/a/70b/dcda4fe8-2449-483c-93a1-03877718a70b_SOURCE",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
-      "url": "https://www.ticketmaster.com/charlotte-hornets-vs-houston-rockets-charlotte-north-carolina-02-19-2026/event/2D0062F9B4ED98B0",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-op3",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "sports"
+        "music"
       ],
-      "_rank_score": 65
-    },
-    {
-      "id": "3ef76062a346a73f2030207fa63d269a904e151a",
-      "title": "Charlotte Hornets vs. Cleveland Cavaliers",
-      "description": "Charlotte Hornets vs. Cleveland Cavaliers at Spectrum Center",
-      "start_datetime": "2026-02-21T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Spectrum Center",
-        "address": "333 East Trade Street",
-        "neighborhood": "Uptown",
-        "lat": 35.225222,
-        "lng": -80.839921
-      },
-      "category": [
-        "sports",
-        "hornets"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/f48/2869041d-ebac-48fb-bf4f-54e797fa4f48_RETINA_PORTRAIT_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/charlotte-hornets-vs-cleveland-cavaliers-charlotte-north-carolina-02-20-2026/event/2D0062F9B4EF98B3",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "sports"
-      ],
-      "_rank_score": 65
+      "_rank_score": 85
     },
     {
       "id": "195fefa01faaf73a459c396a918e677f7258d424",
@@ -1065,7 +399,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://wl.eventim.us/event/THE-STRUMBELLAS-Into-Dust-Tour/661936?afflky=MaxxMusic",
       "confidence": 1,
@@ -1073,7 +407,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 80
     },
     {
       "id": "55b260e6da6c57d08bd7a243c2b93278c390ebf4",
@@ -1102,7 +436,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qOoz",
       "confidence": 1,
@@ -1110,7 +444,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 80
     },
     {
       "id": "dc497a107833056825306589f9884c99811f0ad2",
@@ -1139,7 +473,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/los-angeles-azules-cumbia-sin-fronteras-charlotte-north-carolina-02-25-2026/event/2D00634EC61DD172",
       "confidence": 1,
@@ -1147,7 +481,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 80
     },
     {
       "id": "26593590d6e1ec8aefe2a229a6d7ea3e96606547",
@@ -1176,7 +510,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/maggie-lindemann-i-feel-everything-tour-charlotte-north-carolina-02-25-2026/event/2D006351402DFBE8",
       "confidence": 1,
@@ -1184,49 +518,13 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 80
     },
     {
-      "id": "3068e8b92a24e4fc4c66a4ef0dc1a6b44273f279",
-      "title": "Charlotte Checkers vs. Hartford Wolf Pack",
-      "description": "BAG POLICY: Any non-clear bag larger than 4.5\" x 6.5\" is not permitted.",
-      "start_datetime": "2026-02-16T17:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Bojangles Coliseum",
-        "address": "2700 E Independence Boulevard",
-        "neighborhood": "East Charlotte",
-        "lat": 35.2050931,
-        "lng": -80.7953024
-      },
-      "category": [
-        "sports"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/8d9/818ee4bb-df3e-4d58-8468-c23e293418d9_851601_RETINA_PORTRAIT_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/charlotte-checkers-vs-hartford-wolf-pack-charlotte-north-carolina-02-16-2026/event/2D00631AE6656288",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "sports"
-      ],
-      "_rank_score": 60
-    },
-    {
-      "id": "b94bc56e18140f10d8561a13d2ace3efd9ad20dc",
-      "title": "ZARNA GARG: MILLION DOLLAR EXCUSES",
-      "description": "All Ages Welcome Doors: 6:00PM Show: 7:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-02-21T00:00:00.000Z",
+      "id": "e57f78620b5a1e8bec7126b7546da256304d0f47",
+      "title": "Jesse Welles: Under The Powerlines 2026",
+      "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-03-01T01:00:00.000Z",
       "end_datetime": null,
       "venue": {
         "name": "The Fillmore Charlotte",
@@ -1236,7 +534,8 @@
         "lng": -80.845519
       },
       "category": [
-        "entertainment"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -1244,25 +543,284 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/a/ffa/73736fbc-224f-4abd-aa98-568d88c80ffa_RETINA_LANDSCAPE_16_9.jpg",
+      "image": "https://s1.ticketm.net/dam/a/2c4/c48064d3-5859-449c-b9d2-d9ccc478a2c4_TABLET_LANDSCAPE_3_2.jpg",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
-      "url": "https://www.ticketmaster.com/zarna-garg-million-dollar-excuses-charlotte-north-carolina-02-20-2026/event/2D00636A8AB88196",
+      "url": "https://www.ticketmaster.com/jesse-welles-under-the-powerlines-2026-charlotte-north-carolina-02-28-2026/event/2D0063079316B81E",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "arts & theatre"
+        "music"
       ],
-      "_rank_score": 60
+      "_rank_score": 75
     },
     {
-      "id": "237507ed59e066ca70845daf96f984955d8cc1c5",
-      "title": "Drum Tao",
-      "description": "DRUM TAO explodes on stage with a captivating performance full of flash and fire! Renowned for powerful and athletic drumming, their newest show, The Best, blends traditional ?Wadaiko? (Japanese Drums) with modern energy and theatrical flair. Seen by 10 million spectators across the globe, DRUM TAO shows feature vibrant costumes, dramatic synchronized drumming and movement with a variety of traditional Japanese instruments including flutes and harps alongside the massive taiko drums. They have captivated audiences worldwide ? selling out shows in 26 countries ? garnering critical acclaim and accolades along the way.",
-      "start_datetime": "2026-02-18T01:00:00.000Z",
+      "id": "b586b34f5a31d4f036f2200b1ec03a25f67cd114",
+      "title": "JOSH LEVI: The Hydraulic Tour (18+)",
+      "description": "Age Policy: 18+ Valid ID required for entry into venue (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+      "start_datetime": "2026-03-01T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Neighborhood Theatre Tap Room",
+        "address": "511 E 36th St, Charlotte",
+        "neighborhood": "",
+        "lat": 35.24749614,
+        "lng": -80.80389971
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/e/77c/52b07ffb-b7c5-4c68-92cd-6c321773577c_RETINA_PORTRAIT_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.846Z"
+      },
+      "url": "https://www.ticketmaster.com/josh-levi-the-hydraulic-tour-18-charlotte-north-carolina-02-28-2026/event/2D006383BDEC6889",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "723c0ee62b20c5f88108e01c95e5b8c54d604ef5",
+      "title": "Brightside - Ages 16 and Over (Must have ID), Under 16 with Parent Only",
+      "description": "Brightside - Ages 16 and Over (Must have ID), Under 16 with Parent Only at The Visulite Theatre",
+      "start_datetime": "2026-03-01T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Visulite Theatre",
+        "address": "1615 Elizabeth Ave",
+        "neighborhood": "",
+        "lat": 35.2145,
+        "lng": -80.827301
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.846Z"
+      },
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Op8v",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "17a80aa68c8c4b6890144b365652c557feb60603",
+      "title": "Black Violin",
+      "description": "Black Violin at Belk Theatre",
+      "start_datetime": "2026-03-01T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Belk Theatre",
+        "address": "130 North Tryon street",
+        "neighborhood": "",
+        "lat": 35.228001,
+        "lng": -80.844597
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/9e6/99b295f8-215b-4a82-8fec-11ee84a289e6_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.846Z"
+      },
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Q3Zg",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "7e66bb3af32fdbed4c514cb317fddef60234abd0",
+      "title": "Gasolina Party: 18+",
+      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. Ages 18+ Welcome Doors: 9:00pm Show: 9:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-03-01T02:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Underground",
+        "address": "820 Hamilton St",
+        "neighborhood": "",
+        "lat": 35.240299,
+        "lng": -80.845314
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/10a/c26128f4-c3b4-409c-94bb-cd81f5a0d10a_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.846Z"
+      },
+      "url": "https://www.ticketmaster.com/gasolina-party-18-charlotte-north-carolina-02-28-2026/event/2D006383C60B94B5",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "b672d96662aca98c111f080378c2ce0906f37f2b",
+      "title": "Bingo Loco",
+      "description": "Bingo Loco at Blackbox Theater - Charlotte",
+      "start_datetime": "2026-03-01T02:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Blackbox Theater - Charlotte",
+        "address": "421 East Sugar Creek Rd",
+        "neighborhood": "",
+        "lat": 35.2897,
+        "lng": -80.730202
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/70b/dcda4fe8-2449-483c-93a1-03877718a70b_SOURCE",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.846Z"
+      },
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-opK",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "de3cb87fc40c293de2024526b8749fd946c4dbcd",
+      "title": "Doc 103: Celebrating Doc Watson ft. Jack Lawrence, Peter Rowan & more!",
+      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+      "start_datetime": "2026-03-01T23:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Neighborhood Theatre Main Room",
+        "address": "511 E 36th St",
+        "neighborhood": "",
+        "lat": 35.247447,
+        "lng": -80.803888
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/e/932/9f3f5395-d727-4024-acef-cfddfff61932_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.846Z"
+      },
+      "url": "https://www.ticketmaster.com/doc-103-celebrating-doc-watson-ft-charlotte-north-carolina-03-01-2026/event/2D00637323EBB646",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "7cde75ab0ffb728bdbff9badf96c3106b8dc5e7f",
+      "title": "MANILOW: The Last Charlotte Concert",
+      "description": "MANILOW: The Last Charlotte Concert at Spectrum Center",
+      "start_datetime": "2026-03-02T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade Street",
+        "neighborhood": "Uptown",
+        "lat": 35.225222,
+        "lng": -80.839921
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/5c8/d35cea78-c294-44e3-a1a4-51333dda35c8_1825581_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.846Z"
+      },
+      "url": "https://www.ticketmaster.com/manilow-the-last-charlotte-concert-charlotte-north-carolina-03-01-2026/event/2D006428A165953B",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "2799ab83d63a45c32ec6667cf3828c7da59b2dc2",
+      "title": "Robert Glasper",
+      "description": "ACCESSIBILITY - Accessible seating is available online through Ticketmaster by filtering on the ADA Icon and selecting Accessible Seats. Note: the Carolina Theatre has the original, historic stairs in the balcony. Please take that into consideration when buying balcony tickets. CASHLESS VENUE - the Carolina Theatre services all credit and debit payments only. No cash accepted at the box office or bar. BAG POLICY - We encourage you to pack light with only the necessities to make the entry process as soon as possible. Bags are allowed and are subject to search upon entry. Exceptions will be made for necessary medical equipment or accommodations.",
+      "start_datetime": "2026-03-02T00:30:00.000Z",
       "end_datetime": null,
       "venue": {
         "name": "The Carolina",
@@ -1272,7 +830,8 @@
         "lng": -80.84086174
       },
       "category": [
-        "entertainment"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -1280,25 +839,136 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/a/3aa/640e54b7-f6e7-4c4b-952a-e7b263c543aa_1121621_TABLET_LANDSCAPE_16_9.jpg",
+      "image": "https://s1.ticketm.net/dam/e/841/b337518e-ba2a-493f-a866-31a6dac13841_SOURCE",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
+        "scraped_at": "2026-02-23T15:53:28.847Z"
       },
-      "url": "https://www.ticketmaster.com/drum-tao-charlotte-north-carolina-02-17-2026/event/2D00635D92DA6722",
+      "url": "https://www.ticketmaster.com/robert-glasper-charlotte-north-carolina-03-01-2026/event/2D00635EEAE5D73A",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "arts & theatre"
+        "music"
       ],
-      "_rank_score": 55
+      "_rank_score": 75
     },
     {
-      "id": "1f832c9c0fa8dcc20ea4e0778e42b0b69ac0f8eb",
-      "title": "Sinners",
-      "description": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "start_datetime": "2026-02-21T00:00:00.000Z",
+      "id": "098909e0bf219ab7c083e04982ddddd2dc9b826c",
+      "title": "ROBERT JON & THE WRECK with special guest Sam Morrow",
+      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+      "start_datetime": "2026-03-06T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Neighborhood Theatre Main Room",
+        "address": "511 E 36th St",
+        "neighborhood": "",
+        "lat": 35.247447,
+        "lng": -80.803888
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/e/977/f062aa60-fbf6-4e8d-ac74-bbd6c6cf8977_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/robert-jon-the-wreck-with-special-charlotte-north-carolina-03-05-2026/event/2D00634E0684BDF7",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "1b18815dfb2a2fac9a302d274473362ab9078205",
+      "title": "MO LOWDA & THE HUMBLE - Tailing the Ghost Tour",
+      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+      "start_datetime": "2026-03-07T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Neighborhood Theatre Main Room",
+        "address": "511 E 36th St",
+        "neighborhood": "",
+        "lat": 35.247447,
+        "lng": -80.803888
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/e/e42/c0900957-c61b-4d9e-b8a5-76c72a59be42_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/mo-lowda-the-humble-tailing-the-charlotte-north-carolina-03-06-2026/event/2D00633DFCB0A157",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "0b2f4d386071e3299c961a7c7e10b148b687e7d3",
+      "title": "Machine Girl - PsychoWarrior Tour",
+      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-03-07T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Underground",
+        "address": "820 Hamilton St",
+        "neighborhood": "",
+        "lat": 35.240299,
+        "lng": -80.845314
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/7f6/c941d63c-e0fa-4251-b547-5f6f1976d7f6_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/machine-girl-psychowarrior-tour-charlotte-north-carolina-03-06-2026/event/2D00634FA05E7FF1",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "b904e3c2c41add4b70d76438f236eb0430eae65e",
+      "title": "The Wood Brothers",
+      "description": "Dubbed \"masters of soulful folk\" by Paste, The Wood Brothers formed after brothers Chris and Oliver Wood pursued separate musical careers for 15 years. Chris already had legions of devoted fans for his incomparable work as one-third of Medeski Martin & Wood, while Oliver's band King Johnson built a loyal following in the South. With drummer Jano Rix added as a permanent third member, The Wood Brothers have evolved into one of roots music's most revered acts, playing sold out shows across North America, garnering a Grammy Award nomination and releasing nine studio albums, including their forthcoming release, Puff of Smoke, out August 1.",
+      "start_datetime": "2026-03-07T01:00:00.000Z",
       "end_datetime": null,
       "venue": {
         "name": "The Carolina",
@@ -1308,7 +978,8 @@
         "lng": -80.84086174
       },
       "category": [
-        "special"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -1316,35 +987,36 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/e/676/b80d6ad2-7be4-434d-b594-d00a39226676_RETINA_LANDSCAPE_16_9.jpg",
+      "image": "https://s1.ticketm.net/dam/a/38e/0647dc2e-2f24-4e55-83a0-6233dcf2838e_RETINA_LANDSCAPE_16_9.jpg",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
+        "scraped_at": "2026-02-23T15:53:28.847Z"
       },
-      "url": "https://www.ticketmaster.com/sinners-charlotte-north-carolina-02-20-2026/event/2D006427E389CDD8",
+      "url": "https://www.ticketmaster.com/the-wood-brothers-charlotte-north-carolina-03-06-2026/event/2D00635CCF1FC7C3",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "film"
+        "music"
       ],
-      "_rank_score": 55
+      "_rank_score": 75
     },
     {
-      "id": "564c054128976ccdc45ecb7a0fe8bf0461a7ff43",
-      "title": "Zarna Garg Post Show M&G",
-      "description": "*THIS IS NOT AN EVENT TICKET* A TICKET TO THE EVENT MUST BE PURCHASED SEPERATELY Upgrade includes a Post Show M&G with Zarna Garg",
-      "start_datetime": "2026-02-21T00:00:00.000Z",
+      "id": "6e25a536b90d2da885e5f6b6485451d33835f1fe",
+      "title": "Desert Dwellers (18 and Over)",
+      "description": "Desert Dwellers (18 and Over) at Blackbox Theater - Charlotte",
+      "start_datetime": "2026-03-07T03:00:00.000Z",
       "end_datetime": null,
       "venue": {
-        "name": "The Fillmore Charlotte",
-        "address": "820 Hamilton Street",
+        "name": "Blackbox Theater - Charlotte",
+        "address": "421 East Sugar Creek Rd",
         "neighborhood": "",
-        "lat": 35.239095,
-        "lng": -80.845519
+        "lat": 35.2897,
+        "lng": -80.730202
       },
       "category": [
-        "special"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -1352,19 +1024,19 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image": "https://s1.ticketm.net/dam/a/a0c/0249728c-0a55-4480-b3bc-c6c4cb0c4a0c_1746701_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
+        "scraped_at": "2026-02-23T15:53:28.847Z"
       },
-      "url": "https://www.ticketmaster.com/zarna-garg-post-show-mg-charlotte-north-carolina-02-20-2026/event/2D00636ECB1B2CB8",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7ObAP",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "miscellaneous"
+        "music"
       ],
-      "_rank_score": 55
+      "_rank_score": 75
     },
     {
       "id": "3f3ec2b7a84fec57727f6eb9cc141b2f47608a3d",
@@ -1393,7 +1065,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/charlotte-hornets-vs-portland-trail-blazers-charlotte-north-carolina-02-28-2026/event/2D0062F9B4F198BC",
       "confidence": 1,
@@ -1401,539 +1073,192 @@
         "ticketmaster-api",
         "sports"
       ],
+      "_rank_score": 65
+    },
+    {
+      "id": "ffae190593f5c60d679316e63950a9138a702e77",
+      "title": "RICH BRIAN: WHERE IS MY HEAD? 2026 WORLD TOUR",
+      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-03-04T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Underground",
+        "address": "820 Hamilton St",
+        "neighborhood": "",
+        "lat": 35.240299,
+        "lng": -80.845314
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/365/3731f7e2-9e4e-4d2d-9b9b-6c89ebd20365_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/rich-brian-where-is-my-head-charlotte-north-carolina-03-03-2026/event/2D006331CCE364C7",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "aef0ddbb855a5a876a58fcdaadef798a1e96d7db",
+      "title": "Haffway - The Wither Tour",
+      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+      "start_datetime": "2026-03-04T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Neighborhood Theatre Tap Room",
+        "address": "511 E 36th St, Charlotte",
+        "neighborhood": "",
+        "lat": 35.24749614,
+        "lng": -80.80389971
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/e/c88/6f740ab6-9eac-4f42-b70b-dd34aefd3c88_RETINA_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/haffway-the-wither-tour-charlotte-north-carolina-03-03-2026/event/2D006355E71DA6F7",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "0b650169eeeb1d143b55c2743e2c8cc3115b650a",
+      "title": "Il Divo By Candlelight",
+      "description": "Doors 6:30pm. Show 7:30pm.",
+      "start_datetime": "2026-03-05T00:30:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Ovens Auditorium",
+        "address": "2900 E Independence Boulevard",
+        "neighborhood": "East Charlotte",
+        "lat": 35.2050931,
+        "lng": -80.7953024
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/ae0/b7348d10-3a4c-44ff-a5e1-e222a766fae0_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/il-divo-by-candlelight-charlotte-north-carolina-03-04-2026/event/2D00631ADB625A06",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "6369aad159d477e754d730810c9a9d571ae71ed4",
+      "title": "Lotus - Rise of the Anglerfish Tour",
+      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+      "start_datetime": "2026-03-05T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Neighborhood Theatre Main Room",
+        "address": "511 E 36th St",
+        "neighborhood": "",
+        "lat": 35.247447,
+        "lng": -80.803888
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/e/800/962e9723-d82c-464c-94bc-3ec13dc0f800_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/lotus-rise-of-the-anglerfish-tour-charlotte-north-carolina-03-04-2026/event/2D00635FDD07BF94",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "a133814efa14b275d65d4939e86ace290e820d87",
+      "title": "Charlotte Hornets vs. Miami Heat",
+      "description": "Charlotte Hornets vs. Miami Heat at Spectrum Center",
+      "start_datetime": "2026-03-07T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade Street",
+        "neighborhood": "Uptown",
+        "lat": 35.225222,
+        "lng": -80.839921
+      },
+      "category": [
+        "sports",
+        "hornets"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/f48/2869041d-ebac-48fb-bf4f-54e797fa4f48_RETINA_PORTRAIT_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/charlotte-hornets-vs-miami-heat-charlotte-north-carolina-03-06-2026/event/2D0062F9B4F698CA",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "sports"
+      ],
       "_rank_score": 55
-    },
-    {
-      "id": "1c5de3620e000a22808a2ccf886c78eef12fd9a0",
-      "title": "Postgame Pass - Section 107",
-      "description": "Postgame Pass - Section 107 at Spectrum Center",
-      "start_datetime": "2026-02-20T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Spectrum Center",
-        "address": "333 East Trade",
-        "neighborhood": "Uptown",
-        "lat": 35.22506060000002,
-        "lng": -80.8393335
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "",
-      "confidence": 0.9,
-      "tags": [
-        "ticketmaster-api"
-      ],
-      "_rank_score": 52
-    },
-    {
-      "id": "87a5c4164f7b6ed59e5fdb3be19762b905fc00ab",
-      "title": "Suite Access Pass - Hornets vs. Rockets",
-      "description": "Suite Access Pass - Hornets vs. Rockets at Spectrum Center",
-      "start_datetime": "2026-02-20T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Spectrum Center",
-        "address": "333 E Trade St",
-        "neighborhood": "Uptown",
-        "lat": 35.225061,
-        "lng": -80.839334
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "",
-      "confidence": 0.9,
-      "tags": [
-        "ticketmaster-api"
-      ],
-      "_rank_score": 52
-    },
-    {
-      "id": "a9f26e55c8c97348f72bde2cda4f3236420f9ab6",
-      "title": "2026 Fan Experience",
-      "description": "2026 Fan Experience at Spectrum Center",
-      "start_datetime": "2026-02-20T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Spectrum Center",
-        "address": "333 East Trade",
-        "neighborhood": "Uptown",
-        "lat": 35.22506060000002,
-        "lng": -80.8393335
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "",
-      "confidence": 0.9,
-      "tags": [
-        "ticketmaster-api"
-      ],
-      "_rank_score": 52
-    },
-    {
-      "id": "ca24ec4ec1572a0289abe4d71e518b8c736840d0",
-      "title": "Postgame Pass - Section 103",
-      "description": "Postgame Pass - Section 103 at Spectrum Center",
-      "start_datetime": "2026-02-20T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Spectrum Center",
-        "address": "333 East Trade",
-        "neighborhood": "Uptown",
-        "lat": 35.22506060000002,
-        "lng": -80.8393335
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "",
-      "confidence": 0.9,
-      "tags": [
-        "ticketmaster-api"
-      ],
-      "_rank_score": 52
-    },
-    {
-      "id": "ea159375f0c80596ea19375a56222e94ff15517e",
-      "title": "2026 Fan Experience",
-      "description": "2026 Fan Experience at Spectrum Center",
-      "start_datetime": "2026-02-21T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Spectrum Center",
-        "address": "333 East Trade",
-        "neighborhood": "Uptown",
-        "lat": 35.22506060000002,
-        "lng": -80.8393335
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "",
-      "confidence": 0.9,
-      "tags": [
-        "ticketmaster-api"
-      ],
-      "_rank_score": 52
-    },
-    {
-      "id": "2c5f79ed91477997c563a17fe35ddc84350a5898",
-      "title": "Postgame Pass - Section 103",
-      "description": "Postgame Pass - Section 103 at Spectrum Center",
-      "start_datetime": "2026-02-21T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Spectrum Center",
-        "address": "333 East Trade",
-        "neighborhood": "Uptown",
-        "lat": 35.22506060000002,
-        "lng": -80.8393335
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "",
-      "confidence": 0.9,
-      "tags": [
-        "ticketmaster-api"
-      ],
-      "_rank_score": 52
-    },
-    {
-      "id": "92e7ac922d711f8ada550fb594873d7b78d26a2d",
-      "title": "Postgame Pass - Section 107",
-      "description": "Postgame Pass - Section 107 at Spectrum Center",
-      "start_datetime": "2026-02-21T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Spectrum Center",
-        "address": "333 East Trade",
-        "neighborhood": "Uptown",
-        "lat": 35.22506060000002,
-        "lng": -80.8393335
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "",
-      "confidence": 0.9,
-      "tags": [
-        "ticketmaster-api"
-      ],
-      "_rank_score": 52
-    },
-    {
-      "id": "f388c6e2eb40253f55692b83a629667619a8f969",
-      "title": "Suite Access Pass - Hornets vs. Cavaliers",
-      "description": "Suite Access Pass - Hornets vs. Cavaliers at Spectrum Center",
-      "start_datetime": "2026-02-21T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Spectrum Center",
-        "address": "333 E Trade St",
-        "neighborhood": "Uptown",
-        "lat": 35.225061,
-        "lng": -80.839334
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "",
-      "confidence": 0.9,
-      "tags": [
-        "ticketmaster-api"
-      ],
-      "_rank_score": 52
-    },
-    {
-      "id": "e679c18056ea054627d0194f4a9168f7d8c703a3",
-      "title": "ChangeMaker Series-Two Worlds: Above and Below the Sea",
-      "description": "Part 3 of the ChangeMaker Series: \"Two Worlds: Above and Below the Sea\" with Underwater Photographers David Doubilet and Jen Hayes",
-      "start_datetime": "2026-02-19T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Carolina",
-        "address": "Carolina Theatre Charlotte Belk Place - 230 North Tryon",
-        "neighborhood": "",
-        "lat": 35.22827319,
-        "lng": -80.84086174
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/a4f/84f1883f-e6c1-448d-b1f1-ca9770b16a4f_105521_RETINA_PORTRAIT_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/changemaker-seriestwo-worlds-above-and-below-charlotte-north-carolina-02-18-2026/event/2D0062FFE8898E3E",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "film"
-      ],
-      "_rank_score": 50
-    },
-    {
-      "id": "af1a1325368bbbcb0ad2b2300af9c154036f1c47",
-      "title": "Monaleo - Very Important Pimpcess Package - Not a Concert Ticket",
-      "description": "- Meet & Greet w/ Monaleo - Photo Opp w/ Monaleo including personal Polaroid - Group Talk with Monaleo pre show - Soundcheck Experience w/ Monaleo - Merch Pack - Signed VIP Laminate - VIP Laminate - Early Entry - First Access to Merch",
-      "start_datetime": "2026-02-19T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Fillmore Charlotte",
-        "address": "820 Hamilton Street",
-        "neighborhood": "",
-        "lat": 35.239095,
-        "lng": -80.845519
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/e66/6f2284d0-f10e-4b88-8ed4-9b47c0f4de66_RETINA_PORTRAIT_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/monaleo-very-important-pimpcess-package-not-charlotte-north-carolina-02-18-2026/event/2D006354CA0C7F3E",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "miscellaneous"
-      ],
-      "_rank_score": 50
-    },
-    {
-      "id": "b3ff3bb8f944de574c6f2dc787dd3b23c7f2db3b",
-      "title": "Monaleo - Pimpcess Package - Not a Concert Ticket",
-      "description": "- Merch Pack - Signed VIP Laminate - VIP Laminate - Early Entry - First Access to Merch",
-      "start_datetime": "2026-02-19T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Fillmore Charlotte",
-        "address": "820 Hamilton Street",
-        "neighborhood": "",
-        "lat": 35.239095,
-        "lng": -80.845519
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/e66/6f2284d0-f10e-4b88-8ed4-9b47c0f4de66_RETINA_PORTRAIT_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/monaleo-pimpcess-package-not-a-concert-charlotte-north-carolina-02-18-2026/event/2D006354CB4581B4",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "miscellaneous"
-      ],
-      "_rank_score": 50
-    },
-    {
-      "id": "f63926c53bfe3eceac665e1345f6bb500951c663",
-      "title": "Vienna Boys' Choir",
-      "description": "ACCESSIBILITY - Accessible seating is available online through Ticketmaster by filtering on the ADA Icon and selecting Accessible Seats. Note: the Carolina Theatre has the original, historic stairs in the balcony. Please take that into consideration when buying balcony tickets. CASHLESS VENUE - the Carolina Theatre services all credit and debit payments only. No cash accepted at the box office or bar. BAG POLICY - We encourage you to pack light with only the necessities to make the entry process as soon as possible. Bags are allowed and are subject to search upon entry. Exceptions will be made for necessary medical equipment or accommodations.",
-      "start_datetime": "2026-02-22T00:30:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Carolina",
-        "address": "Carolina Theatre Charlotte Belk Place - 230 North Tryon",
-        "neighborhood": "",
-        "lat": 35.22827319,
-        "lng": -80.84086174
-      },
-      "category": [
-        "entertainment"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/dd5/d18b3744-c688-495c-a9d7-efb69821ddd5_1861131_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/vienna-boys-choir-charlotte-north-carolina-02-21-2026/event/2D00635D95017449",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "arts & theatre"
-      ],
-      "_rank_score": 50
-    },
-    {
-      "id": "a81b88079b48f88827b8b6c22a7b9ffbf7636e1b",
-      "title": "Legends Of Laughter",
-      "description": "Doors 7pm. Show 8pm.",
-      "start_datetime": "2026-02-22T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Ovens Auditorium",
-        "address": "2900 E Independence Boulevard",
-        "neighborhood": "East Charlotte",
-        "lat": 35.2050931,
-        "lng": -80.7953024
-      },
-      "category": [
-        "entertainment"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/222/fb91c43c-97c0-4ed6-99b8-9e9493a2b222_SOURCE",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/legends-of-laughter-charlotte-north-carolina-02-21-2026/event/2D0063488457340D",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "arts & theatre"
-      ],
-      "_rank_score": 50
-    },
-    {
-      "id": "09185244f01254bd608a3f621be4f95f53cd9ec4",
-      "title": "Brincos Dieras: El Desmadre Continua Tour",
-      "description": "Doors 6pm. Show 7pm. Después de su exitosa gira de 30 aniversario por México, Estados Unidos y Canadá, el payaso más irreverente regresa para arrancar carcajadas con su show \"El Desmadre Continúa Tour 2026\". En este tour, Brincos Dieras promete hacernos llorar de la risa con su inconfundible estilo Irreverente, su humor directo y sin filtros que lo ha llevado a pisar los escenarios más importantes de Norteamérica y convertirse en el favorito del público. Este año seguiremos festejando y celebrando su trayectoria, la conexión con su público y su forma de divertirnos. Prepárense para un show lleno de energía, risas y sorpresas porque El Desmadre Continúa. Ages 18+",
-      "start_datetime": "2026-02-23T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Ovens Auditorium",
-        "address": "2900 E Independence Boulevard",
-        "neighborhood": "East Charlotte",
-        "lat": 35.2050931,
-        "lng": -80.7953024
-      },
-      "category": [
-        "entertainment"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/096/1deb5fde-0f44-4ece-a818-1c145758c096_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
-      },
-      "url": "https://www.ticketmaster.com/brincos-dieras-el-desmadre-continua-tour-charlotte-north-carolina-02-22-2026/event/2D006375A6BCB36C",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "arts & theatre"
-      ],
-      "_rank_score": 50
-    },
-    {
-      "id": "11c85bf12b2a5536c52adc8f8ee8e9225927ac4d",
-      "title": "DRINKURWATER",
-      "description": "DRINKURWATER at The Rabbit Hole",
-      "start_datetime": "2026-02-22T03:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Rabbit Hole",
-        "address": "1801 Commonwealth Ave",
-        "neighborhood": "",
-        "lat": 35.219002,
-        "lng": -80.787598
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.611Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OUjA",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "undefined"
-      ],
-      "_rank_score": 45
     },
     {
       "id": "45807a014070847afdd357a84cb2f09f03eb8a07",
@@ -1961,14 +1286,14 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "",
       "confidence": 0.9,
       "tags": [
         "ticketmaster-api"
       ],
-      "_rank_score": 42
+      "_rank_score": 52
     },
     {
       "id": "4d1045270614aac61f1b52ae11972ffa1163bdc9",
@@ -1996,14 +1321,14 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "",
       "confidence": 0.9,
       "tags": [
         "ticketmaster-api"
       ],
-      "_rank_score": 42
+      "_rank_score": 52
     },
     {
       "id": "ee0af647359f4428c771dfc67f7f454c3b8a042d",
@@ -2031,14 +1356,14 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "",
       "confidence": 0.9,
       "tags": [
         "ticketmaster-api"
       ],
-      "_rank_score": 42
+      "_rank_score": 52
     },
     {
       "id": "a55cb9d9423dd7c23bd36d49161125499894332e",
@@ -2066,14 +1391,119 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "",
       "confidence": 0.9,
       "tags": [
         "ticketmaster-api"
       ],
-      "_rank_score": 42
+      "_rank_score": 52
+    },
+    {
+      "id": "3e4dcc3063e87969f59e2d2f8ad09c7e70c31e27",
+      "title": "2026 Fan Experience",
+      "description": "2026 Fan Experience at Spectrum Center",
+      "start_datetime": "2026-02-28T18:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade",
+        "neighborhood": "Uptown",
+        "lat": 35.22506060000002,
+        "lng": -80.8393335
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.846Z"
+      },
+      "url": "",
+      "confidence": 0.9,
+      "tags": [
+        "ticketmaster-api"
+      ],
+      "_rank_score": 52
+    },
+    {
+      "id": "0b5b75fe5e606c7600c378c0779b238acf3fbb49",
+      "title": "Suite Access Pass - Hornets vs. Trail Blazers",
+      "description": "Suite Access Pass - Hornets vs. Trail Blazers at Spectrum Center",
+      "start_datetime": "2026-02-28T18:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 E Trade St",
+        "neighborhood": "Uptown",
+        "lat": 35.225061,
+        "lng": -80.839334
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.846Z"
+      },
+      "url": "",
+      "confidence": 0.9,
+      "tags": [
+        "ticketmaster-api"
+      ],
+      "_rank_score": 52
+    },
+    {
+      "id": "0fa0e71b8ed1bea310cbc490de24effa893947d8",
+      "title": "2026 HBCU After Party",
+      "description": "2026 HBCU After Party at Spectrum Center",
+      "start_datetime": "2026-02-28T18:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade",
+        "neighborhood": "Uptown",
+        "lat": 35.22506060000002,
+        "lng": -80.8393335
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.846Z"
+      },
+      "url": "",
+      "confidence": 0.9,
+      "tags": [
+        "ticketmaster-api"
+      ],
+      "_rank_score": 52
     },
     {
       "id": "3ff4290e3cc4a44d72b188f1457dac19c7a94f58",
@@ -2101,7 +1531,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-02-16T15:47:27.612Z"
+        "scraped_at": "2026-02-23T15:53:28.846Z"
       },
       "url": "https://www.ticketmaster.com/the-echo-foundation-presents-ai-for-charlotte-north-carolina-02-24-2026/event/2D006383E221CE2A",
       "confidence": 1,
@@ -2109,7 +1539,611 @@
         "ticketmaster-api",
         "miscellaneous"
       ],
+      "_rank_score": 50
+    },
+    {
+      "id": "0828e0c23ee455fe7f04f3a6bd92f657476808e5",
+      "title": "Belcanto Incanto Concert Series: Lift Every Voice and Sing",
+      "description": "Celebrates the legacy of African American artists and composers in a moving tribute concert. Lift Every Voice explores the cultural truths and transformative power of Black voices in classical music?from spirituals to operatic arias. This concert is a stirring evening of heritage, harmony, inspiration, and celebration, paying homage to classical music giants while embracing the future of our great art form.",
+      "start_datetime": "2026-03-01T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Carolina",
+        "address": "Carolina Theatre Charlotte Belk Place - 230 North Tryon",
+        "neighborhood": "",
+        "lat": 35.22827319,
+        "lng": -80.84086174
+      },
+      "category": [
+        "entertainment"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/e/bc1/dd9d45e8-5c3d-4dbb-87e1-830ff1d40bc1_RETINA_PORTRAIT_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.846Z"
+      },
+      "url": "https://www.ticketmaster.com/belcanto-incanto-concert-series-lift-every-charlotte-north-carolina-02-28-2026/event/2D00632B9F4B3855",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "arts & theatre"
+      ],
+      "_rank_score": 50
+    },
+    {
+      "id": "df57174a74b594fe8b850537d763cd2996770f71",
+      "title": "GenX Takeover Comedy Tour",
+      "description": "Doors 6:30pm. Show 7:30pm. Welcome to Gen-X Takeover - where authenticity meets nostalgia. Our community is fueled by the vibrant voices of iconic creators like The Real Slim Sherri, Jon Wellington (The Dadbod Veteran, DBV), Nick Harrison (The Professor), and Kelly Manno, your best friend in your head with Special Guest host Justin Rupple. Each of them brings their unique flavor of humor, resilience, and unapologetic realness, making Gen-X Takeover the ultimate destination for those who celebrate life?s quirks and the power of being yourself.",
+      "start_datetime": "2026-03-02T00:30:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Ovens Auditorium",
+        "address": "2900 E Independence Boulevard",
+        "neighborhood": "East Charlotte",
+        "lat": 35.2050931,
+        "lng": -80.7953024
+      },
+      "category": [
+        "entertainment"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/549/2ad9d929-1561-4315-ab85-25c4691c5549_TABLET_LANDSCAPE_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/genx-takeover-comedy-tour-charlotte-north-carolina-03-01-2026/event/2D006319D9BEA638",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "arts & theatre"
+      ],
+      "_rank_score": 50
+    },
+    {
+      "id": "bd5d0f628f88e82c17cdf9cd16a815ac02ec5446",
+      "title": "Trancendence",
+      "description": "Trancendence at Blackbox Theater - Charlotte",
+      "start_datetime": "2026-03-01T03:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Blackbox Theater - Charlotte",
+        "address": "421 East Sugar Creek Rd",
+        "neighborhood": "",
+        "lat": 35.2897,
+        "lng": -80.730202
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.846Z"
+      },
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-op4",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "undefined"
+      ],
+      "_rank_score": 45
+    },
+    {
+      "id": "173f2b16cbfffce5ae6f5fd8172ea3352e7b4d5c",
+      "title": "Charlotte Hornets vs. Dallas Mavericks",
+      "description": "Charlotte Hornets vs. Dallas Mavericks at Spectrum Center",
+      "start_datetime": "2026-03-04T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade Street",
+        "neighborhood": "Uptown",
+        "lat": 35.225222,
+        "lng": -80.839921
+      },
+      "category": [
+        "sports",
+        "hornets"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/f48/2869041d-ebac-48fb-bf4f-54e797fa4f48_RETINA_PORTRAIT_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/charlotte-hornets-vs-dallas-mavericks-charlotte-north-carolina-03-03-2026/event/2D0062F9B4F498C0",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "sports"
+      ],
+      "_rank_score": 45
+    },
+    {
+      "id": "7cc5c45cad5dbfc979280bf7dae9c80c67c68a54",
+      "title": "Rob Reiner Double Feature",
+      "description": "ACCESSIBILITY - Accessible seating is available online through Ticketmaster by filtering on the ADA Icon and selecting Accessible Seats. Note: the Carolina Theatre has the original, historic stairs in the balcony. Please take that into consideration when buying balcony tickets. CASHLESS VENUE - the Carolina Theatre services all credit and debit payments only. No cash accepted at the box office or bar. BAG POLICY - We encourage you to pack light with only the necessities to make the entry process as soon as possible. Bags are allowed and are subject to search upon entry. Exceptions will be made for necessary medical equipment or accommodations.",
+      "start_datetime": "2026-03-07T18:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Carolina",
+        "address": "Carolina Theatre Charlotte Belk Place - 230 North Tryon",
+        "neighborhood": "",
+        "lat": 35.22827319,
+        "lng": -80.84086174
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/e/8cf/3228cb6a-8a5b-4c1d-a7d5-41b1539098cf_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/rob-reiner-double-feature-charlotte-north-carolina-03-07-2026/event/2D006437E42A3009",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "film"
+      ],
+      "_rank_score": 45
+    },
+    {
+      "id": "cf7609429d68a71056c01d2fbcebab315abfa4ae",
+      "title": "Barry Manilow Luxury",
+      "description": "Barry Manilow Luxury at Spectrum Center",
+      "start_datetime": "2026-03-02T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 E Trade St",
+        "neighborhood": "Uptown",
+        "lat": 35.225061,
+        "lng": -80.839334
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "",
+      "confidence": 0.9,
+      "tags": [
+        "ticketmaster-api"
+      ],
+      "_rank_score": 42
+    },
+    {
+      "id": "47d1f086ba078bb9fb1fbfc5de85136a0a15e3b3",
+      "title": "Postgame Pass - Section 103",
+      "description": "Postgame Pass - Section 103 at Spectrum Center",
+      "start_datetime": "2026-03-07T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade",
+        "neighborhood": "Uptown",
+        "lat": 35.22506060000002,
+        "lng": -80.8393335
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "",
+      "confidence": 0.9,
+      "tags": [
+        "ticketmaster-api"
+      ],
+      "_rank_score": 42
+    },
+    {
+      "id": "848cb3d7218ca89a2a477897ef3dd036ab3320a4",
+      "title": "Postgame Pass - Section 107",
+      "description": "Postgame Pass - Section 107 at Spectrum Center",
+      "start_datetime": "2026-03-07T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade",
+        "neighborhood": "Uptown",
+        "lat": 35.22506060000002,
+        "lng": -80.8393335
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "",
+      "confidence": 0.9,
+      "tags": [
+        "ticketmaster-api"
+      ],
+      "_rank_score": 42
+    },
+    {
+      "id": "12cacba67a54cb764a430060ce23d559301b657a",
+      "title": "Suite Access Pass - Hornets vs. Heat",
+      "description": "Suite Access Pass - Hornets vs. Heat at Spectrum Center",
+      "start_datetime": "2026-03-07T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 E Trade St",
+        "neighborhood": "Uptown",
+        "lat": 35.225061,
+        "lng": -80.839334
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "",
+      "confidence": 0.9,
+      "tags": [
+        "ticketmaster-api"
+      ],
+      "_rank_score": 42
+    },
+    {
+      "id": "e2a7b4789548e289df2d09262a87adac92991908",
+      "title": "2026 Fan Experience",
+      "description": "2026 Fan Experience at Spectrum Center",
+      "start_datetime": "2026-03-07T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade",
+        "neighborhood": "Uptown",
+        "lat": 35.22506060000002,
+        "lng": -80.8393335
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "",
+      "confidence": 0.9,
+      "tags": [
+        "ticketmaster-api"
+      ],
+      "_rank_score": 42
+    },
+    {
+      "id": "a88b2248a53f020610427faf8dce011eed4a80c2",
+      "title": "Chicks in the Office: Best Show on Earth",
+      "description": "All Ages Welcome Doors: 6:45PM Show: 7:30PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase. The Best Show on Earth is headed back on the road for leg two of our tour! This time we?re making pit stops in Charlotte, Seattle, San Diego, Dallas, Boston and Minneapolis! Join us for a night of laughs, pop culture, exclusive merch, drinks, games, and some VERY special guests! The Best Show on Earth Tour for the best fans on Earth. We can?t wait to see you there! VIP Ticket includes: Meet and greet with Ria and Fran! Hangout and take a photo with us before the show and sit in the best seats in the house.",
+      "start_datetime": "2026-03-04T00:30:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Fillmore Charlotte",
+        "address": "820 Hamilton Street",
+        "neighborhood": "",
+        "lat": 35.239095,
+        "lng": -80.845519
+      },
+      "category": [
+        "entertainment"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/040/7adb335b-68c0-4b48-85fd-8a8040127040_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/chicks-in-the-office-best-show-charlotte-north-carolina-03-03-2026/event/2D00642DD639D5F0",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "arts & theatre"
+      ],
+      "_rank_score": 40
+    },
+    {
+      "id": "23dc8ebdabe58cbf8b021645b435b1f851ea9c09",
+      "title": "\"Attack on Titan\" - Beyond the Walls World Tour - The Official Concert",
+      "description": "Doors 6:3pm. Show 7:30pm. All ages require a ticket",
+      "start_datetime": "2026-03-04T00:30:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Ovens Auditorium",
+        "address": "2900 E Independence Boulevard",
+        "neighborhood": "East Charlotte",
+        "lat": 35.2050931,
+        "lng": -80.7953024
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/f3b/681f0a92-6184-4c08-a79d-0be5873e2f3b_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/attack-on-titan-beyond-the-walls-charlotte-north-carolina-03-03-2026/event/2D00635D8E235739",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "film"
+      ],
       "_rank_score": 35
+    },
+    {
+      "id": "242b38d2b0547e7560a3cd5bfb2606ec25795477",
+      "title": "Karen Morgan",
+      "description": "Karen Morgan at Comedy Zone - Charlotte",
+      "start_datetime": "2026-03-05T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Comedy Zone - Charlotte",
+        "address": "900 NC Music Factory Blvd B3",
+        "neighborhood": "",
+        "lat": 35.256302,
+        "lng": -80.821198
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qS1Z",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "undefined"
+      ],
+      "_rank_score": 35
+    },
+    {
+      "id": "aa1e48dc5c71a0770566b9648a385ca0de911158",
+      "title": "2026 Fan Experience",
+      "description": "2026 Fan Experience at Spectrum Center",
+      "start_datetime": "2026-03-04T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade",
+        "neighborhood": "Uptown",
+        "lat": 35.22506060000002,
+        "lng": -80.8393335
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "",
+      "confidence": 0.9,
+      "tags": [
+        "ticketmaster-api"
+      ],
+      "_rank_score": 32
+    },
+    {
+      "id": "4459733daadc32be525b659f9937e0f199c339ac",
+      "title": "Suite Access Pass - Hornets vs. Mavericks",
+      "description": "Suite Access Pass - Hornets vs. Mavericks at Spectrum Center",
+      "start_datetime": "2026-03-04T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 E Trade St",
+        "neighborhood": "Uptown",
+        "lat": 35.225061,
+        "lng": -80.839334
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "",
+      "confidence": 0.9,
+      "tags": [
+        "ticketmaster-api"
+      ],
+      "_rank_score": 32
+    },
+    {
+      "id": "9458edf51fa15178f2e3201c5538515c3c32fee6",
+      "title": "Postgame Pass - Section 107",
+      "description": "Postgame Pass - Section 107 at Spectrum Center",
+      "start_datetime": "2026-03-04T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade",
+        "neighborhood": "Uptown",
+        "lat": 35.22506060000002,
+        "lng": -80.8393335
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "",
+      "confidence": 0.9,
+      "tags": [
+        "ticketmaster-api"
+      ],
+      "_rank_score": 32
+    },
+    {
+      "id": "debfd4c59e9fc3b39bcdf27bcddadbbdf36bdeb6",
+      "title": "Postgame Pass - Section 103",
+      "description": "Postgame Pass - Section 103 at Spectrum Center",
+      "start_datetime": "2026-03-04T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade",
+        "neighborhood": "Uptown",
+        "lat": 35.22506060000002,
+        "lng": -80.8393335
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "",
+      "confidence": 0.9,
+      "tags": [
+        "ticketmaster-api"
+      ],
+      "_rank_score": 32
     },
     {
       "id": "39238253ee1a203af6878b99bcda60f228430ff6",
@@ -2137,7 +2171,7 @@
       "source": {
         "name": "Charlotte on the Cheap",
         "url": "https://www.charlotteonthecheap.com/",
-        "scraped_at": "2026-02-16T15:47:27.613Z"
+        "scraped_at": "2026-02-23T15:53:28.847Z"
       },
       "url": "https://www.charlotteonthecheap.com/frugal-family-day-trips-charlotte/",
       "confidence": 0.5499999999999999,
@@ -2173,7 +2207,7 @@
       "source": {
         "name": "Charlotte on the Cheap",
         "url": "https://www.charlotteonthecheap.com/",
-        "scraped_at": "2026-02-16T15:47:27.613Z"
+        "scraped_at": "2026-02-23T15:53:28.847Z"
       },
       "url": "https://www.charlotteonthecheap.com/free-days-at-charlotte-museums/",
       "confidence": 0.5499999999999999,
@@ -2209,7 +2243,7 @@
       "source": {
         "name": "Charlotte on the Cheap",
         "url": "https://www.charlotteonthecheap.com/",
-        "scraped_at": "2026-02-16T15:47:27.613Z"
+        "scraped_at": "2026-02-23T15:53:28.847Z"
       },
       "url": "https://www.charlotteonthecheap.com/freethingstodo/",
       "confidence": 0.4,
@@ -2245,7 +2279,7 @@
       "source": {
         "name": "Charlotte on the Cheap",
         "url": "https://www.charlotteonthecheap.com/",
-        "scraped_at": "2026-02-16T15:47:27.613Z"
+        "scraped_at": "2026-02-23T15:53:28.847Z"
       },
       "url": "https://www.charlotteonthecheap.com/free-things-weekend-4/",
       "confidence": 0.4,
@@ -2281,7 +2315,7 @@
       "source": {
         "name": "Charlotte on the Cheap",
         "url": "https://www.charlotteonthecheap.com/",
-        "scraped_at": "2026-02-16T15:47:27.613Z"
+        "scraped_at": "2026-02-23T15:53:28.847Z"
       },
       "url": "https://www.charlotteonthecheap.com/cheap-dates/",
       "confidence": 0.4,
@@ -2317,7 +2351,7 @@
       "source": {
         "name": "Charlotte on the Cheap",
         "url": "https://www.charlotteonthecheap.com/",
-        "scraped_at": "2026-02-16T15:47:27.613Z"
+        "scraped_at": "2026-02-23T15:53:28.847Z"
       },
       "url": "https://www.charlotteonthecheap.com/free-fitness-classes-charlotte/",
       "confidence": 0.4,
@@ -2328,8 +2362,8 @@
       "_rank_score": -3
     },
     {
-      "id": "c343d65e9b9692ad15f0fced4b928f1fd5d9ffe0",
-      "title": "9 Spring Consignment Sales in Charlotte 2026",
+      "id": "fe49de63eefd738d92d25645819e7ce98338f53c",
+      "title": "170+ Charlotte area thrift, consignment, used books and records, antique and vintage stores",
       "description": "",
       "start_datetime": null,
       "end_datetime": null,
@@ -2349,47 +2383,11 @@
         "currency": "USD",
         "notes": "Check for low-cost options"
       },
-      "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2026/01/spring-consignment-sales-150x150.jpg",
+      "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2025/06/COTC-Thrift-Consignment-Record-Book-stores-1-150x150.jpg",
       "source": {
         "name": "Charlotte on the Cheap",
         "url": "https://www.charlotteonthecheap.com/",
-        "scraped_at": "2026-02-16T15:47:27.613Z"
-      },
-      "url": "https://www.charlotteonthecheap.com/charlotte-spring-consignment-sales/",
-      "confidence": 0.4,
-      "tags": [
-        "cheap",
-        "budget-friendly"
-      ],
-      "_rank_score": -3
-    },
-    {
-      "id": "aa5bbccffa1f9dae47fc4d065190c3eb74f83593",
-      "title": "120 Charlotte area thrift, consignment, used books, antique and vintage stores",
-      "description": "",
-      "start_datetime": null,
-      "end_datetime": null,
-      "venue": {
-        "name": "",
-        "address": "",
-        "neighborhood": "",
-        "lat": null,
-        "lng": null
-      },
-      "category": [
-        "special"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "Check for low-cost options"
-      },
-      "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2023/02/remix-market-harrisburg-jlm-150x150.jpg",
-      "source": {
-        "name": "Charlotte on the Cheap",
-        "url": "https://www.charlotteonthecheap.com/",
-        "scraped_at": "2026-02-16T15:47:27.613Z"
+        "scraped_at": "2026-02-23T15:53:28.847Z"
       },
       "url": "https://www.charlotteonthecheap.com/charlotte-area-thrift-consignment-vintage-store/",
       "confidence": 0.4,
@@ -2425,9 +2423,45 @@
       "source": {
         "name": "Charlotte on the Cheap",
         "url": "https://www.charlotteonthecheap.com/",
-        "scraped_at": "2026-02-16T15:47:27.613Z"
+        "scraped_at": "2026-02-23T15:53:28.847Z"
       },
       "url": "https://www.charlotteonthecheap.com/markets/",
+      "confidence": 0.4,
+      "tags": [
+        "cheap",
+        "budget-friendly"
+      ],
+      "_rank_score": -3
+    },
+    {
+      "id": "c343d65e9b9692ad15f0fced4b928f1fd5d9ffe0",
+      "title": "9 Spring Consignment Sales in Charlotte 2026",
+      "description": "",
+      "start_datetime": null,
+      "end_datetime": null,
+      "venue": {
+        "name": "",
+        "address": "",
+        "neighborhood": "",
+        "lat": null,
+        "lng": null
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "Check for low-cost options"
+      },
+      "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2026/01/spring-consignment-sales-150x150.jpg",
+      "source": {
+        "name": "Charlotte on the Cheap",
+        "url": "https://www.charlotteonthecheap.com/",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.charlotteonthecheap.com/charlotte-spring-consignment-sales/",
       "confidence": 0.4,
       "tags": [
         "cheap",
@@ -2461,7 +2495,7 @@
       "source": {
         "name": "Charlotte on the Cheap",
         "url": "https://www.charlotteonthecheap.com/",
-        "scraped_at": "2026-02-16T15:47:27.613Z"
+        "scraped_at": "2026-02-23T15:53:28.847Z"
       },
       "url": "https://www.charlotteonthecheap.com/charlotte-garage-sales/",
       "confidence": 0.4,
@@ -2470,6 +2504,39 @@
         "budget-friendly"
       ],
       "_rank_score": -3
+    },
+    {
+      "id": "89aad51842a956f5f1b504dc219865646e8ddc46",
+      "title": "Savor Charlotte 2026",
+      "description": "",
+      "start_datetime": null,
+      "end_datetime": null,
+      "venue": {
+        "name": "",
+        "address": "",
+        "neighborhood": "",
+        "lat": null,
+        "lng": null
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": ""
+      },
+      "image": null,
+      "source": {
+        "name": "Visit Charlotte",
+        "url": "https://www.charlottesgotalot.com/events",
+        "scraped_at": "2026-02-23T15:53:28.847Z"
+      },
+      "url": "https://www.charlottesgotalot.com/events",
+      "confidence": 0.30000000000000004,
+      "tags": [],
+      "_rank_score": -5.999999999999998
     }
   ]
 }
