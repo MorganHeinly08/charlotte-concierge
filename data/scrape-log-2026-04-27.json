@@ -1,0 +1,185 @@
+{
+  "scrape_start": "2026-04-27T16:45:30.064Z",
+  "scrape_end": "2026-04-27T16:45:31.916Z",
+  "duration_ms": 1852,
+  "total_logs": 24,
+  "logs": [
+    {
+      "timestamp": "2026-04-27T16:45:30.064Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "🚀 Starting Charlotte event crawler..."
+    },
+    {
+      "timestamp": "2026-04-27T16:45:30.073Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "📡 Fetching from: Ticketmaster API"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:30.692Z",
+      "level": "success",
+      "source": "Ticketmaster API",
+      "message": "Fetched 100 events",
+      "items_found": 100,
+      "status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:30.692Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Eventbrite API"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:30.692Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "📡 Fetching from: Visit Charlotte"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:30.693Z",
+      "level": "info",
+      "source": "Visit Charlotte",
+      "message": "Fetching https://www.charlottesgotalot.com/events"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.316Z",
+      "level": "success",
+      "source": "Visit Charlotte",
+      "message": "Fetched 4 events",
+      "items_found": 4,
+      "status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.316Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Eventbrite Charlotte"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.317Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "📡 Fetching from: Charlotte on the Cheap"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.318Z",
+      "level": "info",
+      "source": "Charlotte on the Cheap",
+      "message": "Fetching https://www.charlotteonthecheap.com/"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.901Z",
+      "level": "success",
+      "source": "Charlotte on the Cheap",
+      "message": "Fetched 39 events",
+      "items_found": 39,
+      "status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.901Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: CLTToday"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.901Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Axios Charlotte"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.901Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Ticketmaster Charlotte"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.901Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Uptown Charlotte Events"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.901Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: Charlotte Five"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.901Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⏭️  Skipping disabled source: QCity Metro"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.901Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "📝 Normalizing 143 raw events..."
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.905Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "🔍 Deduplicating events..."
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.906Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "⭐ Ranking and filtering events..."
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.907Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "Filtering 140 events..."
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.907Z",
+      "level": "warn",
+      "source": "Crawler",
+      "message": "17 events have no start_datetime"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.909Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "💾 Saved events to: /home/runner/work/charlotte-concierge/charlotte-concierge/data/events-2026-04-27.json"
+    },
+    {
+      "timestamp": "2026-04-27T16:45:31.916Z",
+      "level": "info",
+      "source": "Crawler",
+      "message": "💾 Updated latest.json"
+    }
+  ],
+  "summary": {
+    "total_events": 143,
+    "sources": {
+      "Crawler": {
+        "events": 0,
+        "errors": 0,
+        "status": "unknown"
+      },
+      "Ticketmaster API": {
+        "events": 100,
+        "errors": 0,
+        "status": "success"
+      },
+      "Visit Charlotte": {
+        "events": 4,
+        "errors": 0,
+        "status": "success"
+      },
+      "Charlotte on the Cheap": {
+        "events": 39,
+        "errors": 0,
+        "status": "success"
+      }
+    },
+    "errors": 0,
+    "warnings": 1
+  }
+}
