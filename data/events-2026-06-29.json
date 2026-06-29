@@ -1,0 +1,1623 @@
+[
+  {
+    "id": "5d4721a0b3bb2fa1fb46130671715f3195642225",
+    "title": "Pop 2000 Tour with Chris Kirkpatrick of *NSYNC",
+    "description": "Get ready to relive the ultimate throwback experience as the POP 2000 Tour returns. Hosted by Chris Kirkpatrick of *NSYNC, this all-star lineup features the biggest names from the golden era of pop. The tour brings together iconic acts like O-Town, BBMAK, Ryan Cabrera and LFO, delivering a night packed with chart-topping hits, unforgettable energy and non-stop nostalgia. From boy band anthems to heartfelt ballads and pop-rock favorites, the POP 2000 Tour is your chance to sing along to the soundtrack of the early 2000s live and louder than ever.",
+    "start_datetime": "2026-07-03T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "230 N Tryon",
+      "neighborhood": "",
+      "lat": 35.22852197,
+      "lng": -80.84064436
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/ce9/9381ab2d-32e5-47ea-ba42-0494ea2a3ce9_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/pop-2000-tour-with-chris-kirkpatrick-charlotte-north-carolina-07-03-2026/event/2D00643EA89FDD9A",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "5c3d9f5f503173c7624aeb885752468ac8be770e",
+    "title": "JOJI: SOLARIS",
+    "description": "Event start time has been changed from 6:30pm to 7:30pm. Doors at 6:30pm.",
+    "start_datetime": "2026-06-29T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/5ea/21cc5630-a6aa-492c-9c8d-03951757f5ea_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.208Z"
+    },
+    "url": "https://www.ticketmaster.com/joji-solaris-charlotte-north-carolina-06-29-2026/event/2D0064579880ADB3",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 80
+  },
+  {
+    "id": "95ad65a67b3818deaa0dfef26c59a785cce7a746",
+    "title": "Louis Tomlinson - How Did We Get Here? World Tour",
+    "description": "Louis Tomlinson - How Did We Get Here? World Tour at Spectrum Center",
+    "start_datetime": "2026-07-05T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/68c/b3dcece4-12b0-4210-8bb1-a0a36478768c_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/louis-tomlinson-how-did-we-get-charlotte-north-carolina-07-05-2026/event/2D00633AA5B66179",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "5ffb70bea29215074225c9e462c8ad7e99a7e083",
+    "title": "J. Cole: The Fall-Off Tour",
+    "description": "J. Cole: The Fall-Off Tour at Spectrum Center",
+    "start_datetime": "2026-07-11T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/4f4/44bb1cf4-fdde-49a8-813a-440dc24234f4_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/j-cole-the-falloff-tour-charlotte-north-carolina-07-10-2026/event/2D0064529D46D781",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "874dd2294c152513af2771c42032e3e6dee8c36a",
+    "title": "United We Dance Rave (21 and Over)",
+    "description": "United We Dance Rave (21 and Over) at Blackbox Theater - Charlotte",
+    "start_datetime": "2026-07-11T02:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Blackbox Theater - Charlotte",
+      "address": "421 East Sugar Creek Rd",
+      "neighborhood": "",
+      "lat": 35.2897,
+      "lng": -80.730202
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/b78/87a985cc-a4df-459c-a3aa-aa2416aaeb78_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PdAs",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "4638bee79bed768dbc55fb0bb6d72b26aea072fb",
+    "title": "Bingo Loco (21 and Over)",
+    "description": "Bingo Loco (21 and Over) at Blackbox Theater - Charlotte",
+    "start_datetime": "2026-07-11T20:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Blackbox Theater - Charlotte",
+      "address": "421 East Sugar Creek Rd",
+      "neighborhood": "",
+      "lat": 35.2897,
+      "lng": -80.730202
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/70b/dcda4fe8-2449-483c-93a1-03877718a70b_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PdAw",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "098658c3a8aab4ac361a10b0944d5d065b861c6a",
+    "title": "AC/DC - POWER UP TOUR 2026",
+    "description": "AC/DC - POWER UP TOUR 2026 at Bank of America Stadium",
+    "start_datetime": "2026-07-11T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/910/12eebbb3-14dc-486e-812a-6e6d8d7be910_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/acdc-power-up-tour-2026-charlotte-north-carolina-07-11-2026/event/2D00635E87419E3E",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "669fb8a3e022c88de743cdffbb9b337e0d36f5f7",
+    "title": "Flyleaf with Lacey Sturm - 20th Anniversary Tour",
+    "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:00PM Show: 7:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-07-09T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/fbd/03cbf54b-b653-4cdc-96a6-5014f66cafbd_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/flyleaf-with-lacey-sturm-20th-anniversary-charlotte-north-carolina-07-09-2026/event/2D006452BCA79924",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "8848e25d81f960600959c99bc6aec0ba99def380",
+    "title": "J. Cole: The Fall-Off Tour",
+    "description": "J. Cole: The Fall-Off Tour at Spectrum Center",
+    "start_datetime": "2026-07-12T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/4f4/44bb1cf4-fdde-49a8-813a-440dc24234f4_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/j-cole-the-falloff-tour-charlotte-north-carolina-07-11-2026/event/2D00644BA574ADA0",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "a774488e467f13fb814ee5e6b50604de5dbe4b6b",
+    "title": "Blackberry Smoke: Rattle, Ramble and Roll Tour 2026",
+    "description": "Doors 7:00pm. Show 8:00pm.",
+    "start_datetime": "2026-07-12T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Ovens Auditorium",
+      "address": "2900 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/03c/c43daa37-301b-4be7-8a28-fa056fba203c_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/blackberry-smoke-rattle-ramble-and-roll-charlotte-north-carolina-07-11-2026/event/2D006453C7FA5C55",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "64cc9f3b8a0e8e31cb5647417f1b9c977bd11ec2",
+    "title": "Bingo Loco (21 and Over)",
+    "description": "Bingo Loco (21 and Over) at Blackbox Theater - Charlotte",
+    "start_datetime": "2026-07-12T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Blackbox Theater - Charlotte",
+      "address": "421 East Sugar Creek Rd",
+      "neighborhood": "",
+      "lat": 35.2897,
+      "lng": -80.730202
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/70b/dcda4fe8-2449-483c-93a1-03877718a70b_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PdAS",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "dd73d88e82df84e85a97b5cdafb6a4a0bee98fb6",
+    "title": "HAWT MESS - 18+",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. Ages 18+ Welcome Doors: 9:00pm Show: 9:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-07-12T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/hawt-mess-18-charlotte-north-carolina-07-11-2026/event/2D0064AE8CE6B692",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "3558628dc1cd088c6b0093599ac1f8ae476c8868",
+    "title": "Luke Severeid (18 and Over)",
+    "description": "Luke Severeid (18 and Over) at Comedy Club at Duckworth's",
+    "start_datetime": "2026-07-03T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Comedy Club at Duckworth's",
+      "address": "330 N Tryon St",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pp0s",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "ab1aa38540955cc2cf3322ff33058d7601f18b4b",
+    "title": "Luke Severeid (18 and Over)",
+    "description": "Luke Severeid (18 and Over) at Comedy Club at Duckworth's",
+    "start_datetime": "2026-07-04T01:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Comedy Club at Duckworth's",
+      "address": "330 N Tryon St",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pp0w",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "76908877ff20f307a20f808edf4df63b8dd58c86",
+    "title": "Charlotte Knights vs. Nashville Sounds",
+    "description": "Charlotte Knights vs. Nashville Sounds at Truist Field - Charlotte",
+    "start_datetime": "2026-07-10T23:04:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZOA",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "0cc87d1b38e30cc1c06fc8cc0ae68225930c21f0",
+    "title": "Charlotte Knights vs. Nashville Sounds",
+    "description": "Charlotte Knights vs. Nashville Sounds at Truist Field - Charlotte",
+    "start_datetime": "2026-07-11T22:05:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZOk",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "2bebbc349946c8d496c75bec8e85c899dcbba36e",
+    "title": "USA National Rugby vs. Zimbabwe National Rugby",
+    "description": "USA National Rugby vs. Zimbabwe National Rugby at American Legion Memorial Stadium",
+    "start_datetime": "2026-07-11T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "American Legion Memorial Stadium",
+      "address": "310 N. Kings Drive",
+      "neighborhood": "",
+      "lat": 35.2145,
+      "lng": -80.827301
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/c5f/6b7bd13b-8d31-4ab9-8097-47897373fc5f_72861_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x7Po",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "bef70139cc023cb40198fa0d6c9e635e5640d2bb",
+    "title": "Gregg Allman: The Music of My Soul",
+    "description": "Note: this is a screening of the listed film. This soaring music documentary traces Gregg Allmans journey from a childhood scarred by his fathers murder to the heights of Southern rock and late-life sobriety, exploring grief, addiction, love, and the racially charged American South through his transcendent music. Tender and unsparing, featuring electrifying performances and archival recordings, the film reveals how Greggs unforgettable blend of rock, country and blues mirrored the music and struggles of his soul.",
+    "start_datetime": "2026-07-01T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "230 N Tryon",
+      "neighborhood": "",
+      "lat": 35.22852197,
+      "lng": -80.84064436
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/602/699913d2-f4ae-4677-b29f-51ab32555602_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/gregg-allman-the-music-of-my-charlotte-north-carolina-07-01-2026/event/2D0064C1F0824573",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "film"
+    ],
+    "_rank_score": 50
+  },
+  {
+    "id": "c886d0f14b232ee2fd2d3bfa574f83428b284062",
+    "title": "Lost Years Series: Independence Day (1996 film)",
+    "description": "Note: this is a screening of the listed, Independence Day (1996 ), film. Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived; its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances to save the planet. The filmmakers behind 1994's smash science fiction hit Stargate have revolutionized and redefined the way big-event movies are produced through a new level of groundbreaking effects, techniques and spectacular, never-before-seen images in this epic science fiction tale.",
+    "start_datetime": "2026-07-02T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "230 N Tryon",
+      "neighborhood": "",
+      "lat": 35.22852197,
+      "lng": -80.84064436
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/ce8/6b23b86b-33f2-45dd-91a7-9d5f5ee8cce8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/lost-years-series-independence-day-1996-charlotte-north-carolina-07-02-2026/event/2D0064B391F5CB9F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "film"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "26453e0d9269b38e3ebb0ef1da7527dae26b210d",
+    "title": "Luke Severeid (18 and Over)",
+    "description": "Luke Severeid (18 and Over) at Comedy Club at Duckworth's",
+    "start_datetime": "2026-07-02T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Comedy Club at Duckworth's",
+      "address": "330 N Tryon St",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pp0Y",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "50aceebcd9b43e68036cea2e1cbbdf8e22dc57e3",
+    "title": "Luke Severeid (18 and Over)",
+    "description": "Luke Severeid (18 and Over) at Comedy Club at Duckworth's",
+    "start_datetime": "2026-07-05T00:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Comedy Club at Duckworth's",
+      "address": "330 N Tryon St",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pp0V",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "29ac9a51e754b3b8f6abe925c76fe13b6036e4db",
+    "title": "Charlotte Knights vs. Nashville Sounds",
+    "description": "Charlotte Knights vs. Nashville Sounds at Truist Field - Charlotte",
+    "start_datetime": "2026-07-07T23:04:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZOe",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "a031eed014d564ae65ca23c81cca15ab3fa911dd",
+    "title": "Charlotte Knights vs. Nashville Sounds",
+    "description": "Charlotte Knights vs. Nashville Sounds at Truist Field - Charlotte",
+    "start_datetime": "2026-07-08T23:04:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZOd",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "ee6a7027223c4a78e1e5e8a69001cd4f28cdc31e",
+    "title": "Charlotte Knights vs. Nashville Sounds",
+    "description": "Charlotte Knights vs. Nashville Sounds at Truist Field - Charlotte",
+    "start_datetime": "2026-07-09T23:04:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZO7",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "d4bd8b17bb74ced5f2e4ed4f969cf98cd98b162f",
+    "title": "Dracula: A Comedy of Terrors",
+    "description": "Dracula: A Comedy of Terrors at Booth Playhouse-NC",
+    "start_datetime": "2026-07-10T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Booth Playhouse-NC",
+      "address": "130 North Tryon Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qM0p",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "c3947db311e04f74bc93f2b4c61430778a3961f9",
+    "title": "Dracula: A Comedy of Terrors",
+    "description": "Dracula: A Comedy of Terrors at Booth Playhouse-NC",
+    "start_datetime": "2026-07-11T18:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Booth Playhouse-NC",
+      "address": "130 North Tryon Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z",
+      "merged_from": "Ticketmaster API"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qM0e",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "4c0d0b70c632d53a81792e39c70a9afad3584cf3",
+    "title": "Charlotte Knights vs. Nashville Sounds",
+    "description": "Charlotte Knights vs. Nashville Sounds at Truist Field - Charlotte",
+    "start_datetime": "2026-07-12T17:05:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZO6",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "94a2bee206610dd05132db231e69d265a265bebd",
+    "title": "Dracula: A Comedy of Terrors",
+    "description": "Dracula: A Comedy of Terrors at Booth Playhouse-NC",
+    "start_datetime": "2026-07-07T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Booth Playhouse-NC",
+      "address": "130 North Tryon Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qM08",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 35
+  },
+  {
+    "id": "051a09466bef29b465b70d8d00ff91f5d5727a97",
+    "title": "Dracula: A Comedy of Terrors",
+    "description": "Dracula: A Comedy of Terrors at Booth Playhouse-NC",
+    "start_datetime": "2026-07-08T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Booth Playhouse-NC",
+      "address": "130 North Tryon Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qM0K",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 35
+  },
+  {
+    "id": "81d6331d6508aac293026c10e6135ff15f67e5b9",
+    "title": "Dracula: A Comedy of Terrors",
+    "description": "Dracula: A Comedy of Terrors at Booth Playhouse-NC",
+    "start_datetime": "2026-07-09T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Booth Playhouse-NC",
+      "address": "130 North Tryon Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qM03",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 35
+  },
+  {
+    "id": "d3a176e37937dcb763a2c8f0c62f2647908bdf14",
+    "title": "Dracula: A Comedy of Terrors",
+    "description": "Dracula: A Comedy of Terrors at Booth Playhouse-NC",
+    "start_datetime": "2026-07-12T17:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Booth Playhouse-NC",
+      "address": "130 North Tryon Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-06-29T17:42:42.209Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qM0k",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 35
+  },
+  {
+    "id": "cb70faa9a18cedb7ff0fabdb887309e03d6539b7",
+    "title": "Boileryard Brunch",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "restaurant"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": ""
+    },
+    "image": null,
+    "source": {
+      "name": "Visit Charlotte",
+      "url": "https://www.charlottesgotalot.com/events",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlottesgotalot.com/events",
+    "confidence": 0.30000000000000004,
+    "tags": [],
+    "_rank_score": 4
+  },
+  {
+    "id": "430098c859d4118587bde371424ba7f42362db7c",
+    "title": "Love Out Loud Drag Brunch",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "restaurant"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": ""
+    },
+    "image": null,
+    "source": {
+      "name": "Visit Charlotte",
+      "url": "https://www.charlottesgotalot.com/events",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlottesgotalot.com/events",
+    "confidence": 0.30000000000000004,
+    "tags": [],
+    "_rank_score": 4
+  },
+  {
+    "id": "39238253ee1a203af6878b99bcda60f228430ff6",
+    "title": "18 Great Day Trips from Charlotte",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "Day Trips from Charlotte",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2022/06/NC-transportation-Museum-Visitors-on-Property-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/frugal-family-day-trips-charlotte/",
+    "confidence": 0.5499999999999999,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": 1.4999999999999964
+  },
+  {
+    "id": "dbdaf3fe3f87815243401adaec15f3a9d50c67d2",
+    "title": "Free days at Charlotte museums",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "Charlotte museums",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2021/03/bechtler-firebird-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/free-days-at-charlotte-museums/",
+    "confidence": 0.5499999999999999,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": 1.4999999999999964
+  },
+  {
+    "id": "717566e87fc4f77a2ea51a459cd1c142f0943f07",
+    "title": "Free and cheap things to do in Charlotte this week",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2025/06/Free-things-to-do-this-week-charlotte-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/freethingstodo/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "e8a4f429d5cf7ac8512fba741c62e4d5e4288373",
+    "title": "Free and cheap things to do in Charlotte this weekend",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2025/05/free-and-cheap-things-weekend-charlotte-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/free-things-weekend-4/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "9320ef44b0e64221668da1ba49ed7c19c3da54ce",
+    "title": "50+ Cheap Dates in Charlotte",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2023/01/rosies-wine-garden-jlm-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/cheap-dates/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "5244967c62717b7bccad9b095a560677c3141e85",
+    "title": "Free fitness classes and events in Charlotte — a calendar",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2019/03/charlotte-on-the-cheap-fitness-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/free-fitness-classes-charlotte/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "e69db81eee54f3b697cb6c8693e5f5aa041ad47c",
+    "title": "185+ Charlotte area thrift, consignment, used books and records, antique and vintage stores (updated!)",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2025/06/COTC-Thrift-Consignment-Record-Book-stores-1-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/charlotte-area-thrift-consignment-vintage-store/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "80388ed49cf00b728af8e76ad16a45f8406a72c1",
+    "title": "Spring Consignment Sales in Charlotte",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2026/01/spring-consignment-sales-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/charlotte-spring-consignment-sales/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "e6d6f5c111afa79a5066ed5441b2b19008a99098",
+    "title": "Day-by-day list of markets around Charlotte — art, vintage, hand-made items",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2023/09/ceramic-cups-Depositphotos_213916864_S-150x150.jpeg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/markets/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "0e1c37991a06b609dcdd2ee6d52a6b966306c6ad",
+    "title": "Charlotte Garage Sales this weekend — and 10 hints for finding hidden gems at great prices",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2019/07/garage-sale-Depositphotos_17860049_s-2019-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/charlotte-garage-sales/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "0372075d83153cd26c975079ce7666df61dd0393",
+    "title": "Titanic: The Exhibition",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": ""
+    },
+    "image": null,
+    "source": {
+      "name": "Visit Charlotte",
+      "url": "https://www.charlottesgotalot.com/events",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlottesgotalot.com/events",
+    "confidence": 0.30000000000000004,
+    "tags": [],
+    "_rank_score": -5.999999999999998
+  },
+  {
+    "id": "e57b6cf595d12a1102faa0de21f37496a4659b29",
+    "title": "Red, White, & Belmont",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": ""
+    },
+    "image": null,
+    "source": {
+      "name": "Visit Charlotte",
+      "url": "https://www.charlottesgotalot.com/events",
+      "scraped_at": "2026-06-29T17:42:42.210Z"
+    },
+    "url": "https://www.charlottesgotalot.com/events",
+    "confidence": 0.30000000000000004,
+    "tags": [],
+    "_rank_score": -5.999999999999998
+  }
+]
