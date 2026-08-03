@@ -1,0 +1,2369 @@
+[
+  {
+    "id": "c8da53c2dca370ca8be0fded6d5f825c2baf43ef",
+    "title": "The Fray - Summer of Light Tour with Dashboard Confessional",
+    "description": "This is an outdoor venue with no seats under cover. The show will take place rain or shine. All dates, acts, & ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of sale. Outside Lawn Chairs are not permitted.",
+    "start_datetime": "2026-08-07T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Skyla Credit Union Amphitheatre",
+      "address": "1000 NC Music Factory Blvd",
+      "neighborhood": "",
+      "lat": 35.239793,
+      "lng": -80.845042
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/569/f5ca14e9-cce1-4051-a44d-6a9daf6b4569_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/the-fray-summer-of-light-tour-charlotte-north-carolina-08-07-2026/event/2D006435E8424327",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "eeb6f6c1ef1bf5908d527a1398b1e2ee464c79b3",
+    "title": "Bryan Adams: Roll with the Punches w/ guest Pat Benatar & Neil Giraldo",
+    "description": "Bryan Adams: Roll with the Punches w/ guest Pat Benatar & Neil Giraldo at Spectrum Center",
+    "start_datetime": "2026-08-08T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/414/eec4659a-b582-47b3-b4d6-a9dfa6324414_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/bryan-adams-roll-with-the-punches-charlotte-north-carolina-08-08-2026/event/2D00646D08DC7020",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "dda56a7ab1f669549f8a8cf356ee005df07e3967",
+    "title": "NINE VICIOUS - A TOUR",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-08-06T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/913/018f2011-a3b9-4ecb-a767-5fc1a0c0d913_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/nine-vicious-a-tour-charlotte-north-carolina-08-05-2026/event/2D0064879F0AC2CC",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 80
+  },
+  {
+    "id": "d99798d06cc2453e991c8d9f591dae1872b19d41",
+    "title": "Chance Peña",
+    "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-08-06T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/bd7/9f5abf0e-f1fb-4d6a-b06d-659a1fd69bd7_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/chance-pena-charlotte-north-carolina-08-05-2026/event/2D006379B3099C27",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 80
+  },
+  {
+    "id": "59bcc3bccf4f8f60e07661f7cec3e3ebab56bd0e",
+    "title": "Cumbiatron - The Cumbia Rave (21+)",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. Ages 21+ Welcome Doors: 9:00PM Show: 9:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-08-09T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/c20/0b1c8b5b-be17-41cf-8d4c-7ba639e29c20_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/cumbiatron-the-cumbia-rave-21-charlotte-north-carolina-08-08-2026/event/2D0064CB9446B398",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "27fc1dead3ce88fd589a9306db0bd83d3d8d4279",
+    "title": "Bronco",
+    "description": "Doors 7pm. Show 8pm. All purchase transactions will be cashless. Purchases can be made with a debit card or credit card; matching ID required. All dates, acts, & ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of sale. Any non-clear bag larger than 4.5\" x 6.5\" and clear bags larger than 12\" x 6\" x 12\" are not allowed.",
+    "start_datetime": "2026-08-10T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Ovens Auditorium",
+      "address": "2900 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/afd/a84628f3-0272-41a9-aca5-874206985afd_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/bronco-charlotte-north-carolina-08-09-2026/event/2D006263B5F62FD3",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "acbdc2dd9998b203b98fc3b36df3d5f2c1201d1a",
+    "title": "Stellar Unplugged Live Event Concert",
+    "description": "Stellar Unplugged Live Event Concert at The Fillmore Charlotte",
+    "start_datetime": "2026-08-14T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f6d/6f417e97-2981-4605-a837-a307d33e3f6d_105491_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.universe.com/events/stellar-unplugged-tickets-RSY4C1",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "cfa8da9b2f4c20e67c53843fd948e62a7ea2a519",
+    "title": "JOSH TATOFI: Looking For Love Tour",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+    "start_datetime": "2026-08-15T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Main Room",
+      "address": "511 E 36th St",
+      "neighborhood": "",
+      "lat": 35.247447,
+      "lng": -80.803888
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/baf/b9424bec-357e-4529-b125-fc5d79ce2baf_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/josh-tatofi-looking-for-love-tour-charlotte-north-carolina-08-14-2026/event/2D0064ADDB86E628",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "5b1380c7eca11d32211fc9c5cdc4350b146817ae",
+    "title": "Mariachazo",
+    "description": "Doors 7pm. Show 8pm.",
+    "start_datetime": "2026-08-15T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Ovens Auditorium",
+      "address": "2900 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/022/ceb792a9-dd48-4829-bf2f-3036e79fd022_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/mariachazo-charlotte-north-carolina-08-14-2026/event/2D00645885F1B0AA",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "6480bcf08068749f7f3eb01e7d5d114a7b8d8c6d",
+    "title": "ISAIAH RASHAD: Lil Sunny's Awful Road Trip",
+    "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-08-15T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/2b3/d3c09135-2615-4cde-a37a-743ac37c42b3_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-charlotte-north-carolina-08-14-2026/event/2D0064CCA63B1334",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "c4f1e9259daefcc01fe5cf6981c26dc3513109fa",
+    "title": "Baila Habibi (21+)",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. Ages 21+ Welcome Doors: 9:00PM Show: 9:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-08-15T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.ticketmaster.com/baila-habibi-21-charlotte-north-carolina-08-14-2026/event/2D0064EAA37D2AA2",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "4d10e47eb26072bc719973a14b08db011a09096e",
+    "title": "41st Annual Stellar Awards",
+    "description": "The Stellar Awards, known as the \"Greatest Night in Gospel Music,\" is the ultimate celebration of gospel music, honoring the artists, performances, and achievements that inspire and uplift us through song. It?s a powerful celebration of faith, culture, and the heart of gospel music.",
+    "start_datetime": "2026-08-15T20:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/d8f/46990e55-5dcf-430c-80d0-d1d7dffa7d8f_192371_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.ticketmaster.com/41st-annual-stellar-awards-charlotte-north-carolina-08-15-2026/event/2D0064A88BDFE883",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "893aadf36338c587130e3a8dbc35584ae89db95b",
+    "title": "PFL Charlotte",
+    "description": "Doors 6pm. Event 7pm.",
+    "start_datetime": "2026-08-07T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bojangles Coliseum",
+      "address": "2700 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/460/382e7bcd-1c49-433c-8794-51c1906b7460_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/pfl-charlotte-charlotte-north-carolina-08-07-2026/event/2D0064C39370DC8C",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "d385338235629ed9f18d8c473b840d8cd9cd3da3",
+    "title": "Charlotte Knights vs. Durham Bulls",
+    "description": "Charlotte Knights vs. Durham Bulls at Truist Field - Charlotte",
+    "start_datetime": "2026-08-07T23:04:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZO-",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "28f95a7e742311e62b0f3e1f40350e829d47ca1a",
+    "title": "2026 Leagues Cup Phase One: Charlotte FC vs Atlas FC",
+    "description": "2026 Leagues Cup Phase One: Charlotte FC vs Atlas FC at Bank of America Stadium",
+    "start_datetime": "2026-08-07T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "sports",
+      "soccer"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/f6e/308835c9-2787-46e7-b887-3fe19dcc6f6e_1556291_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/2026-leagues-cup-phase-one-charlotte-charlotte-north-carolina-08-07-2026/event/2D006498271B1EE5",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "6f9f9dc00478da8dc4d41897ac9a1e8f203fea91",
+    "title": "Charlotte Crown vs. Savannah Steel",
+    "description": "Doors 3pm. Game 4pm.",
+    "start_datetime": "2026-08-08T20:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bojangles Coliseum",
+      "address": "2700 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/bf0/d7b9f476-6daf-4a12-9699-83e88d441bf0_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-crown-vs-savannah-steel-charlotte-north-carolina-08-08-2026/event/2D00643CA039EA54",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "ce6e9b38e4b2b69e06cfc7b633b2c140bb756e0f",
+    "title": "Charlotte Knights vs. Durham Bulls",
+    "description": "Charlotte Knights vs. Durham Bulls at Truist Field - Charlotte",
+    "start_datetime": "2026-08-08T22:05:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZOx",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "f8c2311984583aabaabf6dc9a557570213941eef",
+    "title": "Chêne",
+    "description": "Join Chêne Gear for an evening of outdoor films, storytelling, conservation, and community at the The Carolina Theatre. Featuring a curated selection of short films from past Chêne Film Fests, the evening highlights waterfowl culture, hunting tradition, conservation, and the people who shape the outdoor community. Guests can enjoy a casual happy hour, merchandise, guest speakers, and an immersive film experience designed to bring the Charlotte outdoor community together. Inspired by the spirit of Chêne Fest, this event offers a unique night centered around film, culture, and connection. Whether it is a date night, an off-season gathering with friends, or simply a chance to connect with others who share a passion for the outdoors, we look forward to welcoming you for the evening.",
+    "start_datetime": "2026-08-08T22:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "230 N Tryon",
+      "neighborhood": "",
+      "lat": 35.22852197,
+      "lng": -80.84064436
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/2f6/3015a78a-aa24-4428-9bc8-667ef47ca2f6_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/chene-charlotte-north-carolina-08-08-2026/event/2D0064AC9F96191D",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "6f98f350e672a8456f5bc07bfb3b6544e9b387f0",
+    "title": "BRIT FLOYD - The Wall, The Moon and Beyond",
+    "description": "Doors 6:30pm. Show 7:30pm.",
+    "start_datetime": "2026-08-11T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Ovens Auditorium",
+      "address": "2900 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/a5b/d64a6ad6-ab25-4204-978f-7a6a1352fa5b_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/brit-floyd-the-wall-the-moon-charlotte-north-carolina-08-11-2026/event/2D006453A609E93B",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "fe2363a51c6bd64f5caabe4906d6c8d719390bb8",
+    "title": "FRANZ FERDINAND: Greater Glasgow Cultural Exchange *SOLD OUT*",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State-Issued ID or Driver's License, Military ID, Passport.) // The balcony is restricted to ages 21+.",
+    "start_datetime": "2026-08-12T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Main Room",
+      "address": "511 E 36th St",
+      "neighborhood": "",
+      "lat": 35.247447,
+      "lng": -80.803888
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/3df/3cf40085-ff9c-49ab-927f-48bc27b4e3df_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/franz-ferdinand-greater-glasgow-cultural-exchange-charlotte-north-carolina-08-11-2026/event/2D0064649829C9CC",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "3036730345685bb81ab3ff6afb8d968ff7cec4b4",
+    "title": "PJ Morton - Saturday Night Sunday Morning Tour",
+    "description": "PJ Morton is a soul singer, songwriter, performer and producer based in New Orleans. He is a 6x GRAMMY-winner and 22x GRAMMY nominee who has earned numerous nominations for BET, Soul Train and NAACP Image Awards, in addition to selling out countless shows at historic venues like the Apollo Theater and others around the world. On top of running his own record label (Morton Records) and serving as Maroon 5's full-time keyboardist for the past 15 years, he has collaborated with Stevie Wonder, Erykah Badu, Jon Batiste, Nas, Lil Wayne, JoJo, Jill Scott and many others.",
+    "start_datetime": "2026-08-12T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "230 N Tryon",
+      "neighborhood": "",
+      "lat": 35.22852197,
+      "lng": -80.84064436
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/c8d/498ca90e-b76e-4db8-a00d-127e62d6ac8d_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/pj-morton-saturday-night-sunday-morning-charlotte-north-carolina-08-12-2026/event/2D006487CA844D3F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "995399166fcbd567f336a28ac2a89bb4510bf21b",
+    "title": "Mon Laferte - Femme Fatale Tour",
+    "description": "Doors 7:00pm. Show 8:00pm.",
+    "start_datetime": "2026-08-13T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Ovens Auditorium",
+      "address": "2900 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/2ca/a1771aa9-0c8d-40f3-9b91-f5a7064762ca_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-charlotte-north-carolina-08-12-2026/event/2D00646BE30979BA",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "3cd00eae41179c45c042891a83d67f2e5f2d8c1f",
+    "title": "American Aquarium",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+    "start_datetime": "2026-08-16T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Main Room",
+      "address": "511 E 36th St",
+      "neighborhood": "",
+      "lat": 35.247447,
+      "lng": -80.803888
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/e4d/7a18f7d4-b3cb-4e4c-a07e-eb4773b5fe4d_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.ticketmaster.com/american-aquarium-charlotte-north-carolina-08-15-2026/event/2D0064ADF97F736C",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "9a962ca96b64cd42bbc58dbe1d679b65eb14ad57",
+    "title": "R&B ONLY LIVE - Charlotte, NC",
+    "description": "R&B ONLY LIVE - Charlotte, NC at The Fillmore Charlotte",
+    "start_datetime": "2026-08-16T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/ea6/4b579945-d22f-4ad7-963f-6289ef280ea6_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.universe.com/events/r-b-only-live-charlotte-nc-tickets-1Y8ZRQ?ref=ticketmaster",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "70746e327cb91624229bedd693cd9b3f94458d2e",
+    "title": "COLORS Presents: R&B ONLY",
+    "description": "COLORS Presents: R&B ONLY at The Fillmore Charlotte",
+    "start_datetime": "2026-08-16T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/ea6/4b579945-d22f-4ad7-963f-6289ef280ea6_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.universe.com/events/r-b-only-live-charlotte-nc-tickets-1Y8ZRQ",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "a1bc0b51763ca6ca6f30b86dc84bb1b0658cd400",
+    "title": "R&B Only",
+    "description": "R&B Only at The Fillmore - Charlotte",
+    "start_datetime": "2026-08-16T01:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore - Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/ea6/4b579945-d22f-4ad7-963f-6289ef280ea6_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Je_I",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "8a7754823610fe0f82301cb459800ec0e69bc35c",
+    "title": "Master Pro Events Live Presents: Los Tucanes De Tijuana",
+    "description": "Doors 7pm. Show 8pm.",
+    "start_datetime": "2026-08-17T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Ovens Auditorium",
+      "address": "2900 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/8ab/529a465e-d57e-408f-bd99-fc65a8cd68ab_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.ticketmaster.com/master-pro-events-live-presents-los-charlotte-north-carolina-08-16-2026/event/2D006429F3B5F793",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "fba74fe6d05ba7bb909f97b6c34847469fcfe93e",
+    "title": "Ella Mai: Do You Still Love Me? Tour",
+    "description": "This is an outdoor venue with no seats under cover. The show will take place rain or shine. All dates, acts, & ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of sale. Outside Lawn Chairs are not permitted.",
+    "start_datetime": "2026-08-17T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Skyla Credit Union Amphitheatre",
+      "address": "1000 NC Music Factory Blvd",
+      "neighborhood": "",
+      "lat": 35.239793,
+      "lng": -80.845042
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/377/a376714c-1651-4abf-bf23-2c77863f9377_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.ticketmaster.com/ella-mai-do-you-still-love-charlotte-north-carolina-08-16-2026/event/2D00646696F6D5F8",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "a920a49ef89ed3d69e4cf40c9aecb14987202019",
+    "title": "Charlotte Knights vs. Durham Bulls",
+    "description": "Charlotte Knights vs. Durham Bulls at Truist Field - Charlotte",
+    "start_datetime": "2026-08-04T23:04:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZOb",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 60
+  },
+  {
+    "id": "6b4f97b5c889ea07d763d8d66a41801d10306994",
+    "title": "2026 Leagues Cup Phase One: Charlotte FC vs Pumas",
+    "description": "2026 Leagues Cup Phase One: Charlotte FC vs Pumas at Bank of America Stadium",
+    "start_datetime": "2026-08-05T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "sports",
+      "soccer"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/f6e/308835c9-2787-46e7-b887-3fe19dcc6f6e_1556291_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/2026-leagues-cup-phase-one-charlotte-charlotte-north-carolina-08-04-2026/event/2D006498EC5C8BD6",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 60
+  },
+  {
+    "id": "3bdf003ba17af47a85180175823c34d610bc1359",
+    "title": "Charlotte Crown vs. Savannah Steel",
+    "description": "Doors 6pm. Game 7pm.",
+    "start_datetime": "2026-08-05T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bojangles Coliseum",
+      "address": "2700 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/bf0/d7b9f476-6daf-4a12-9699-83e88d441bf0_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-crown-vs-savannah-steel-charlotte-north-carolina-08-05-2026/event/2D00643CA030EA3C",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 60
+  },
+  {
+    "id": "4649ed29475264d4578ba382ed9e1eee53d5c2a5",
+    "title": "Charlotte Knights vs. Durham Bulls",
+    "description": "Charlotte Knights vs. Durham Bulls at Truist Field - Charlotte",
+    "start_datetime": "2026-08-05T23:04:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZO_",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 60
+  },
+  {
+    "id": "62b82636c6e50e63c5f2dded1d9c0913de632557",
+    "title": "John Mulaney: Mister Whatever",
+    "description": "Doors: 6:30pm. Show: 7:30pm.",
+    "start_datetime": "2026-08-07T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Ovens Auditorium",
+      "address": "2900 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "entertainment"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/b30/ccd9ebe2-c301-4487-bbe4-5bd6be744b30_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/john-mulaney-mister-whatever-charlotte-north-carolina-08-07-2026/event/2D00644CD98BCC91",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "arts & theatre"
+    ],
+    "_rank_score": 60
+  },
+  {
+    "id": "c1c24c00b9e5fbee4524bd565005dc9b30ac69d0",
+    "title": "John Mulaney: Mister Whatever",
+    "description": "Doors: 6:00pm. Show: 7:00pm.",
+    "start_datetime": "2026-08-08T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Ovens Auditorium",
+      "address": "2900 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "entertainment"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/b30/ccd9ebe2-c301-4487-bbe4-5bd6be744b30_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/john-mulaney-mister-whatever-charlotte-north-carolina-08-08-2026/event/2D00644CD98FCC9E",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "arts & theatre"
+    ],
+    "_rank_score": 60
+  },
+  {
+    "id": "9b5ebd590c5a6247372f5c1723d499fd699cad85",
+    "title": "Charlotte Knights vs. Durham Bulls",
+    "description": "Charlotte Knights vs. Durham Bulls at Truist Field - Charlotte",
+    "start_datetime": "2026-08-06T23:04:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZOO",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "4a72935493903345d438a37271b895e111fe7e60",
+    "title": "Tell Me Lies - Tribute To Fleetwood Mac",
+    "description": "Tell Me Lies - Tribute To Fleetwood Mac at The Amp Ballantyne",
+    "start_datetime": "2026-08-07T21:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Amp Ballantyne",
+      "address": "11115 Upper Ave",
+      "neighborhood": "",
+      "lat": 35.053299,
+      "lng": -80.813004
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x_Zd",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "86d122bbe6124c49502f94bcf1ade8883b8b128f",
+    "title": "Dracula: A Comedy of Terrors",
+    "description": "Dracula: A Comedy of Terrors at Booth Playhouse-NC",
+    "start_datetime": "2026-08-07T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Booth Playhouse-NC",
+      "address": "130 North Tryon Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qM0E",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "3769cccdec62eea87aab539e547bd3804a36dd41",
+    "title": "Dracula: A Comedy of Terrors",
+    "description": "Dracula: A Comedy of Terrors at Booth Playhouse-NC",
+    "start_datetime": "2026-08-08T18:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Booth Playhouse-NC",
+      "address": "130 North Tryon Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z",
+      "merged_from": "Ticketmaster API"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qM0F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "c1392e46718a60aac65ab9eaa876e693a50f8c53",
+    "title": "Charlotte Crown vs. Savannah Steel",
+    "description": "Doors 1pm. Game 2pm.",
+    "start_datetime": "2026-08-09T18:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bojangles Coliseum",
+      "address": "2700 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/bf0/d7b9f476-6daf-4a12-9699-83e88d441bf0_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-crown-vs-savannah-steel-charlotte-north-carolina-08-09-2026/event/2D00643CA01DEA1A",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "50e42b00b4fd59438238c42d39988f9d299ae97c",
+    "title": "Charlotte Knights vs. Durham Bulls",
+    "description": "Charlotte Knights vs. Durham Bulls at Truist Field - Charlotte",
+    "start_datetime": "2026-08-09T21:05:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZON",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "d17c42fdb4cb0e85274c48bbb980278473f354b4",
+    "title": "Charlotte Crown vs. Jacksonville Waves",
+    "description": "Doors 3pm. Game 4pm.",
+    "start_datetime": "2026-08-15T20:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bojangles Coliseum",
+      "address": "2700 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/bf0/d7b9f476-6daf-4a12-9699-83e88d441bf0_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-crown-vs-jacksonville-waves-charlotte-north-carolina-08-15-2026/event/2D00643CA042EA66",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "7f25fc439455396f24dfe8bf12f3725e99453c2c",
+    "title": "Charlotte FC vs. Columbus Crew",
+    "description": "Charlotte FC vs. Columbus Crew at Bank of America Stadium",
+    "start_datetime": "2026-08-15T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "sports",
+      "soccer"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/f6e/308835c9-2787-46e7-b887-3fe19dcc6f6e_1556291_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-fc-vs-columbus-crew-charlotte-north-carolina-08-15-2026/event/2D006378CBD5AA8F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "a08adc41f69e1192a5556532af165db2425dae42",
+    "title": "Dracula: A Comedy of Terrors",
+    "description": "Dracula: A Comedy of Terrors at Booth Playhouse-NC",
+    "start_datetime": "2026-08-04T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Booth Playhouse-NC",
+      "address": "130 North Tryon Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qM0v",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 50
+  },
+  {
+    "id": "c614b371812dfdd6e99ae1128bf0cf4ebc0aca1c",
+    "title": "Dracula: A Comedy of Terrors",
+    "description": "Dracula: A Comedy of Terrors at Booth Playhouse-NC",
+    "start_datetime": "2026-08-05T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Booth Playhouse-NC",
+      "address": "130 North Tryon Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qM0I",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 50
+  },
+  {
+    "id": "db5402e14098e3c2dcf2f0895980a3fc1612511f",
+    "title": "41st Annual Stellar Gospel Awards Pre-Show",
+    "description": "The Stellar Awards Pre-Show celebration is set to be an unforgettable evening of inspiration, music, and well-deserved recognition. Hosted by MAJOR., Adia, and Jamal Roberts, the pre-show spotlights electrifying Gospel performances while honoring the year's non-televised Stellar Award nominees and winners. It's an exclusive experience where Gospel's brightest voices and most enduring legends take center stage.",
+    "start_datetime": "2026-08-14T20:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "230 N Tryon",
+      "neighborhood": "",
+      "lat": 35.22852197,
+      "lng": -80.84064436
+    },
+    "category": [
+      "entertainment"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/d65/6c18db33-208a-444a-9d46-499c1b65cd65_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/41st-annual-stellar-gospel-awards-preshow-charlotte-north-carolina-08-14-2026/event/2D0064EE98E7CFEA",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "arts & theatre"
+    ],
+    "_rank_score": 50
+  },
+  {
+    "id": "dc6e5c44b39af5db7eda6384c22ef23a3b4e0d2d",
+    "title": "Lost Years Series: Kill Bill Vol.1 (2003 film)",
+    "description": "Note: this is a screening of the listed, Kill Bill Vol.1 (2003), film. Quentin Tarantino's delirious homage to Asian action movies and spaghetti Westerns. Uma Thurman stars as an assassin who seeks revenge on those who left her for dead on her wedding day.",
+    "start_datetime": "2026-08-06T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "230 N Tryon",
+      "neighborhood": "",
+      "lat": 35.22852197,
+      "lng": -80.84064436
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/f72/64582d39-79f0-4266-9f5d-55413afa5f72_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/lost-years-series-kill-bill-vol1-charlotte-north-carolina-08-06-2026/event/2D0064B39204CBE4",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "film"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "0662032fe8b32fc9bf52174dacf76cf17db997fb",
+    "title": "Dracula: A Comedy of Terrors",
+    "description": "Dracula: A Comedy of Terrors at Booth Playhouse-NC",
+    "start_datetime": "2026-08-06T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Booth Playhouse-NC",
+      "address": "130 North Tryon Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.363Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qM0x",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "bc8396d888edbc6b8d3bd77e495938da9c168077",
+    "title": "Dracula: A Comedy of Terrors",
+    "description": "Dracula: A Comedy of Terrors at Booth Playhouse-NC",
+    "start_datetime": "2026-08-09T17:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Booth Playhouse-NC",
+      "address": "130 North Tryon Street",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qM0O",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "9e1c7d7be988c8f39bdcb0d60332d043f6663126",
+    "title": "Diva Royale Drag Queen Show (18+ Event)",
+    "description": "Diva Royale Drag Queen Show (18+ Event) at The Scorpio",
+    "start_datetime": "2026-08-09T17:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Scorpio",
+      "address": "225 Fairwood Ave",
+      "neighborhood": "",
+      "lat": 35.208302,
+      "lng": -80.857803
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P3Ce",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "a1f9d0d996a8a82b0a46f0fa88187206baf1cc2c",
+    "title": "2026 Leagues Cup Phase One: Charlotte FC vs CF Pachuca",
+    "description": "2026 Leagues Cup Phase One: Charlotte FC vs CF Pachuca at Bank of America Stadium",
+    "start_datetime": "2026-08-11T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "sports",
+      "soccer"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/f6e/308835c9-2787-46e7-b887-3fe19dcc6f6e_1556291_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/2026-leagues-cup-phase-one-charlotte-charlotte-north-carolina-08-11-2026/event/2D0064982A75301F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "0ee26a532a2c8a9a2e505474c27a4b4a0f2f8db8",
+    "title": "Charlotte Crown vs. Jacksonville Waves",
+    "description": "Doors 6pm. Game 7pm.",
+    "start_datetime": "2026-08-13T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bojangles Coliseum",
+      "address": "2700 E Independence Boulevard",
+      "neighborhood": "East Charlotte",
+      "lat": 35.2050931,
+      "lng": -80.7953024
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/bf0/d7b9f476-6daf-4a12-9699-83e88d441bf0_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-crown-vs-jacksonville-waves-charlotte-north-carolina-08-13-2026/event/2D00643CA03DEA5F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "b53a49dde499ae91b3ac4679f6b1a407b33facf4",
+    "title": "Alphapussy Bound: Gina Gershon Live plus Bound (1996 film)",
+    "description": "Gina Gershon Live at the Carolina, an intimate conversation with the acclaimed actress discussing her new book, Alphapussy, moderated by Charlotte entrepreneur and personality Dr. Davita Galloway and will be followed by a screening of the groundbreaking 1996 film Bound, starring Gershon and Jennifer Tilly. Doors open at 6:30 p.m., with the conversation beginning at 7 p.m. The screening will begin at approximately 8:15 p.m. VIP Package Includes: -Early-access Meet & Greet with Gina Gershon at 5:00 PM -Book signing with Gina Gershon",
+    "start_datetime": "2026-08-15T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "230 N Tryon",
+      "neighborhood": "",
+      "lat": 35.22852197,
+      "lng": -80.84064436
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/92d/e1182496-ff9b-4d9e-b24b-b4afdda3592d_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.ticketmaster.com/alphapussy-bound-gina-gershon-live-plus-charlotte-north-carolina-08-15-2026/event/2D0064F09C0B1ED1",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "miscellaneous"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "48efd39ed2602ad99088c1af8ba6c94a6f8e621d",
+    "title": "Stellar Unplugged",
+    "description": "Stellar Unplugged at The Fillmore Charlotte",
+    "start_datetime": "2026-08-13T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://images.universe.com/0a2946de-d99c-41a9-aa99-310efeffd8f8/-/format/jpeg/-/scale_crop/640x427/center/-/progressive/yes/-/inline/yes/",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.364Z"
+    },
+    "url": "https://www.universe.com/events/stellar-unplugged-tickets-WDYQ7L?ref=ticketmaster",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 35
+  },
+  {
+    "id": "695164e136ad2cbc3b763be09bb0d6822b611259",
+    "title": "Charlotte Pride Parade Viewing Party + Showgirls (1995 film)",
+    "description": "The Carolina Theatre will host the Charlotte PRIDE Parade Viewing Party, featuring musical entertainment by DJ Fannie Mae, along with a special vendor market, curated by The Mimosa Way, showcasing Black- and LGBTQ-owned businesses in celebration of both Charlotte PRIDE and National Black Business Month. The afternoon concludes with a screening of the beloved cult classic SHOWGIRLS, which will include pre- and post-show talk back moderated by Mae. Doors open at noon, festivities begin at 1 p.m., and the film starts at 5 p.m. Tickets include admission to the screening of SHOWGIRLS.",
+    "start_datetime": "2026-08-16T17:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "230 N Tryon",
+      "neighborhood": "",
+      "lat": 35.22852197,
+      "lng": -80.84064436
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/527/7baeb908-5f30-432b-8de7-4cddd7e88527_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-pride-parade-viewing-party-showgirls-charlotte-north-carolina-08-16-2026/event/2D0064F0A0EF368F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "miscellaneous"
+    ],
+    "_rank_score": 35
+  },
+  {
+    "id": "e00caa062ca027d781f1dcf3f206a1c9febd9b16",
+    "title": "Showgirls (1995 film)",
+    "description": "After the Parade, celebrate Charlotte Pride with the Carolina Theatre with a relaxed screening of the 1995 cult classic, SHOWGIRLS, moderated by DJ Fannie Mae.",
+    "start_datetime": "2026-08-16T21:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Carolina",
+      "address": "230 N Tryon",
+      "neighborhood": "",
+      "lat": 35.22852197,
+      "lng": -80.84064436
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/62d/b856fc47-c514-429e-8bae-29de3b76862d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-03T17:11:58.365Z"
+    },
+    "url": "https://www.ticketmaster.com/showgirls-1995-film-charlotte-north-carolina-08-16-2026/event/2D0064F0A30D3F28",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "film"
+    ],
+    "_rank_score": 35
+  },
+  {
+    "id": "39238253ee1a203af6878b99bcda60f228430ff6",
+    "title": "18 Great Day Trips from Charlotte",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "Day Trips from Charlotte",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2024/03/chimney-rock-overlook-jlm-1-150x150.jpeg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-03T17:11:58.367Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/frugal-family-day-trips-charlotte/",
+    "confidence": 0.5499999999999999,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": 1.4999999999999964
+  },
+  {
+    "id": "dbdaf3fe3f87815243401adaec15f3a9d50c67d2",
+    "title": "Free days at Charlotte museums",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "Charlotte museums",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2021/03/bechtler-firebird-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-03T17:11:58.367Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/free-days-at-charlotte-museums/",
+    "confidence": 0.5499999999999999,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": 1.4999999999999964
+  },
+  {
+    "id": "717566e87fc4f77a2ea51a459cd1c142f0943f07",
+    "title": "Free and cheap things to do in Charlotte this week",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2026/07/Free-and-cheap-things-to-do-this-week-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-03T17:11:58.367Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/freethingstodo/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "e8a4f429d5cf7ac8512fba741c62e4d5e4288373",
+    "title": "Free and cheap things to do in Charlotte this weekend",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2026/07/free-and-cheap-things-weekend-charlotte-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-03T17:11:58.367Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/free-things-weekend-4/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "9320ef44b0e64221668da1ba49ed7c19c3da54ce",
+    "title": "50+ Cheap Dates in Charlotte",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2023/01/rosies-wine-garden-jlm-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-03T17:11:58.367Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/cheap-dates/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "e69db81eee54f3b697cb6c8693e5f5aa041ad47c",
+    "title": "185+ Charlotte area thrift, consignment, used books and records, antique and vintage stores (updated!)",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2025/06/COTC-Thrift-Consignment-Record-Book-stores-1-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-03T17:11:58.367Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/charlotte-area-thrift-consignment-vintage-store/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "e6d6f5c111afa79a5066ed5441b2b19008a99098",
+    "title": "Day-by-day list of markets around Charlotte — art, vintage, hand-made items",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2023/09/ceramic-cups-Depositphotos_213916864_S-150x150.jpeg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-03T17:11:58.367Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/markets/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "0e1c37991a06b609dcdd2ee6d52a6b966306c6ad",
+    "title": "Charlotte Garage Sales this weekend — and 10 hints for finding hidden gems at great prices",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2019/07/garage-sale-Depositphotos_17860049_s-2019-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-03T17:11:58.367Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/charlotte-garage-sales/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "5244967c62717b7bccad9b095a560677c3141e85",
+    "title": "Free fitness classes and events in Charlotte — a calendar",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": null,
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-03T17:11:58.367Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/free-fitness-classes-charlotte/",
+    "confidence": 0.30000000000000004,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -5.999999999999998
+  },
+  {
+    "id": "80388ed49cf00b728af8e76ad16a45f8406a72c1",
+    "title": "Spring Consignment Sales in Charlotte",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": null,
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-03T17:11:58.367Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/charlotte-spring-consignment-sales/",
+    "confidence": 0.30000000000000004,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -5.999999999999998
+  }
+]
