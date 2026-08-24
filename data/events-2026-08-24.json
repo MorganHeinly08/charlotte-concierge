@@ -1,0 +1,2050 @@
+[
+  {
+    "id": "9a7b0abbdfbce2c090e37fa3ffee47ca4dbf5887",
+    "title": "Clarent",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-08-28T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/df2/57b0b9a3-36ed-4218-a37f-41d9b752adf2_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.367Z"
+    },
+    "url": "https://www.ticketmaster.com/clarent-charlotte-north-carolina-08-27-2026/event/2D006488E800F1CF",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "d3db77404e6ce6c9196df0b17b24d90c32a36879",
+    "title": "Teenage Bottlerocket (18+)",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+    "start_datetime": "2026-08-28T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Tap Room",
+      "address": "511 E 36th St, Charlotte",
+      "neighborhood": "",
+      "lat": 35.24749614,
+      "lng": -80.80389971
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/c88/65069965-2287-4494-9881-36b73a79dc88_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.367Z"
+    },
+    "url": "https://www.ticketmaster.com/teenage-bottlerocket-18-charlotte-north-carolina-08-27-2026/event/2D0064C4E95EC246",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "16cf4319e1ba599ce848003e85f1d5271b525e0e",
+    "title": "DON TRIP (18+)",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+    "start_datetime": "2026-08-29T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Main Room",
+      "address": "511 E 36th St",
+      "neighborhood": "",
+      "lat": 35.247447,
+      "lng": -80.803888
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/d67/35977192-49a0-4087-93e1-eeca1c27cd67_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/don-trip-18-charlotte-north-carolina-08-28-2026/event/2D0064B4D2E82BDB",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "a64f76230f99517ed9c69a30d6249aa81d53b1a9",
+    "title": "Eslabon Armado - Amor Nocturno",
+    "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-08-29T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/d25/036b407e-fd96-4f7f-9cac-de2ce496cd25_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/eslabon-armado-amor-nocturno-charlotte-north-carolina-08-28-2026/event/2D0064C495EDEC02",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "c5382afaebdacfcc2eec29c203a978cb590a9d2b",
+    "title": "House Party (18+)",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. Ages 18+ Welcome Doors: 9:00PM Show: 9:30PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-08-29T01:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/house-party-18-charlotte-north-carolina-08-28-2026/event/2D0064E88F3784B0",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "862db7fdaa717061333077ae8cadb57d19ef875c",
+    "title": "Carolina Open Air Afterparty ft. ARTIFAKTS (21+ Event)",
+    "description": "Carolina Open Air Afterparty ft. ARTIFAKTS (21+ Event) at The Rabbit Hole",
+    "start_datetime": "2026-08-29T02:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Rabbit Hole",
+      "address": "1801 Commonwealth Ave",
+      "neighborhood": "",
+      "lat": 35.219002,
+      "lng": -80.787598
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZMjv",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "07b386c9de584d269156014e4b15d7d67f798932",
+    "title": "Carolina Open Air Afterparty ft. LSDREAM (18+ Event)",
+    "description": "Carolina Open Air Afterparty ft. LSDREAM (18+ Event) at Blackbox Theater - Charlotte",
+    "start_datetime": "2026-08-29T03:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Blackbox Theater - Charlotte",
+      "address": "421 East Sugar Creek Rd",
+      "neighborhood": "",
+      "lat": 35.2897,
+      "lng": -80.730202
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/ed7/0d259f92-15cd-4071-b97c-af855d4bbed7_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZMjZ",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "017ca4d4c626d0983d410b600d56b3b8eadd85d7",
+    "title": "Queen City Metalfest",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 5:00pm Show: 6:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-08-29T22:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/queen-city-metalfest-charlotte-north-carolina-08-29-2026/event/2D00645AA600FCA7",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "85786728197ef17a2e788a2c6661e0ad560e47d3",
+    "title": "Blues Traveler/Gin Blossoms with Spin Doctors",
+    "description": "This is an outdoor venue with no seats under cover. The show will take place rain or shine. All dates, acts, & ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of sale. Outside Lawn Chairs are not permitted.",
+    "start_datetime": "2026-08-29T22:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Skyla Credit Union Amphitheatre",
+      "address": "1000 NC Music Factory Blvd",
+      "neighborhood": "",
+      "lat": 35.239793,
+      "lng": -80.845042
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/a38/13a7df9a-2a96-4847-8bf7-8db991d06a38_1614421_RETINA_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/blues-travelergin-blossoms-with-spin-doctors-charlotte-north-carolina-08-29-2026/event/2D00642E4AB1F65C",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 85
+  },
+  {
+    "id": "c9d5cfb2ae6d21e77fb497d60409692f1bb5af3e",
+    "title": "greek! live tour",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+    "start_datetime": "2026-08-26T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Tap Room",
+      "address": "511 E 36th St, Charlotte",
+      "neighborhood": "",
+      "lat": 35.24749614,
+      "lng": -80.80389971
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/17a/a6d40ab3-ba61-4ba4-9a58-86493469717a_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.367Z"
+    },
+    "url": "https://www.ticketmaster.com/greek-live-tour-charlotte-north-carolina-08-25-2026/event/2D0064D237DD5862",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 80
+  },
+  {
+    "id": "81b00f5fed6f61a56a1fa5118b5c74fbd12775e4",
+    "title": "Benson Boone: Wanted Man Tour",
+    "description": "Benson Boone: Wanted Man Tour at Spectrum Center",
+    "start_datetime": "2026-08-27T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/0e7/8bbe8a01-a752-48ea-84d9-78fa979cf0e7_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.367Z"
+    },
+    "url": "https://www.ticketmaster.com/benson-boone-wanted-man-tour-charlotte-north-carolina-08-26-2026/event/2D00647AB0F5F90F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 80
+  },
+  {
+    "id": "9ddc78ad7beecb261a9c8dea02effed687789c2c",
+    "title": "Josh Groban: Stage, Screen And Symphony",
+    "description": "The lobby opens one hour prior to the performance time. Parking is not included in the ticket price. Recommended Parking Bank of America Corporate Center Parking Garage: entrances on College, Trade and 5th streets ? Purchase your parking now! $10 pre-paid parking (per car) is available for Bank of America Corporate Center.* You can buy one or more ready-to-be-validated passes in advance of events in the Belk, Booth and Stage Door Theaters. To purchase your parking, call 704-372-1000. To validate your parking, bring your pre-purchased parking pass with you to the show and exchange for an exit pass. You also have the option to purchase your exit pass at the box office or parking stations at the show. *Valid in this garage after 5 p.m. Monday-Friday, and all-day Saturday and Sunday. During the show, please silence your cell phones. Enjoy free Wi-Fi before or after the show by selecting Audience Wi-Fi on your device.",
+    "start_datetime": "2026-08-27T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Belk Theater at Blumenthal Arts Center",
+      "address": "130 N. Tyron St.",
+      "neighborhood": "Uptown",
+      "lat": 35.227482,
+      "lng": -80.84174
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/92b/53132b4d-9976-4fc2-96d5-8e978427392b_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.367Z"
+    },
+    "url": "https://www.ticketmaster.com/josh-groban-stage-screen-and-symphony-charlotte-north-carolina-08-26-2026/event/2D006507DAB8D5D1",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 80
+  },
+  {
+    "id": "76de2319270d8b3cf7c287949895f5e6b02bad1c",
+    "title": "Scarlet House: Angels Album Release",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+    "start_datetime": "2026-08-30T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Tap Room",
+      "address": "511 E 36th St, Charlotte",
+      "neighborhood": "",
+      "lat": 35.24749614,
+      "lng": -80.80389971
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/5a0/5897021b-9109-4752-8fcd-a5ee38b735a0_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/scarlet-house-angels-album-release-charlotte-north-carolina-08-29-2026/event/2D0064FDD2D47920",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "54882b5731a7ea0485c2ea53b084d3f6c27dbe54",
+    "title": "JUTES - Smile You're on Tour",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:00pm Show: 7:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-08-30T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/f17/3548afa1-c603-4440-a0f7-2f27dcfbef17_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/jutes-smile-youre-on-tour-charlotte-north-carolina-08-30-2026/event/2D006482198CE0EE",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "9ebde7c4cce10d0203f5b03bca13eaa6d332d701",
+    "title": "Rio Da Yung Og",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-09-04T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/609/433dc8b4-7285-4633-9df8-a66df0f1e609_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/rio-da-yung-og-charlotte-north-carolina-09-03-2026/event/2D0064A19B6F4A0E",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "9f67c66e8c979f1d0ff97e9480345f73d28b3266",
+    "title": "The 4411 with Juniper",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+    "start_datetime": "2026-09-04T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Tap Room",
+      "address": "511 E 36th St, Charlotte",
+      "neighborhood": "",
+      "lat": 35.24749614,
+      "lng": -80.80389971
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/109/aeea4007-7c98-447e-8b26-3c9180934109_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/the-4411-with-juniper-charlotte-north-carolina-09-03-2026/event/2D0064C434A782A7",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "20607216df50c3c851cfe3dc802f9b5b05d7dcd3",
+    "title": "The Aquabats!",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:00pm Show: 7:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-09-04T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/987/385c952b-1368-4283-8e5b-d0e514083987_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/the-aquabats-charlotte-north-carolina-09-04-2026/event/2D006483B9DC7C70",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "2cc336dded139da15858388aab710061313dcdb9",
+    "title": "Trap Karaoke: Charlotte",
+    "description": "Trap Karaoke: Charlotte at The Fillmore Charlotte",
+    "start_datetime": "2026-09-04T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/64c/76cc8226-9c36-4d1a-b616-d5acc3fa564c_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.universe.com/events/trap-karaoke-charlotte-tickets-9V0H3L?ref=ticketmaster",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "54a3d40dbf56ef416411261b7a05a0ee71d1c369",
+    "title": "THE DIRTY GUV'NAHS: 20th Anniversary Tour",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+    "start_datetime": "2026-09-05T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Main Room",
+      "address": "511 E 36th St",
+      "neighborhood": "",
+      "lat": 35.247447,
+      "lng": -80.803888
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/46e/20e898d1-a1b0-4b70-9d26-0c12dbe7646e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/the-dirty-guvnahs-20th-anniversary-tour-charlotte-north-carolina-09-04-2026/event/2D00646A0479E698",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "ec27eac117b44d3acd69363fbcbb096eef3bf243",
+    "title": "Trap Karaoke (21+)",
+    "description": "Trap Karaoke (21+) at The Fillmore Charlotte",
+    "start_datetime": "2026-09-05T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/64c/76cc8226-9c36-4d1a-b616-d5acc3fa564c_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z",
+      "merged_from": "Ticketmaster API"
+    },
+    "url": "https://trapkaraoke.com/events/charlotte-nc-9-4",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "89e3efa728d0a047fea3d04d453a88426d61e6f9",
+    "title": "NEEDTOBREATHE: The Long Surrender Tour",
+    "description": "$1 per ticket sold goes to a charity of the artist choice. This is an outdoor venue with no seats under cover. The show will take place rain or shine. All dates, acts, & ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of sale. Outside Lawn Chairs are not permitted.",
+    "start_datetime": "2026-09-05T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Skyla Credit Union Amphitheatre",
+      "address": "1000 NC Music Factory Blvd",
+      "neighborhood": "",
+      "lat": 35.239793,
+      "lng": -80.845042
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/5c7/eaef8333-1b97-4680-b2c8-e88eb46d05c7_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/needtobreathe-the-long-surrender-tour-charlotte-north-carolina-09-05-2026/event/2D006463F3D6A7BF",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 75
+  },
+  {
+    "id": "57920791bc85cb5f6b401f636fdec5bebf47996e",
+    "title": "Preseason Game 1: Carolina Panthers v Houston Texans",
+    "description": "Bank of America Stadium was designed for fans of all ages. Please note that every child over the age of 12 months is required to have a game ticket to enter the stadium. Any child under the age of 12 months admitted without a ticket must share a seat with an accompanying adult.",
+    "start_datetime": "2026-08-28T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "sports",
+      "panthers"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/1ad/bfe48a58-34a0-4764-9cfa-8d979aca11ad_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/preseason-game-1-carolina-panthers-v-charlotte-north-carolina-08-28-2026/event/2D00646BB8CEED99",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "8000226625a644b396da982a9ff7032429df7ea6",
+    "title": "Charlotte Knights vs. Memphis Redbirds",
+    "description": "Charlotte Knights vs. Memphis Redbirds at Truist Field - Charlotte",
+    "start_datetime": "2026-08-28T23:04:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZOE",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "f0b118af80007fdae6dd9d1c8f937fd359ad642d",
+    "title": "2026 Keep Pounding High School Classic presented by Belk",
+    "description": "4pm - Indian Land Warriors vs Northwestern Trojans & 8pm - Cardinal Gibbons Crusaders vs Hough Huskies",
+    "start_datetime": "2026-08-29T20:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/307/cef3d53f-5d6f-4106-bfd1-ecf0bdc9e307_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/2026-keep-pounding-high-school-classic-charlotte-north-carolina-08-29-2026/event/2D00646DC129488C",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "c8b3ec7e02939cc0c0a54f08bf5b865dfe8f2c7a",
+    "title": "Charlotte Knights vs. Memphis Redbirds",
+    "description": "Charlotte Knights vs. Memphis Redbirds at Truist Field - Charlotte",
+    "start_datetime": "2026-08-29T22:05:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZOI",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "cb0d6c65ca1dcc8f14aad6b1e1dd5eb681ea8fe0",
+    "title": "LOE SHIMMY: Pretty Girls Run the World Tour (18+)",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+    "start_datetime": "2026-09-01T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Main Room",
+      "address": "511 E 36th St",
+      "neighborhood": "",
+      "lat": 35.247447,
+      "lng": -80.803888
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/c36/f8b74099-ece4-4543-97a4-6b632d62cc36_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/loe-shimmy-pretty-girls-run-the-charlotte-north-carolina-08-31-2026/event/2D0064D0E21AEE0F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "f9e626d0ab56e8cc12170497706e71b113eb6aeb",
+    "title": "Brandi Carlile - The Human Tour",
+    "description": "The Looking Out Foundation amplifies the impact of music by empowering those without a voice. From neighborhood to nation, we fund causes and organizations that often go unnoticed to support social justice and humanitarian causes across the US and globally. Founded in 2008 by multiple Grammy winning artist Brandi Carlile, we band together with fans, non-profits and female LGBTQ+ owned businesses to translate voices of song to voices of action. We are nimble to the ever-changing needs of the human race and adapt to support the diverse demographic we serve. Every campaign we launch is backed by our passionate donors and fans, and $2 from every concert ticket sold goes directly toward our efforts.?",
+    "start_datetime": "2026-09-01T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Spectrum Center",
+      "address": "333 East Trade Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225222,
+      "lng": -80.839921
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/3f6/c4a80336-03fe-439f-ae7d-7e8a91c6f3f6_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/brandi-carlile-the-human-tour-charlotte-north-carolina-09-01-2026/event/2D00646ADC058C39",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "a09a21e6b5935fecc9a9bab91f31cf1ef415e262",
+    "title": "EMAROSA: High Horse Heaven Tour",
+    "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+    "start_datetime": "2026-09-01T23:15:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Neighborhood Theatre Tap Room",
+      "address": "511 E 36th St, Charlotte",
+      "neighborhood": "",
+      "lat": 35.24749614,
+      "lng": -80.80389971
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/6da/2d59eb3e-79ca-49c8-8720-2da581c1f6da_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/emarosa-high-horse-heaven-tour-charlotte-north-carolina-09-01-2026/event/2D006491C115A71C",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "ed9db25ec221cfab5b8f17611dd2900de1ccabc8",
+    "title": "Jack Harlow - Monica Tour",
+    "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:30PM Show: 7:30PM Support: James Savage Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-09-03T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/da6/1ebdb037-ead5-4023-a496-be8572c67da6_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/jack-harlow-monica-tour-charlotte-north-carolina-09-03-2026/event/2D0064AE96ABDBAF",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "105ff66739d9a7218ad60c5986ce5e447f3e06c9",
+    "title": "Channel Tres - The Enigma Tour",
+    "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-09-06T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Underground",
+      "address": "820 Hamilton St",
+      "neighborhood": "",
+      "lat": 35.240299,
+      "lng": -80.845314
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/3f4/e5435e39-c762-4a44-b31a-7cb8064bc3f4_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/channel-tres-the-enigma-tour-charlotte-north-carolina-09-05-2026/event/2D0064A49D8DF6B9",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "0b8afde56d7ef5bc31541ddd84780ada16811f1e",
+    "title": "Hulvey - \"Could Be Tonight\" Tour",
+    "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:00PM Show: 7:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-09-06T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/d4e/a49ecab3-089d-46ff-baa5-7942c994ed4e_SOURCE",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/hulvey-could-be-tonight-tour-charlotte-north-carolina-09-06-2026/event/2D006481E08FDCF0",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "f736ab04401fe324531d163794cdf45c8b872fae",
+    "title": "anees",
+    "description": "anees at Amos Southend",
+    "start_datetime": "2026-09-07T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Amos Southend",
+      "address": "1423 South Tryon St",
+      "neighborhood": "",
+      "lat": 35.208302,
+      "lng": -80.857803
+    },
+    "category": [
+      "concert",
+      "nightlife"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70bf7",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "music"
+    ],
+    "_rank_score": 65
+  },
+  {
+    "id": "6092e72dcf5c232a7bac6bdd534f582d2bf11eef",
+    "title": "Charlotte Knights vs. Memphis Redbirds",
+    "description": "Charlotte Knights vs. Memphis Redbirds at Truist Field - Charlotte",
+    "start_datetime": "2026-08-25T22:35:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.367Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZO0",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 60
+  },
+  {
+    "id": "338fc23a430de09428eabad81933e9d50041d783",
+    "title": "Charlotte Knights vs. Memphis Redbirds",
+    "description": "Charlotte Knights vs. Memphis Redbirds at Truist Field - Charlotte",
+    "start_datetime": "2026-08-26T22:35:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.367Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZOP",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 60
+  },
+  {
+    "id": "8b2ce4fcef8549dd46d2a360bcaa62b8d5334ad3",
+    "title": "Charlotte Knights vs. Memphis Redbirds",
+    "description": "Charlotte Knights vs. Memphis Redbirds at Truist Field - Charlotte",
+    "start_datetime": "2026-08-27T23:04:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.367Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZOJ",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "ffab83d2dd274c1ee6dfcd51616e015c0cf17158",
+    "title": "Carolina Open Air (18 and Over) - Friday",
+    "description": "Carolina Open Air (18 and Over) - Friday at Blackbox Theater - Charlotte",
+    "start_datetime": "2026-08-28T20:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Blackbox Theater - Charlotte",
+      "address": "421 East Sugar Creek Rd",
+      "neighborhood": "",
+      "lat": 35.2897,
+      "lng": -80.730202
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.367Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4AE",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "a98ef99d7545a911d77ffd83f2e54010a36ee89f",
+    "title": "Registix Reserve Access (Not A Game Ticket) - Texans at Panthers",
+    "description": "THIS IS NOT A GAME TICKET. A separate game ticket is required to enter the stadium before entering The Registix Reserve. Enjoy an all-inclusive bar with craft cocktails, beer, and wine, plus numerous culinary options, including premium entrees, snacks, and desserts. Get as close to the action as possible from field-side access. Watch players warm up steps away in pregame and feel the pulse of all the action throughout the game. The Registix Reserve can be accessed from when stadium gates open until 60 minutes after the game's conclusion.",
+    "start_datetime": "2026-08-28T23:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/e/6f8/0ab9aa63-06f9-4d53-8978-4d65215116f8_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.367Z"
+    },
+    "url": "https://www.ticketmaster.com/registix-reserve-access-not-a-game-charlotte-north-carolina-08-28-2026/event/2D006488E209E38A",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "miscellaneous"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "1d348d855265902ca0799f4d842856fb64f08700",
+    "title": "Carolina Open Air (18 and Over) - Saturday",
+    "description": "Carolina Open Air (18 and Over) - Saturday at Blackbox Theater - Charlotte",
+    "start_datetime": "2026-08-29T20:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Blackbox Theater - Charlotte",
+      "address": "421 East Sugar Creek Rd",
+      "neighborhood": "",
+      "lat": 35.2897,
+      "lng": -80.730202
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4At",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "c7deadf64b5930249c607d2f86b4ce168eca8052",
+    "title": "Charlotte Knights vs. Memphis Redbirds",
+    "description": "Charlotte Knights vs. Memphis Redbirds at Truist Field - Charlotte",
+    "start_datetime": "2026-08-30T21:05:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "sports"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/3c2/23f6a973-82f1-4503-ab46-e890539e13c2_106101_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QZOt",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "0abe95de46479bd5dbadd81894cc51a735d30776",
+    "title": "Charlotte FC vs. Houston Dynamo",
+    "description": "Charlotte FC vs. Houston Dynamo at Bank of America Stadium",
+    "start_datetime": "2026-09-05T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "address": "800 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.225789,
+      "lng": -80.852829
+    },
+    "category": [
+      "sports",
+      "soccer"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/f6e/308835c9-2787-46e7-b887-3fe19dcc6f6e_1556291_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/charlotte-fc-vs-houston-dynamo-charlotte-north-carolina-09-05-2026/event/2D006378D148AF6F",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "d041f211c90418925db917c0cafeb16a17f450a3",
+    "title": "UNC Charlotte 49ers Football vs. Citadel Bulldogs Football",
+    "description": "UNC Charlotte 49ers Football vs. Citadel Bulldogs Football at Jerry Richardson Stadium",
+    "start_datetime": "2026-09-05T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Jerry Richardson Stadium",
+      "address": "9201 University City Blvd",
+      "neighborhood": "",
+      "lat": 35.3284,
+      "lng": -80.7603
+    },
+    "category": [
+      "sports",
+      "panthers"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/457/b0cd2101-b2ce-4f73-b3df-8857ed9e4457_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7O_jx",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "sports"
+    ],
+    "_rank_score": 55
+  },
+  {
+    "id": "035829594e1bb7308a7d0be4fe70b0d69c5402f7",
+    "title": "Grief Sucks: A One Man Show By KevOnStage",
+    "description": "16+ ONLY Doors: 6:30PM Show: 7:30PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+    "start_datetime": "2026-08-30T23:30:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Fillmore Charlotte",
+      "address": "820 Hamilton Street",
+      "neighborhood": "",
+      "lat": 35.239095,
+      "lng": -80.845519
+    },
+    "category": [
+      "entertainment"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/a/c1c/40e5588d-d4a5-4637-a79e-941147744c1c_TABLET_LANDSCAPE_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/grief-sucks-a-one-man-show-charlotte-north-carolina-08-30-2026/event/2D0064E8967799BE",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "arts & theatre"
+    ],
+    "_rank_score": 50
+  },
+  {
+    "id": "9a211b21f5ce952acb8172adaa07ef10cc98f06b",
+    "title": "Carolina Open Air Afterparty ft. JIQUI (21+ Event)",
+    "description": "Carolina Open Air Afterparty ft. JIQUI (21+ Event) at The Rabbit Hole",
+    "start_datetime": "2026-08-30T02:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "The Rabbit Hole",
+      "address": "1801 Commonwealth Ave",
+      "neighborhood": "",
+      "lat": 35.219002,
+      "lng": -80.787598
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZO7z",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "51bcdf51c705805b0577e59b8b8caf09e41da5d2",
+    "title": "From the Darkness Comedy Roast Battle",
+    "description": "From the Darkness Comedy Roast Battle at Comedy Club at Duckworth's",
+    "start_datetime": "2026-08-30T22:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Comedy Club at Duckworth's",
+      "address": "330 N Tryon St",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PYx6",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "ea6c8fa1cbdbb3d7eb436f90bbd5e75820893a63",
+    "title": "Tri-City Chili Peppers",
+    "description": "Tri-City Chili Peppers at Truist Field - Charlotte",
+    "start_datetime": "2026-09-05T00:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Truist Field - Charlotte",
+      "address": "324 South Mint Street",
+      "neighborhood": "Uptown",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_3_2.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qPZk",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "undefined"
+    ],
+    "_rank_score": 45
+  },
+  {
+    "id": "9c46565e5a86fd0c50496d7e963f9670d9004690",
+    "title": "JL Cauvin",
+    "description": "JL Cauvin at Comedy Club at Duckworth's",
+    "start_datetime": "2026-09-06T22:00:00.000Z",
+    "end_datetime": null,
+    "venue": {
+      "name": "Comedy Club at Duckworth's",
+      "address": "330 N Tryon St",
+      "neighborhood": "",
+      "lat": 35.228001,
+      "lng": -80.844597
+    },
+    "category": [
+      "entertainment"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "See website"
+    },
+    "image": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_RETINA_PORTRAIT_16_9.jpg",
+    "source": {
+      "name": "Ticketmaster API",
+      "url": "https://app.ticketmaster.com/discovery/v2/events",
+      "scraped_at": "2026-08-24T15:43:01.368Z"
+    },
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Px_3",
+    "confidence": 1,
+    "tags": [
+      "ticketmaster-api",
+      "arts & theatre"
+    ],
+    "_rank_score": 40
+  },
+  {
+    "id": "39238253ee1a203af6878b99bcda60f228430ff6",
+    "title": "18 Great Day Trips from Charlotte",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "Day Trips from Charlotte",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2024/03/chimney-rock-overlook-jlm-1-150x150.jpeg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-24T15:43:01.370Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/frugal-family-day-trips-charlotte/",
+    "confidence": 0.5499999999999999,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": 1.4999999999999964
+  },
+  {
+    "id": "dbdaf3fe3f87815243401adaec15f3a9d50c67d2",
+    "title": "Free days at Charlotte museums",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "Charlotte museums",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2021/03/bechtler-firebird-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-24T15:43:01.370Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/free-days-at-charlotte-museums/",
+    "confidence": 0.5499999999999999,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": 1.4999999999999964
+  },
+  {
+    "id": "717566e87fc4f77a2ea51a459cd1c142f0943f07",
+    "title": "Free and cheap things to do in Charlotte this week",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2026/07/Free-and-cheap-things-to-do-this-week-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-24T15:43:01.370Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/freethingstodo/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "e8a4f429d5cf7ac8512fba741c62e4d5e4288373",
+    "title": "Free and cheap things to do in Charlotte this weekend",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2026/07/free-and-cheap-things-weekend-charlotte-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-24T15:43:01.370Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/free-things-weekend-4/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "9320ef44b0e64221668da1ba49ed7c19c3da54ce",
+    "title": "50+ Cheap Dates in Charlotte",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2023/01/rosies-wine-garden-jlm-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-24T15:43:01.370Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/cheap-dates/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "e69db81eee54f3b697cb6c8693e5f5aa041ad47c",
+    "title": "185+ Charlotte area thrift, consignment, used books and records, antique and vintage stores (updated!)",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2025/06/COTC-Thrift-Consignment-Record-Book-stores-1-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-24T15:43:01.370Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/charlotte-area-thrift-consignment-vintage-store/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "e6d6f5c111afa79a5066ed5441b2b19008a99098",
+    "title": "Day-by-day list of markets around Charlotte — art, vintage, hand-made items",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2023/09/ceramic-cups-Depositphotos_213916864_S-150x150.jpeg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-24T15:43:01.370Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/markets/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "0e1c37991a06b609dcdd2ee6d52a6b966306c6ad",
+    "title": "Charlotte Garage Sales this weekend — and 10 hints for finding hidden gems at great prices",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": "https://www.charlotteonthecheap.com/lotc-cms/wp-content/uploads/2019/07/garage-sale-Depositphotos_17860049_s-2019-150x150.jpg",
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-24T15:43:01.370Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/charlotte-garage-sales/",
+    "confidence": 0.4,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -3
+  },
+  {
+    "id": "5244967c62717b7bccad9b095a560677c3141e85",
+    "title": "Free fitness classes and events in Charlotte — a calendar",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Free"
+    },
+    "image": null,
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-24T15:43:01.370Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/free-fitness-classes-charlotte/",
+    "confidence": 0.30000000000000004,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -5.999999999999998
+  },
+  {
+    "id": "80388ed49cf00b728af8e76ad16a45f8406a72c1",
+    "title": "Spring Consignment Sales in Charlotte",
+    "description": "",
+    "start_datetime": null,
+    "end_datetime": null,
+    "venue": {
+      "name": "",
+      "address": "",
+      "neighborhood": "",
+      "lat": null,
+      "lng": null
+    },
+    "category": [
+      "special"
+    ],
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "notes": "Check for low-cost options"
+    },
+    "image": null,
+    "source": {
+      "name": "Charlotte on the Cheap",
+      "url": "https://www.charlotteonthecheap.com/",
+      "scraped_at": "2026-08-24T15:43:01.370Z"
+    },
+    "url": "https://www.charlotteonthecheap.com/charlotte-spring-consignment-sales/",
+    "confidence": 0.30000000000000004,
+    "tags": [
+      "cheap",
+      "budget-friendly"
+    ],
+    "_rank_score": -5.999999999999998
+  }
+]
