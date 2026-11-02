@@ -1,821 +1,7 @@
 {
-  "updated_at": "2026-10-26T20:22:13.297Z",
+  "updated_at": "2026-11-02T23:01:34.816Z",
   "count": 62,
   "events": [
-    {
-      "id": "34872fbc2fad4a1cf5c8c6287f515bdb6f54599e",
-      "title": "Earl Sweatshirt & MIKE: Home on the Range Tour 2026",
-      "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-10-30T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Fillmore Charlotte",
-        "address": "820 Hamilton Street",
-        "neighborhood": "",
-        "lat": 35.239095,
-        "lng": -80.845519
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/f04/fbf95a99-f309-4c63-9173-fff814368f04_SOURCE",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-charlotte-north-carolina-10-29-2026/event/2D0064659DDED204",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "096f8bccbf922fa15c9bc6ae5c21a8a4d230a842",
-      "title": "Yung Gravy: The Joyrider Tour (18+)",
-      "description": "Age Policy: 18+ Valid ID required for entry into the venue (Accepted forms of ID: State-Issued ID or Driver's License, Military ID, Passport). // The balcony is restricted to ages 21+.",
-      "start_datetime": "2026-10-30T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Neighborhood Theatre Main Room",
-        "address": "511 E 36th St",
-        "neighborhood": "",
-        "lat": 35.247447,
-        "lng": -80.803888
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/020/a2c4a4ec-313e-45a7-8901-7256b7b72020_RETINA_PORTRAIT_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/yung-gravy-the-joyrider-tour-18-charlotte-north-carolina-10-29-2026/event/2D0065153A3FA91F",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "d60749154134e3d700a95ffc7ed8eb69e10341f0",
-      "title": "Acoustic Alchemy",
-      "description": "Acoustic Alchemy at Middle C Jazz",
-      "start_datetime": "2026-10-30T00:30:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Middle C Jazz",
-        "address": "300 S Brevard St",
-        "neighborhood": "",
-        "lat": 35.228001,
-        "lng": -80.844597
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/5ba/eeb2baab-da11-4893-b4f7-353306b095ba_SOURCE",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ9vS",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "f39ff2449a2c44188c9a77bba36f0212b035488f",
-      "title": "Jackiem Joyner",
-      "description": "Jackiem Joyner at Middle C Jazz",
-      "start_datetime": "2026-10-30T22:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Middle C Jazz",
-        "address": "300 S Brevard St",
-        "neighborhood": "",
-        "lat": 35.228001,
-        "lng": -80.844597
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ9vY",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "cafb973cea7f424793a470253d56039a8a4f918a",
-      "title": "Ethan Regan: Young Regan Tour",
-      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
-      "start_datetime": "2026-10-31T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Neighborhood Theatre Main Room",
-        "address": "511 E 36th St",
-        "neighborhood": "",
-        "lat": 35.247447,
-        "lng": -80.803888
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/488/cae2a9d4-0bc2-49e2-926a-7461f9ca3488_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/ethan-regan-young-regan-tour-charlotte-north-carolina-10-30-2026/event/2D0064BDA61758F7",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "a09955ba8b420f4bf8158d740611d6a142ba28ef",
-      "title": "Bruce Cockburn with Livingston Taylor",
-      "description": "One of Canadas finest artists, Bruce Cockburn, has enjoyed an illustrious career shaped by politics, spirituality, and musical diversity. His remarkable journey has seen him embrace folk, jazz, rock, and worldbeat styles while travelling to such far flung places as Guatemala, Mali, Mozambique, and Nepal, and writing memorable songs about his ever-expanding world of wonders. Bruce Cockburn has written more than 400 songs on 35 albums over a career spanning more than 50 years, of which 23 have received gold or platinum certification. His guitar playing, both acoustic and electric, has placed him in the company of the worlds top instrumentalists. He has sold more than nine million albums worldwide and has been honored with 13 JUNO Awards, an induction into both the Canadian Music Hall of Fame and the Canadian Songwriters Hall of Fame.",
-      "start_datetime": "2026-10-31T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Carolina",
-        "address": "230 N Tryon",
-        "neighborhood": "",
-        "lat": 35.22852197,
-        "lng": -80.84064436
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/e/3d1/03c8c0e5-6a4e-4110-aac4-330f10cd63d1_RETINA_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/bruce-cockburn-with-livingston-taylor-charlotte-north-carolina-10-30-2026/event/2D00644AD9C7C4AE",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "efd6f0842df385f1b76659c72f922c2e734cbb9c",
-      "title": "It's A 2000's (Halloween) Party: Charlotte(18+)",
-      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. Ages 18+ Welcome Doors: 8:00PM Show: 800PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-10-31T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Underground",
-        "address": "820 Hamilton St",
-        "neighborhood": "",
-        "lat": 35.240299,
-        "lng": -80.845314
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/8c5/20f9e939-aa4c-418e-b828-3165542458c5_TABLET_LANDSCAPE_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/its-a-2000s-halloween-party-charlotte18-charlotte-north-carolina-10-30-2026/event/2D0065299AD2F058",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "e322584335ff3fa14bf13f6dbb09c0ef90f6ef20",
-      "title": "Ray Volpe (18+ Event)",
-      "description": "Ray Volpe (18+ Event) at Blackbox Theater - Charlotte",
-      "start_datetime": "2026-10-31T02:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Blackbox Theater - Charlotte",
-        "address": "421 East Sugar Creek Rd",
-        "neighborhood": "",
-        "lat": 35.2897,
-        "lng": -80.730202
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J6Cp",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "7b16939225c15181223c23cc60c622dfae5dba7d",
-      "title": "Jackiem Joyner",
-      "description": "Jackiem Joyner at Middle C Jazz",
-      "start_datetime": "2026-10-31T22:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Middle C Jazz",
-        "address": "300 S Brevard St",
-        "neighborhood": "",
-        "lat": 35.228001,
-        "lng": -80.844597
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ9vs",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "d6d94b35a81c01d2761070cfa473b61790273687",
-      "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
-      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:00PM Show: 7:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-10-31T23:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Underground",
-        "address": "820 Hamilton St",
-        "neighborhood": "",
-        "lat": 35.240299,
-        "lng": -80.845314
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/9e2/30c00d91-0bb3-4383-b599-67f14c3879e2_SOURCE",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/hawthorne-heights-20th-anniversary-of-if-charlotte-north-carolina-10-31-2026/event/2D00646C9ECAD139",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 85
-    },
-    {
-      "id": "a2308807b722d5e8fb213a0df6f72905cda43536",
-      "title": "AJ McLean presents Alexander James : The Better Man Tour",
-      "description": "All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-10-27T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Fillmore Charlotte",
-        "address": "820 Hamilton Street",
-        "neighborhood": "",
-        "lat": 35.239095,
-        "lng": -80.845519
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/6b5/840992b1-69c9-4339-9643-227101ea36b5_RETINA_PORTRAIT_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/aj-mclean-presents-alexander-james-the-charlotte-north-carolina-10-26-2026/event/2D0064D3C27A6EE4",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 80
-    },
-    {
-      "id": "3e8f877abfc1d8e607fc9b461c7bbbd81a0571b5",
-      "title": "Indigo Girls",
-      "description": "Indigo Girls at Knight Theater",
-      "start_datetime": "2026-10-27T23:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Knight Theater",
-        "address": "430 South Tryon St",
-        "neighborhood": "Uptown",
-        "lat": 35.2242679,
-        "lng": -80.8473758
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/a19/11068b3c-afc0-4a6b-a3a9-623e7f31ba19_SOURCE",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://tix.blumenthalarts.org/online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=6DB9C131-75F7-4E7A-A903-47BF68B605C3",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 80
-    },
-    {
-      "id": "73d3f64a879341c085c928b4c0d839c30d982a03",
-      "title": "Indigo Girls w/ Linda Perry",
-      "description": "Indigo Girls w/ Linda Perry at Knight Theater",
-      "start_datetime": "2026-10-27T23:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Knight Theater",
-        "address": "430 South Tryon St.",
-        "neighborhood": "Uptown",
-        "lat": 35.228001,
-        "lng": -80.844597
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/a19/11068b3c-afc0-4a6b-a3a9-623e7f31ba19_SOURCE",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PEJ4",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 80
-    },
-    {
-      "id": "fafb64b21e4a4b88fc73325e56a263651c4af7bb",
-      "title": "SOMBR - You Are The Reason Tour",
-      "description": "SOMBR - You Are The Reason Tour at Spectrum Center",
-      "start_datetime": "2026-10-27T23:30:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Spectrum Center",
-        "address": "333 East Trade Street",
-        "neighborhood": "Uptown",
-        "lat": 35.225222,
-        "lng": -80.839921
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/0b8/d1bc79bb-d6e6-4735-bc5c-190572eec0b8_RETINA_PORTRAIT_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/sombr-you-are-the-reason-tour-charlotte-north-carolina-10-27-2026/event/2D006488C26A706A",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 80
-    },
-    {
-      "id": "3c646c92dee711177678957f81c6105c82f9b675",
-      "title": "Acoustic Alchemy",
-      "description": "Acoustic Alchemy at Middle C Jazz",
-      "start_datetime": "2026-10-29T22:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Middle C Jazz",
-        "address": "300 S Brevard St",
-        "neighborhood": "",
-        "lat": 35.228001,
-        "lng": -80.844597
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/5ba/eeb2baab-da11-4893-b4f7-353306b095ba_SOURCE",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ9vV",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
-    {
-      "id": "d240f347f79de415c7ce4636f6ed5b402d186a30",
-      "title": "Gavin Adcock: The Day I Hang It Up Tour 2026",
-      "description": "Doors 6:00pm. Show 7:00pm.",
-      "start_datetime": "2026-10-29T23:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Bojangles Coliseum",
-        "address": "2700 E Independence Boulevard",
-        "neighborhood": "East Charlotte",
-        "lat": 35.2050931,
-        "lng": -80.7953024
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/653/53069b6b-7b70-4775-8607-1f6c55a39653_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/gavin-adcock-the-day-i-hang-charlotte-north-carolina-10-29-2026/event/2D0064699C68A753",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
-    {
-      "id": "03f8b68b2155cad36e759e719261d3a905250261",
-      "title": "Sammy Rae & The Friends with special guest Melt",
-      "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-11-01T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Fillmore Charlotte",
-        "address": "820 Hamilton Street",
-        "neighborhood": "",
-        "lat": 35.239095,
-        "lng": -80.845519
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/179/ef41dd90-262b-4508-a1e2-47fb26e3c179_TABLET_LANDSCAPE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/sammy-rae-the-friends-with-special-charlotte-north-carolina-10-31-2026/event/2D006471B8ABF473",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
-    {
-      "id": "58194928e4c97a76efd524cc9830b82915a21b8b",
-      "title": "Blue Monday Band",
-      "description": "Blue Monday Band at Amos Southend",
-      "start_datetime": "2026-11-01T00:30:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Amos Southend",
-        "address": "1423 South Tryon St",
-        "neighborhood": "",
-        "lat": 35.208302,
-        "lng": -80.857803
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jeba",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
-    {
-      "id": "c59a6adc4b6dff1dad5d28089ae2bb6b2aa33a6e",
-      "title": "Jackiem Joyner",
-      "description": "Jackiem Joyner at Middle C Jazz",
-      "start_datetime": "2026-11-01T00:30:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Middle C Jazz",
-        "address": "300 S Brevard St",
-        "neighborhood": "",
-        "lat": 35.228001,
-        "lng": -80.844597
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ9vw",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
-    {
-      "id": "53f433f8bc44763afcdf78f47da2f91f14d5788b",
-      "title": "Ray Volpe (18+ Event)",
-      "description": "Ray Volpe (18+ Event) at Blackbox Theater - Charlotte",
-      "start_datetime": "2026-11-01T02:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Blackbox Theater - Charlotte",
-        "address": "421 East Sugar Creek Rd",
-        "neighborhood": "",
-        "lat": 35.2897,
-        "lng": -80.730202
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZwFk",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
-    {
-      "id": "0b99c30e73cd10fad0276566c4090ce2d7015074",
-      "title": "Young Miko - Late Checkout Tour",
-      "description": "Young Miko - Late Checkout Tour at Spectrum Center",
-      "start_datetime": "2026-11-02T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Spectrum Center",
-        "address": "333 East Trade Street",
-        "neighborhood": "Uptown",
-        "lat": 35.225222,
-        "lng": -80.839921
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/466/f6709c8f-0f7b-45c7-bda9-18ebd3d59466_RETINA_PORTRAIT_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/young-miko-late-checkout-tour-charlotte-north-carolina-11-01-2026/event/2D00648208B9A3EA",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
-    {
-      "id": "545a20287ffaeec6a78e5e71d3337d15b28fe0a0",
-      "title": "almost monday - THANK GOD IT'S ALMOST MONDAY",
-      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-11-02T01:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Underground",
-        "address": "820 Hamilton St",
-        "neighborhood": "",
-        "lat": 35.240299,
-        "lng": -80.845314
-      },
-      "category": [
-        "concert",
-        "nightlife"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/21b/9f7dddfc-d411-49d4-9b8a-9baae133f21b_RETINA_PORTRAIT_16_9.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/almost-monday-thank-god-its-almost-charlotte-north-carolina-11-01-2026/event/2D0064D2B3F739D3",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "music"
-      ],
-      "_rank_score": 75
-    },
     {
       "id": "e989f8e91103c499a801b7776a20448227e07381",
       "title": "Switchfoot with special guest Anberlin - Forever Now Tour",
@@ -843,7 +29,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.806Z"
       },
       "url": "https://www.ticketmaster.com/switchfoot-with-special-guest-anberlin-forever-charlotte-north-carolina-11-05-2026/event/2D00649E8FF9D598",
       "confidence": 1,
@@ -851,7 +37,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "2d134c5ba8022beb3253d0502d5768d88aa3583c",
@@ -880,7 +66,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.806Z"
       },
       "url": "https://www.ticketmaster.com/victoria-monetmoved-to-ovens-auditorium-charlotte-north-carolina-11-05-2026/event/2D006528D30D8AA8",
       "confidence": 1,
@@ -888,7 +74,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "3c28949fcc8da07d5838f66dd48e3ed43cea9b00",
@@ -917,7 +103,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.806Z"
       },
       "url": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-charlotte-north-carolina-11-05-2026/event/2D006553B3B6A651",
       "confidence": 1,
@@ -925,7 +111,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "fde9da98a7f156ac4f9ce401f694c834929b9801",
@@ -954,7 +140,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.806Z"
       },
       "url": "https://www.ticketmaster.com/tab-benoit-soul-of-the-swamp-charlotte-north-carolina-11-05-2026/event/2D0064901291329F",
       "confidence": 1,
@@ -962,7 +148,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "f9fd0e89979c6fc9d4cceb5f7027d885cacff518",
@@ -991,7 +177,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/judah-the-lion-charlotte-north-carolina-11-06-2026/event/2D0064CAC90BDBDB",
       "confidence": 1,
@@ -999,7 +185,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "2614633f6d3b983eef5ff5112c7baa92ee4e42d2",
@@ -1028,7 +214,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/knox-midwest-best-tour-charlotte-north-carolina-11-06-2026/event/2D0064EAAEC36561",
       "confidence": 1,
@@ -1036,7 +222,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "928564c101924af0a15a9b4eb79cefebfa9d1659",
@@ -1065,7 +251,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/mountain-grass-unit-appalachian-smoke-tour-charlotte-north-carolina-11-06-2026/event/2D0064C9BAEE2C63",
       "confidence": 1,
@@ -1073,7 +259,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
+      "_rank_score": 85
     },
     {
       "id": "0043ca74e0b895630420e6d7064500c1ff852421",
@@ -1102,7 +288,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70_oy",
       "confidence": 1,
@@ -1110,118 +296,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 75
-    },
-    {
-      "id": "12b7b4ac9726a2506b6c5659ba91a0cca945b434",
-      "title": "UNC Charlotte 49ers Football vs. Tulane Green Wave Football",
-      "description": "UNC Charlotte 49ers Football vs. Tulane Green Wave Football at Jerry Richardson Stadium",
-      "start_datetime": "2026-10-30T23:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Jerry Richardson Stadium",
-        "address": "9201 University City Blvd",
-        "neighborhood": "",
-        "lat": 35.3284,
-        "lng": -80.7603
-      },
-      "category": [
-        "sports",
-        "panthers"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/457/b0cd2101-b2ce-4f73-b3df-8857ed9e4457_TABLET_LANDSCAPE_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7O_jJ",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "sports"
-      ],
-      "_rank_score": 65
-    },
-    {
-      "id": "dde5ea974cc1680a1a93c6ae0f515fa68b477a37",
-      "title": "Charlotte FC vs. Orlando City SC",
-      "description": "Charlotte FC vs. Orlando City SC at Bank of America Stadium",
-      "start_datetime": "2026-10-31T17:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Bank of America Stadium",
-        "address": "800 South Mint Street",
-        "neighborhood": "Uptown",
-        "lat": 35.225789,
-        "lng": -80.852829
-      },
-      "category": [
-        "sports",
-        "soccer"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/f6e/308835c9-2787-46e7-b887-3fe19dcc6f6e_1556291_TABLET_LANDSCAPE_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/charlotte-fc-vs-orlando-city-sc-charlotte-north-carolina-10-31-2026/event/2D006378D59BB2B0",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "sports"
-      ],
-      "_rank_score": 65
-    },
-    {
-      "id": "69605221605308f3cae54afa239e68902fd79b65",
-      "title": "Charlotte Hornets vs. Philadelphia 76ers",
-      "description": "Charlotte Hornets vs. Philadelphia 76ers at Spectrum Center",
-      "start_datetime": "2026-10-31T22:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Spectrum Center",
-        "address": "333 East Trade Street",
-        "neighborhood": "Uptown",
-        "lat": 35.225222,
-        "lng": -80.839921
-      },
-      "category": [
-        "sports",
-        "hornets"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/f48/2869041d-ebac-48fb-bf4f-54e797fa4f48_RETINA_PORTRAIT_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/charlotte-hornets-vs-philadelphia-76ers-charlotte-north-carolina-10-31-2026/event/2D0064F5BEA4158D",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "sports"
-      ],
-      "_rank_score": 65
+      "_rank_score": 85
     },
     {
       "id": "c0fc4fa11076da97f884078f63307fce7d3a6161",
@@ -1250,7 +325,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.805Z"
       },
       "url": "https://www.ticketmaster.com/the-arcadian-wild-make-it-out-charlotte-north-carolina-11-02-2026/event/2D0064C9F222B532",
       "confidence": 1,
@@ -1258,7 +333,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 80
     },
     {
       "id": "b7f65fa16fd93417d5cdd70e1d468c5976f418b4",
@@ -1287,7 +362,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.806Z"
       },
       "url": "https://www.ticketmaster.com/the-army-the-navy-the-fake-charlotte-north-carolina-11-03-2026/event/2D0064CCB10450E4",
       "confidence": 1,
@@ -1295,7 +370,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 80
     },
     {
       "id": "4423757a6604e8429fa2dd907d085091000fb2f9",
@@ -1324,7 +399,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.806Z"
       },
       "url": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-charlotte-north-carolina-11-03-2026/event/2D0064D19265BC9A",
       "confidence": 1,
@@ -1332,7 +407,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 80
     },
     {
       "id": "b2dd5474065637634f24950e589b06f73b3eee8f",
@@ -1361,7 +436,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.806Z"
       },
       "url": "https://www.ticketmaster.com/zauntee-god-remembers-tour-charlotte-north-carolina-11-04-2026/event/2D0064EAD47E56BE",
       "confidence": 1,
@@ -1369,7 +444,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 80
     },
     {
       "id": "abef0366e123b49dadc89dad25e59a32dbf5f876",
@@ -1398,7 +473,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/little-big-town-for-the-art-charlotte-north-carolina-11-07-2026/event/2D0064C2DB2CCA17",
       "confidence": 1,
@@ -1406,7 +481,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 75
     },
     {
       "id": "ab8d54b0cd30c41b611a486dc78f357fcca885a1",
@@ -1435,7 +510,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/kitchen-dwellers-dogs-in-a-pile-charlotte-north-carolina-11-07-2026/event/2D00650F36408A5F",
       "confidence": 1,
@@ -1443,7 +518,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 75
     },
     {
       "id": "fcaf74f76054dbb6398880fe1be2d04fd3a74f75",
@@ -1472,7 +547,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/yebba-charlotte-north-carolina-11-07-2026/event/2D0065157F6B741F",
       "confidence": 1,
@@ -1480,7 +555,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 75
     },
     {
       "id": "13ccb93fd7cd852411a5715cc599f698ce917860",
@@ -1509,7 +584,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/tyler-ballgame-charlotte-north-carolina-11-08-2026/event/2D006483B0635016",
       "confidence": 1,
@@ -1517,7 +592,7 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 75
     },
     {
       "id": "02161c641f5830b6456f99f6763c9fd4200d230f",
@@ -1546,7 +621,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/the-wrecks-finally-outside-tour-charlotte-north-carolina-11-08-2026/event/2D0064D0A207D971",
       "confidence": 1,
@@ -1554,13 +629,87 @@
         "ticketmaster-api",
         "music"
       ],
-      "_rank_score": 65
+      "_rank_score": 75
     },
     {
-      "id": "9f4c9abdd82610753136da3e4eed3bb5c85ffb8e",
-      "title": "Charlotte Hornets vs. Washington Wizards",
-      "description": "Charlotte Hornets vs. Washington Wizards at Spectrum Center",
-      "start_datetime": "2026-10-26T23:00:00.000Z",
+      "id": "e149a29e19182d60607115327c1f561c422b8c98",
+      "title": "Josh Garrels with special guest Taylor Armstong",
+      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:30pm Show: 7:30pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-11-13T00:30:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Underground",
+        "address": "820 Hamilton St",
+        "neighborhood": "",
+        "lat": 35.240299,
+        "lng": -80.845314
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/28d/7c2b86bf-8f47-416e-bed0-bb26bde7d28d_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/josh-garrels-with-special-guest-taylor-charlotte-north-carolina-11-12-2026/event/2D006464998ECD7B",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "4b5533f257ae2c31de4569af86bfd9f6663b574d",
+      "title": "Avery Anna",
+      "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-11-13T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Fillmore Charlotte",
+        "address": "820 Hamilton Street",
+        "neighborhood": "",
+        "lat": 35.239095,
+        "lng": -80.845519
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/cd1/a54b0fa1-4896-4405-af3a-e3ad915a5cd1_RETINA_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/avery-anna-charlotte-north-carolina-11-12-2026/event/2D0064F495427585",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "4f8b34f65bd503755af3eba0d33a861c89144c25",
+      "title": "ZAYN: The Konnakol Tour",
+      "description": "Unfortunately, the Event Organizer has had to cancel your event. You don't need to do a thing. We'll issue a refund to the [original method of payment](https://help.ticketmaster.com/hc/en-us/articles/9614074869009) used at time of purchase, as soon as funds are received from the Event Organizer. It should appear on your account within 14-21 days. Please Note: If the tickets were transferred to you, the refund will go to the fan who originally purchased the tickets from Ticketmaster. Please see our [Purchase Policy](https://help.ticketmaster.com/hc/en-us/articles/10465798887953-Purchase-Policy) for more information.",
+      "start_datetime": "2026-11-13T01:00:00.000Z",
       "end_datetime": null,
       "venue": {
         "name": "Spectrum Center",
@@ -1570,8 +719,8 @@
         "lng": -80.839921
       },
       "category": [
-        "sports",
-        "hornets"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -1579,72 +728,36 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/a/f48/2869041d-ebac-48fb-bf4f-54e797fa4f48_RETINA_PORTRAIT_3_2.jpg",
+      "image": "https://s1.ticketm.net/dam/a/2e8/361ce2bc-e824-4864-a0bc-3a464e0062e8_RETINA_PORTRAIT_3_2.jpg",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.291Z"
+        "scraped_at": "2026-11-02T23:01:34.808Z"
       },
-      "url": "https://www.ticketmaster.com/charlotte-hornets-vs-washington-wizards-charlotte-north-carolina-10-26-2026/event/2D0064F5BE9F1584",
+      "url": "https://www.ticketmaster.com/zayn-the-konnakol-tour-charlotte-north-carolina-11-12-2026/event/2D006443E8FDFC5E",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "sports"
+        "music"
       ],
-      "_rank_score": 60
+      "_rank_score": 75
     },
     {
-      "id": "caa632ef06cf8e5aa79a1329b8f1ce9f3fe7a2a3",
-      "title": "Charlotte FC vs. CF Montréal",
-      "description": "Charlotte FC vs. CF Montréal at Bank of America Stadium",
-      "start_datetime": "2026-10-28T23:30:00.000Z",
+      "id": "e95f07d26fd3786bc7152ac65b12166b8b13714a",
+      "title": "New Constellations: It Comes In Waves Tour",
+      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+      "start_datetime": "2026-11-13T01:00:00.000Z",
       "end_datetime": null,
       "venue": {
-        "name": "Bank of America Stadium",
-        "address": "800 South Mint Street",
-        "neighborhood": "Uptown",
-        "lat": 35.225789,
-        "lng": -80.852829
-      },
-      "category": [
-        "sports",
-        "soccer"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/f6e/308835c9-2787-46e7-b887-3fe19dcc6f6e_1556291_TABLET_LANDSCAPE_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/charlotte-fc-vs-cf-montreal-charlotte-north-carolina-10-28-2026/event/2D006378D50FB20E",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "sports"
-      ],
-      "_rank_score": 60
-    },
-    {
-      "id": "399cac4902af351fa6e4b12efe45a1a312218381",
-      "title": "Tobacco Road",
-      "description": "Tobacco Road at Amos Southend",
-      "start_datetime": "2026-10-30T00:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "Amos Southend",
-        "address": "1423 South Tryon St",
+        "name": "Neighborhood Theatre Tap Room",
+        "address": "511 E 36th St, Charlotte",
         "neighborhood": "",
-        "lat": 35.208302,
-        "lng": -80.857803
+        "lat": 35.24749614,
+        "lng": -80.80389971
       },
       "category": [
-        "entertainment"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -1652,25 +765,62 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/a/46f/3e3960c9-4866-490f-8fc5-7c2af73fc46f_RETINA_PORTRAIT_16_9.jpg",
+      "image": "https://s1.ticketm.net/dam/a/7a7/29447d45-a7d2-4cf9-bb9b-b1b72c62a7a7_RETINA_PORTRAIT_3_2.jpg",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
+        "scraped_at": "2026-11-02T23:01:34.808Z"
       },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7eOA",
+      "url": "https://www.ticketmaster.com/new-constellations-it-comes-in-waves-charlotte-north-carolina-11-12-2026/event/2D0064DEC8AFB824",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "arts & theatre"
+        "music"
       ],
-      "_rank_score": 60
+      "_rank_score": 75
     },
     {
-      "id": "6e6ebf8703fb1efdaea24684e51eb41fcc7e7fb8",
-      "title": "The Renaissance Orchestra",
-      "description": "All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-10-31T00:00:00.000Z",
+      "id": "d08548d0d0ea0d749de94acccd83186e474ba7e5",
+      "title": "Special EFX",
+      "description": "Special EFX at Middle C Jazz",
+      "start_datetime": "2026-11-13T23:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Middle C Jazz",
+        "address": "300 S Brevard St",
+        "neighborhood": "",
+        "lat": 35.228001,
+        "lng": -80.844597
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_PORTRAIT_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70ye4",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
+    },
+    {
+      "id": "83ae59a758a0238774c7cc563cd4e1f47d54833d",
+      "title": "JACK WHITE LIVE 2026",
+      "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase. PLEASE NOTE: THIS IS A PHONE-FREE SHOW. WHAT IS A PHONE-FREE SHOW? No phones allowed in the performance space. An unplugged, real life experience. HOW DOES IT WORK? Upon arrival at the venue, staff will be available to help you put your phone in a lockable pouch which you keep throughout the night. WHAT IF I HAVE AN EMERGENCY AND NEED TO ACCESS MY PHONE? You can unlock your phone from the pouch at any time by going to the clearly-marked Phone Use Areas located in the lobby or the concourse.",
+      "start_datetime": "2026-11-14T01:00:00.000Z",
       "end_datetime": null,
       "venue": {
         "name": "The Fillmore Charlotte",
@@ -1680,7 +830,8 @@
         "lng": -80.845519
       },
       "category": [
-        "entertainment"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -1688,35 +839,36 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/a/c03/b7bd6b38-a8d1-46c5-b200-38a96f9a9c03_RETINA_PORTRAIT_16_9.jpg",
+      "image": "https://s1.ticketm.net/dam/a/1cc/dbbdb302-9c0e-42cc-baaa-8cae6651c1cc_RETINA_PORTRAIT_3_2.jpg",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
+        "scraped_at": "2026-11-02T23:01:34.808Z"
       },
-      "url": "https://www.ticketmaster.com/the-renaissance-orchestra-charlotte-north-carolina-10-30-2026/event/2D0065298C339DBF",
+      "url": "https://www.ticketmaster.com/jack-white-live-2026-charlotte-north-carolina-11-13-2026/event/2D006487D7C379B8",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "arts & theatre"
+        "music"
       ],
-      "_rank_score": 60
+      "_rank_score": 75
     },
     {
-      "id": "22b29c18f290f46da2dae67e0476ec525eeede8a",
-      "title": "John Cameron Mitchell: Hedwig 25th Anniversary Movie Tour",
-      "description": "18+ ONLY Doors: 6:00PM Show: 7:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
-      "start_datetime": "2026-10-27T23:00:00.000Z",
+      "id": "7825fd4f292b2cd20a70516539c146fc66962c2d",
+      "title": "Yaelokre",
+      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-11-14T01:00:00.000Z",
       "end_datetime": null,
       "venue": {
-        "name": "The Fillmore Charlotte",
-        "address": "820 Hamilton Street",
+        "name": "The Underground",
+        "address": "820 Hamilton St",
         "neighborhood": "",
-        "lat": 35.239095,
-        "lng": -80.845519
+        "lat": 35.240299,
+        "lng": -80.845314
       },
       "category": [
-        "entertainment"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -1724,71 +876,36 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/a/890/ba987058-54c4-443a-b1f3-261c51477890_RETINA_LANDSCAPE_16_9.jpg",
+      "image": "https://s1.ticketm.net/dam/a/0fa/a34b4655-7481-4ba8-a5ce-d9542f5d50fa_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
+        "scraped_at": "2026-11-02T23:01:34.808Z"
       },
-      "url": "https://www.ticketmaster.com/john-cameron-mitchell-hedwig-25th-anniversary-charlotte-north-carolina-10-27-2026/event/2D006497A0EA8B3B",
+      "url": "https://www.ticketmaster.com/yaelokre-charlotte-north-carolina-11-13-2026/event/2D0064CD232B6CFD",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "arts & theatre"
+        "music"
       ],
-      "_rank_score": 55
+      "_rank_score": 75
     },
     {
-      "id": "b8f06b36d1bba938a3261d06745a5d7ee2de068d",
-      "title": "Sonic Live In Concert",
-      "description": "Doors 6:30pm. Show 7:30pm.",
-      "start_datetime": "2026-10-27T23:30:00.000Z",
+      "id": "6ab7d00c810eedae6d2fa6b26a38b9f739037539",
+      "title": "Katie Pruitt: Fools for the Fleeting Tour",
+      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+      "start_datetime": "2026-11-14T01:00:00.000Z",
       "end_datetime": null,
       "venue": {
-        "name": "Ovens Auditorium",
-        "address": "2900 E Independence Boulevard",
-        "neighborhood": "East Charlotte",
-        "lat": 35.2050931,
-        "lng": -80.7953024
-      },
-      "category": [
-        "entertainment"
-      ],
-      "price": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "notes": "See website"
-      },
-      "image": "https://s1.ticketm.net/dam/a/f8d/a2759b35-f441-4493-9453-468b2f700f8d_TABLET_LANDSCAPE_3_2.jpg",
-      "source": {
-        "name": "Ticketmaster API",
-        "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
-      },
-      "url": "https://www.ticketmaster.com/sonic-live-in-concert-charlotte-north-carolina-10-27-2026/event/2D0064ACB53E79C3",
-      "confidence": 1,
-      "tags": [
-        "ticketmaster-api",
-        "arts & theatre"
-      ],
-      "_rank_score": 55
-    },
-    {
-      "id": "463455e2f8dc4a98f1bc0fa9afe0106860324460",
-      "title": "Diva Royale Drag Queen Show (18+ Event)",
-      "description": "Diva Royale Drag Queen Show (18+ Event) at The Scorpio",
-      "start_datetime": "2026-10-30T23:00:00.000Z",
-      "end_datetime": null,
-      "venue": {
-        "name": "The Scorpio",
-        "address": "225 Fairwood Ave",
+        "name": "Neighborhood Theatre Tap Room",
+        "address": "511 E 36th St, Charlotte",
         "neighborhood": "",
-        "lat": 35.208302,
-        "lng": -80.857803
+        "lat": 35.24749614,
+        "lng": -80.80389971
       },
       "category": [
-        "special"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -1796,19 +913,56 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+      "image": "https://s1.ticketm.net/dam/e/377/0f31b4a1-72a0-4eda-add9-2a08cb4f8377_RETINA_PORTRAIT_3_2.jpg",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
+        "scraped_at": "2026-11-02T23:01:34.808Z"
       },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P41p",
+      "url": "https://www.ticketmaster.com/katie-pruitt-fools-for-the-fleeting-charlotte-north-carolina-11-13-2026/event/2D0064CB95E7B972",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "undefined"
+        "music"
       ],
-      "_rank_score": 55
+      "_rank_score": 75
+    },
+    {
+      "id": "0c181d6df574ee53755909c3d8b7a8c20fd59497",
+      "title": "Sullivan King - Night 1 - Ages 18+",
+      "description": "Sullivan King - Night 1 - Ages 18+ at Blackbox Theater - Charlotte",
+      "start_datetime": "2026-11-14T03:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Blackbox Theater - Charlotte",
+        "address": "421 East Sugar Creek Rd",
+        "neighborhood": "",
+        "lat": 35.2897,
+        "lng": -80.730202
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/900/8c7dbcd1-b8c3-4832-a342-ba04304da900_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvs19",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 75
     },
     {
       "id": "a93f60e9d5c2c518d648130af47da74d11ad181e",
@@ -1837,7 +991,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/charlotte-hornets-vs-boston-celticsemirates-nba-charlotte-north-carolina-11-06-2026/event/2D0064F5BEAE15D0",
       "confidence": 1,
@@ -1845,7 +999,7 @@
         "ticketmaster-api",
         "sports"
       ],
-      "_rank_score": 55
+      "_rank_score": 65
     },
     {
       "id": "0d96fb2b8ec7996e5cd0579c1077c9160a436f6d",
@@ -1873,7 +1027,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/charlotte-checkers-vs-wilkes-barre-scranton-charlotte-north-carolina-11-06-2026/event/2D00651392A981CA",
       "confidence": 1,
@@ -1881,23 +1035,24 @@
         "ticketmaster-api",
         "sports"
       ],
-      "_rank_score": 55
+      "_rank_score": 65
     },
     {
-      "id": "1862c1c2c6358ad278b7f962f63b20cbe3cce66c",
-      "title": "Public Square: Charlotte's Civic Conversation Series",
-      "description": "Charlotte Mecklenburg Library Foundation presents Public Square, a civic conversation series bringing the tradition of American debate to life through civil and illuminating dialogue. The series opens with ?Freedom and Responsibility: What We Owe Each Other,? a conversation exploring one of the most pressing questions of our time: where individual liberty ends and collective responsibility begins. Moderated by Carol Quillen, the evening features John Hood, President of the John William Pope Foundation, and Melissa Murray, Frederick I. and Grace Stokes Professor of Law at NYU School of Law, in conversation. Public Square is brought to Charlotte through a partnership with the Morton and Durham families. For more information about the series, visit foundation.cmlibrary.org/publicsquare.",
-      "start_datetime": "2026-10-29T23:00:00.000Z",
+      "id": "6b1272000251678560cb78b6c017eb5feaa05ddd",
+      "title": "Deer Tick",
+      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+      "start_datetime": "2026-11-10T01:00:00.000Z",
       "end_datetime": null,
       "venue": {
-        "name": "The Carolina",
-        "address": "230 N Tryon",
+        "name": "Neighborhood Theatre Tap Room",
+        "address": "511 E 36th St, Charlotte",
         "neighborhood": "",
-        "lat": 35.22852197,
-        "lng": -80.84064436
+        "lat": 35.24749614,
+        "lng": -80.80389971
       },
       "category": [
-        "entertainment"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -1905,35 +1060,36 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/e/399/ddf1648a-3088-4d98-9cb0-2d2de2c5c399_SOURCE",
+      "image": "https://s1.ticketm.net/dam/e/f81/a999f6d0-e18e-43d6-a9bf-df9ffb849f81_RETINA_PORTRAIT_16_9.jpg",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
-      "url": "https://www.ticketmaster.com/public-square-charlottes-civic-conversation-series-charlotte-north-carolina-10-29-2026/event/2D006512C009D8B6",
+      "url": "https://www.ticketmaster.com/deer-tick-charlotte-north-carolina-11-09-2026/event/2D00646624DA4EAA",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "arts & theatre"
+        "music"
       ],
-      "_rank_score": 50
+      "_rank_score": 65
     },
     {
-      "id": "a7d649dd5a6fd8da5d6c2af556a904a444e26d2e",
-      "title": "sCarrie Prom: Celebrating the 50th Anniversary of Carrie",
-      "description": "Step into a night of spooky glamour, dancing, and cinematic thrills! Gather and Groove presents a spooky prom-style mixer featuring DeejaySuave, bringing the dance floor to life with the perfect soundtrack for an unforgettable night. Come dressed to impress or haunt and celebrate with fellow horror fans in a prom-inspired atmosphere full of music, mingling, and eerie fun. Then, settle in for a special screening of Carrie in celebration of the film's 50th anniversary. Whether you're here to dance, relive a horror classic, or both, this is one prom you won't want to miss. Grab your friends, dress for the occasion, and get ready for a night of unforgettable frights and festivities! IMPORTANT NOTE: The sCarrie Prom experience begins at 6:00 PM with the movie screening starting at 9:00 PM",
-      "start_datetime": "2026-11-01T01:00:00.000Z",
+      "id": "309360fb3f902085559e592308204d7ffd7f089a",
+      "title": "Slaughter To Prevail: North America 2026 Leg 2",
+      "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:30PM Show: 8:30PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-11-10T01:30:00.000Z",
       "end_datetime": null,
       "venue": {
-        "name": "The Carolina",
-        "address": "230 N Tryon",
+        "name": "The Fillmore Charlotte",
+        "address": "820 Hamilton Street",
         "neighborhood": "",
-        "lat": 35.22852197,
-        "lng": -80.84064436
+        "lat": 35.239095,
+        "lng": -80.845519
       },
       "category": [
-        "special"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -1941,35 +1097,36 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/e/bdb/0b6e7266-4bc0-4115-9fc6-700af07f0bdb_RETINA_PORTRAIT_16_9.jpg",
+      "image": "https://s1.ticketm.net/dam/a/33b/84a91251-6cd7-450c-9499-c987189ec33b_TABLET_LANDSCAPE_16_9.jpg",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
-      "url": "https://www.ticketmaster.com/scarrie-prom-celebrating-the-50th-anniversary-charlotte-north-carolina-10-31-2026/event/2D00651FA1B0B1AE",
+      "url": "https://www.ticketmaster.com/slaughter-to-prevail-north-america-2026-charlotte-north-carolina-11-09-2026/event/2D00651BAD99B837",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "film"
+        "music"
       ],
-      "_rank_score": 45
+      "_rank_score": 65
     },
     {
-      "id": "b828a674d73f7e499cae3babe62f0980db45cbca",
-      "title": "Diva Royale Drag Queen Show (18+ Event)",
-      "description": "Diva Royale Drag Queen Show (18+ Event) at The Scorpio",
-      "start_datetime": "2026-11-01T18:30:00.000Z",
+      "id": "f071ca22485cced5a087e0b2e29d491fb50bfd55",
+      "title": "Catch Your Breath - Not Broken Enough Tour",
+      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:00pm Show: 7:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-11-11T00:00:00.000Z",
       "end_datetime": null,
       "venue": {
-        "name": "The Scorpio",
-        "address": "225 Fairwood Ave",
+        "name": "The Underground",
+        "address": "820 Hamilton St",
         "neighborhood": "",
-        "lat": 35.208302,
-        "lng": -80.857803
+        "lat": 35.240299,
+        "lng": -80.845314
       },
       "category": [
-        "special"
+        "concert",
+        "nightlife"
       ],
       "price": {
         "min": null,
@@ -1977,19 +1134,463 @@
         "currency": "USD",
         "notes": "See website"
       },
-      "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+      "image": "https://s1.ticketm.net/dam/a/b79/fad89e83-5f7e-4a7f-9319-052c08101b79_SOURCE",
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.292Z"
+        "scraped_at": "2026-11-02T23:01:34.808Z"
       },
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P41f",
+      "url": "https://www.ticketmaster.com/catch-your-breath-not-broken-enough-charlotte-north-carolina-11-10-2026/event/2D0064B6B555F5FA",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
-        "undefined"
+        "music"
       ],
-      "_rank_score": 45
+      "_rank_score": 65
+    },
+    {
+      "id": "659d2210aa051cdfa6e79929f8e085829b91a000",
+      "title": "Hot Mulligan North American Fall Tour",
+      "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:00PM Show: 7:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-11-11T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Fillmore Charlotte",
+        "address": "820 Hamilton Street",
+        "neighborhood": "",
+        "lat": 35.239095,
+        "lng": -80.845519
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/d5f/25f3ce49-b3ab-44c8-9494-df6c20eddd5f_TABLET_LANDSCAPE_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/hot-mulligan-north-american-fall-tour-charlotte-north-carolina-11-10-2026/event/2D0064CCA175EE2B",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "9a00a080344e7a32ea1e2e93a9192144cfefeccf",
+      "title": "UAU 2026 FANCON [Playlist #Your Youth] in Charlotte",
+      "description": "UAU 2026 FANCON [Playlist #Your Youth] in America UAU featuring Dreamcatcher members JI U, SU A, and YOOHYEON are heading back across the U.S. for their second American tour. Experience UAU live with performances and special fan interactions. Tickets and VIP packages go on sale Friday Sept 18 at 10AM (CST) General Admission: $50 - This is a first come, first served ticket to the UAU concert General Admission + Send-Off: $75 - This is your ticket to the UAU concert + the Send-Off after the show VIP: $125 - This ticket includes: - Your UAU concert ticket - Skip The Line - Sound Check Party - Group Photo - Send-Off after the show Please arrive by 4PM!! VVIP: $150 - This ticket includes: - Your UAU concert ticket - Skip The Line - Sound Check Party - Group Photo - Send-Off after the show - UAU Fan Sign before the show Please arrive by 4PM!! Everything Ticket: $250 - This ticket includes: - Your UAU concert ticket - Skip The Line - Sound Check Party - Group Photo - Send-Off after the show - UAU Fan Sign before the show - 3 1:1 Snapshots (1 photo with each member) - You+ (solo photo of You + UAU) Please arrive by 4PM!! UPGRADES: JI U 1:1 Snapshot: $99 1:1 Snapshot with JI U. Photo will be taken by staff using the fan's mobile phone. LIMITED! (This does not include a concert ticket.) SU A 1:1 Snapshot: $99 1:1 Snapshot with SU A. Photo will be taken by staff using the fan's mobile phone. LIMITED! (This does not include a concert ticket.) YOOHYEON 1:1 Snapshot: $99 1:1 Snapshot with YOOHYEON. Photo will be taken by staff using the fan's mobile phone. LIMITED! (This does not include a concert ticket.) You+: $75 -- Solo photo of You + UAU. Photo will be taken by staff using the fan's mobile phone. LIMITED! (This does not include a concert ticket.) www.LeoPresents.com",
+      "start_datetime": "2026-11-11T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Blackbox Theater",
+        "address": "421 E Sugar Creek Rd",
+        "neighborhood": "",
+        "lat": 35.253882,
+        "lng": -80.791551
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": 58.97,
+        "max": 277.33,
+        "currency": "USD",
+        "notes": "Ticketed"
+      },
+      "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketweb.com/event/uau-2026-fancon-playlist-your-blackbox-theater-tickets/14324634",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "6d6c607fad0794f0758d0e8455d89f777e773763",
+      "title": "Gaelic Storm",
+      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+      "start_datetime": "2026-11-11T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Neighborhood Theatre Main Room",
+        "address": "511 E 36th St",
+        "neighborhood": "",
+        "lat": 35.247447,
+        "lng": -80.803888
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/ed7/de30527f-6566-44fc-a49a-f1caa6bcfed7_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/gaelic-storm-charlotte-north-carolina-11-10-2026/event/2D0064DD2FFBEEE8",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "15fc23987d673e8f3c35bbd3ef20bd7babe7e6cf",
+      "title": "Sleeping With Sirens: An Ending In Itself Tour",
+      "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:00PM Show: 7:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-11-12T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Fillmore Charlotte",
+        "address": "820 Hamilton Street",
+        "neighborhood": "",
+        "lat": 35.239095,
+        "lng": -80.845519
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/0c6/ca7f4332-c367-4d98-924d-361c38f7f0c6_TABLET_LANDSCAPE_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/sleeping-with-sirens-an-ending-in-charlotte-north-carolina-11-11-2026/event/2D0064CA8DE39EB5",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "46a6b21cfe42cbb0b371eabbcfead8b4a2191284",
+      "title": "Country 103.7 Stars & Guitars",
+      "description": "Doors 7pm. Show 8pm.",
+      "start_datetime": "2026-11-12T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Ovens Auditorium",
+        "address": "2900 E Independence Boulevard",
+        "neighborhood": "East Charlotte",
+        "lat": 35.2050931,
+        "lng": -80.7953024
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/9dc/dc0bf060-a92a-4a60-8458-8105d9b119dc_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/country-1037-stars-guitars-charlotte-north-carolina-11-11-2026/event/2D006529F356F8A5",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "d505cda9c5314ab2c2eb1f09f3efe01542a8bb28",
+      "title": "WesGhost - If It's Not Forever the tour",
+      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00pm Show: 8:00pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-11-12T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Underground",
+        "address": "820 Hamilton St",
+        "neighborhood": "",
+        "lat": 35.240299,
+        "lng": -80.845314
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/e62/de29a3f9-efa1-4e98-abef-a7fe93844e62_TABLET_LANDSCAPE_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/wesghost-if-its-not-forever-the-charlotte-north-carolina-11-11-2026/event/2D0064C5C534F6C2",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "9db5645f8969fee1133f117e8f525729f28e8132",
+      "title": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
+      "description": "18+ is recommended but all ages welcome.",
+      "start_datetime": "2026-11-15T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade Street",
+        "neighborhood": "Uptown",
+        "lat": 35.225222,
+        "lng": -80.839921
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-charlotte-north-carolina-11-14-2026/event/2D0064B3DA953D82",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "f7a9911892046494d285c5639beb8616475bfdaa",
+      "title": "Chat Pile - Who Loves The Sun Tour 2026",
+      "description": "The Underground Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 6:30pm Show: 7:30pm Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-11-15T00:30:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Underground",
+        "address": "820 Hamilton St",
+        "neighborhood": "",
+        "lat": 35.240299,
+        "lng": -80.845314
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/93d/79c6029f-069d-4f8a-9322-d5e59fe0393d_SOURCE",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/chat-pile-who-loves-the-sun-charlotte-north-carolina-11-14-2026/event/2D0064C4C144CF37",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "ce0ac66ae8ea88b00e66f89f82245b574376de2a",
+      "title": "The Stews",
+      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State-Issued ID or Driver's License, Military ID, Passport.) // The balcony is restricted to ages 21+.",
+      "start_datetime": "2026-11-15T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Neighborhood Theatre Main Room",
+        "address": "511 E 36th St",
+        "neighborhood": "",
+        "lat": 35.247447,
+        "lng": -80.803888
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/e/9c0/78e0fb33-0746-4043-95f0-2ea21ef609c0_TABLET_LANDSCAPE_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/the-stews-charlotte-north-carolina-11-14-2026/event/2D006507B5C92C75",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "9d8170aee05a9086487acc8449859212234ad051",
+      "title": "JACK WHITE LIVE 2026",
+      "description": "The Fillmore Is A General Admission Standing Room Only Venue Unless Otherwise Noted. All Ages Welcome Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase. PLEASE NOTE: THIS IS A PHONE-FREE SHOW. WHAT IS A PHONE-FREE SHOW? No phones allowed in the performance space. An unplugged, real life experience. HOW DOES IT WORK? Upon arrival at the venue, staff will be available to help you put your phone in a lockable pouch which you keep throughout the night. WHAT IF I HAVE AN EMERGENCY AND NEED TO ACCESS MY PHONE? You can unlock your phone from the pouch at any time by going to the clearly-marked Phone Use Areas located in the lobby or the concourse.",
+      "start_datetime": "2026-11-15T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Fillmore Charlotte",
+        "address": "820 Hamilton Street",
+        "neighborhood": "",
+        "lat": 35.239095,
+        "lng": -80.845519
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/1cc/dbbdb302-9c0e-42cc-baaa-8cae6651c1cc_RETINA_PORTRAIT_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/jack-white-live-2026-charlotte-north-carolina-11-14-2026/event/2D006487D7C679C1",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "5def59d5c3259e4b05887c1097a39f88dbb0ae60",
+      "title": "Sullivan King - Night 2 - Ages 18+",
+      "description": "Sullivan King - Night 2 - Ages 18+ at Blackbox Theater - Charlotte",
+      "start_datetime": "2026-11-15T03:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Blackbox Theater - Charlotte",
+        "address": "421 East Sugar Creek Rd",
+        "neighborhood": "",
+        "lat": 35.2897,
+        "lng": -80.730202
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/900/8c7dbcd1-b8c3-4832-a342-ba04304da900_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvs1b",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
+    },
+    {
+      "id": "8ae25b9b5f890ad299c3ca6ed1a404f4bc270221",
+      "title": "Paula Cole - THIS FIRE: 30",
+      "description": "Age Policy: 18+ Valid ID required for entry into venue / Under 18 permitted with parent (Accepted forms of ID: State Issued ID or Driver's License, Military ID, Passport.)",
+      "start_datetime": "2026-11-16T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Neighborhood Theatre Main Room",
+        "address": "511 E 36th St",
+        "neighborhood": "",
+        "lat": 35.247447,
+        "lng": -80.803888
+      },
+      "category": [
+        "concert",
+        "nightlife"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/ce2/7bc7538b-2833-49fd-83e1-8c6f9c698ce2_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/paula-cole-this-fire-30-charlotte-north-carolina-11-15-2026/event/2D0064A19F3D5F45",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "music"
+      ],
+      "_rank_score": 65
     },
     {
       "id": "135722ba5d60c8627acec89720e26e5270524f3c",
@@ -2018,7 +1619,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.805Z"
       },
       "url": "https://www.ticketmaster.com/charlotte-hornets-vs-detroit-pistons-charlotte-north-carolina-11-02-2026/event/2D0064F5BEA91595",
       "confidence": 1,
@@ -2026,7 +1627,7 @@
         "ticketmaster-api",
         "sports"
       ],
-      "_rank_score": 45
+      "_rank_score": 60
     },
     {
       "id": "3a276bc524392e972cb05e45c76fdb91bcbf6d39",
@@ -2054,7 +1655,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P4GA",
       "confidence": 1,
@@ -2062,7 +1663,7 @@
         "ticketmaster-api",
         "undefined"
       ],
-      "_rank_score": 45
+      "_rank_score": 55
     },
     {
       "id": "c191f769e7d248bffba10fe58c9aaa177b5103c8",
@@ -2091,7 +1692,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/carolina-panthers-v-denver-broncos-charlotte-north-carolina-11-08-2026/event/2D00646BB7D2EBE2",
       "confidence": 1,
@@ -2099,7 +1700,7 @@
         "ticketmaster-api",
         "sports"
       ],
-      "_rank_score": 45
+      "_rank_score": 55
     },
     {
       "id": "eb0ce11eb223bedf5c3bf12b1775d6b3da75366a",
@@ -2127,7 +1728,7 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/ally-tipoff-charlotte-north-carolina-11-08-2026/event/2D00651AFAA8BB19",
       "confidence": 1,
@@ -2135,7 +1736,80 @@
         "ticketmaster-api",
         "sports"
       ],
-      "_rank_score": 45
+      "_rank_score": 55
+    },
+    {
+      "id": "cfd1613876c5ac3aa331da546bcb1669498b1a48",
+      "title": "UNC Charlotte 49ers Football vs. East Carolina Pirates Football",
+      "description": "UNC Charlotte 49ers Football vs. East Carolina Pirates Football at Jerry Richardson Stadium",
+      "start_datetime": "2026-11-14T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Jerry Richardson Stadium",
+        "address": "9201 University City Blvd",
+        "neighborhood": "",
+        "lat": 35.3284,
+        "lng": -80.7603
+      },
+      "category": [
+        "sports",
+        "panthers"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/457/b0cd2101-b2ce-4f73-b3df-8857ed9e4457_TABLET_LANDSCAPE_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7O_jN",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "sports"
+      ],
+      "_rank_score": 55
+    },
+    {
+      "id": "a42e001974a31449abbbb774d1c834bf3c05b707",
+      "title": "\"Search Party: Where's Pawpaw?\" film premiere",
+      "description": "ACCESSIBILITY- Accessible seating is available online through Ticketmaster by filtering on the ADA Icon and selecting Accessible Seats. Note: the Carolina Theatre has the original, historic stairs in the balcony. Please take that into consideration when buying balcony tickets. CASHLESS VENUE - the Carolina Theatre services all credit and debit payments only. No cash accepted at the box office or bar. BAG POLICY - For everyone?s safety, we kindly ask all guests enter with as few items as possible. If you should need a specific personal item, please follow the guidelines below. We permit clutch-size bags and small purses. We allow diaper bags, regardless of size, accompanying a child, but they will be subject to inspection. We also permit medical bags, or any bags carrying medical items, no larger than 12 x 12 x 6. These bags are also subject to inspection. We prohibit all other bags, including backpacks. For special circumstances, please reach out to Guest Services prior to yo",
+      "start_datetime": "2026-11-04T23:30:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Carolina",
+        "address": "230 N Tryon",
+        "neighborhood": "",
+        "lat": 35.22852197,
+        "lng": -80.84064436
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/e/bed/b8c0e5f5-95bb-4cc1-b035-fbd0fc5fabed_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.806Z"
+      },
+      "url": "https://www.ticketmaster.com/search-party-wheres-pawpaw-film-premiere-charlotte-north-carolina-11-04-2026/event/2D00655B97BC6A8C",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "film"
+      ],
+      "_rank_score": 50
     },
     {
       "id": "0e851e45e010d7d34e6c7dd5d843787fef8cdae6",
@@ -2163,9 +1837,334 @@
       "source": {
         "name": "Ticketmaster API",
         "url": "https://app.ticketmaster.com/discovery/v2/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.807Z"
       },
       "url": "https://www.ticketmaster.com/registix-reserve-access-not-a-game-charlotte-north-carolina-11-08-2026/event/2D006488E203E37C",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "miscellaneous"
+      ],
+      "_rank_score": 45
+    },
+    {
+      "id": "9a0f82942c0a5dd909af93e5d6a2fe727341ac3c",
+      "title": "Charlotte Hornets vs. Cleveland Cavaliers",
+      "description": "Charlotte Hornets vs. Cleveland Cavaliers at Spectrum Center",
+      "start_datetime": "2026-11-10T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Spectrum Center",
+        "address": "333 East Trade Street",
+        "neighborhood": "Uptown",
+        "lat": 35.225222,
+        "lng": -80.839921
+      },
+      "category": [
+        "sports",
+        "hornets"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/f48/2869041d-ebac-48fb-bf4f-54e797fa4f48_RETINA_PORTRAIT_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.807Z"
+      },
+      "url": "https://www.ticketmaster.com/charlotte-hornets-vs-cleveland-cavaliers-charlotte-north-carolina-11-09-2026/event/2D0064F5BEB315D8",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "sports"
+      ],
+      "_rank_score": 45
+    },
+    {
+      "id": "58bcbe4e3b06d4b7820bcacc2828911afccba306",
+      "title": "Charlotte Checkers vs. Providence Bruins",
+      "description": "BAG POLICY: Any non-clear bag larger than 4.5\" x 6.5\" is not permitted. Parking is included in the ticket price. All purchase transactions will be cashless. Purchases can be made with a debit card or credit card; matching ID required. All dates, acts, & ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of sale.",
+      "start_datetime": "2026-11-11T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Bojangles Coliseum",
+        "address": "2700 E Independence Boulevard",
+        "neighborhood": "East Charlotte",
+        "lat": 35.2050931,
+        "lng": -80.7953024
+      },
+      "category": [
+        "sports"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/8d9/818ee4bb-df3e-4d58-8468-c23e293418d9_851601_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/charlotte-checkers-vs-providence-bruins-charlotte-north-carolina-11-10-2026/event/2D00651392B381FD",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "sports"
+      ],
+      "_rank_score": 45
+    },
+    {
+      "id": "9f5c240be7de5ccd7824414360ccc7c94d29c50f",
+      "title": "Charlotte Checkers vs. Providence Bruins",
+      "description": "BAG POLICY: Any non-clear bag larger than 4.5\" x 6.5\" is not permitted. Parking is included in the ticket price. All purchase transactions will be cashless. Purchases can be made with a debit card or credit card; matching ID required. All dates, acts, & ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of sale.",
+      "start_datetime": "2026-11-12T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "Bojangles Coliseum",
+        "address": "2700 E Independence Boulevard",
+        "neighborhood": "East Charlotte",
+        "lat": 35.2050931,
+        "lng": -80.7953024
+      },
+      "category": [
+        "sports"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/8d9/818ee4bb-df3e-4d58-8468-c23e293418d9_851601_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/charlotte-checkers-vs-providence-bruins-charlotte-north-carolina-11-11-2026/event/2D00651392B88229",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "sports"
+      ],
+      "_rank_score": 45
+    },
+    {
+      "id": "5eb180711cee3e10ced38e831dec539bdafe83fb",
+      "title": "Diva Royale Drag Queen Show (18+ Event)",
+      "description": "Diva Royale Drag Queen Show (18+ Event) at The Scorpio",
+      "start_datetime": "2026-11-14T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Scorpio",
+        "address": "225 Fairwood Ave",
+        "neighborhood": "",
+        "lat": 35.208302,
+        "lng": -80.857803
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P4Ga",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "undefined"
+      ],
+      "_rank_score": 45
+    },
+    {
+      "id": "ae179567eb5eae104914ba175900bed7bf08ebed",
+      "title": "National Geographic Live - Wild Cats Revealed",
+      "description": "Lions and tigers around the world are easily recognizable and thoroughly documented, but filmmaker and National Geographic Explorer Sandesh Kadur is on a mission to highlight his home country?s lesser-known felines to help protect their future. An unmatched diversity of wild cats live in India, from the towering Himalaya mountains to arid plains to dense jungles. Discover the tiny, grumpy-faced Pallas?s cat, the fishing cat that jumps into water to catch its prey, and the elusive clouded leopard. BAFTA Award-winning filmmaker Sandesh Kadur is a National Geographic Society Fellow. He creates documentaries that have aired worldwide on prominent networks such as National Geographic, the BBC, Netflix, Discovery Channel, and Animal Planet.",
+      "start_datetime": "2026-11-16T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Carolina",
+        "address": "230 N Tryon",
+        "neighborhood": "",
+        "lat": 35.22852197,
+        "lng": -80.84064436
+      },
+      "category": [
+        "entertainment"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/e/904/552cc5f3-2b09-451f-a097-438d867a6904_TABLET_LANDSCAPE_3_2.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/national-geographic-live-wild-cats-revealed-charlotte-north-carolina-11-15-2026/event/2D0064F8D4608009",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "arts & theatre"
+      ],
+      "_rank_score": 40
+    },
+    {
+      "id": "9078432b38499dd07dd8a665961ca0779742656e",
+      "title": "El Temach (21+ ONLY)",
+      "description": "This is a GA Seated event 21+ ONLY Doors: 7:00PM Show: 8:00PM Ticket prices will increase the day of the show. All dates, acts, and ticket prices subject to change without notice. All tickets are subject to applicable service fees via all points of purchase.",
+      "start_datetime": "2026-11-16T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Underground",
+        "address": "820 Hamilton St",
+        "neighborhood": "",
+        "lat": 35.240299,
+        "lng": -80.845314
+      },
+      "category": [
+        "entertainment"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/b6c/046dbd25-87db-45fa-bd17-aeebd717db6c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/el-temach-21-only-charlotte-north-carolina-11-15-2026/event/2D006481B0BF2D0C",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "arts & theatre"
+      ],
+      "_rank_score": 40
+    },
+    {
+      "id": "25dac1d27b0697bfa7ac0346ec4804efd5377073",
+      "title": "Diva Royale Drag Queen Show (18+ Event)",
+      "description": "Diva Royale Drag Queen Show (18+ Event) at The Scorpio",
+      "start_datetime": "2026-11-15T00:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Scorpio",
+        "address": "225 Fairwood Ave",
+        "neighborhood": "",
+        "lat": 35.208302,
+        "lng": -80.857803
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P41b",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "undefined"
+      ],
+      "_rank_score": 35
+    },
+    {
+      "id": "d06e6f760e37f4366a999a4d3b456ff518d71bde",
+      "title": "El Temach M&G Merch Package Add-On *NOT A CONCERT TICKET*",
+      "description": "*THIS IS NOT AN EVENT TICKET* A TICKET TO THE EVENT MUST BE PURCHASED SEPERATELY Meet & Greet Merch Package",
+      "start_datetime": "2026-11-16T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Underground",
+        "address": "820 Hamilton St",
+        "neighborhood": "",
+        "lat": 35.240299,
+        "lng": -80.845314
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/e66/6f2284d0-f10e-4b88-8ed4-9b47c0f4de66_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/el-temach-mg-merch-package-addon-charlotte-north-carolina-11-15-2026/event/2D006481B0C22D21",
+      "confidence": 1,
+      "tags": [
+        "ticketmaster-api",
+        "miscellaneous"
+      ],
+      "_rank_score": 35
+    },
+    {
+      "id": "fee0a6da01bf7a81547b4eecbe92dd71bfc226cb",
+      "title": "El Temach M&G Add-On *NOT A CONCERT TICKET*",
+      "description": "*THIS IS NOT AN EVENT TICKET* A TICKET TO THE EVENT MUST BE PURCHASED SEPERATELY Meet & Greet",
+      "start_datetime": "2026-11-16T01:00:00.000Z",
+      "end_datetime": null,
+      "venue": {
+        "name": "The Underground",
+        "address": "820 Hamilton St",
+        "neighborhood": "",
+        "lat": 35.240299,
+        "lng": -80.845314
+      },
+      "category": [
+        "special"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "notes": "See website"
+      },
+      "image": "https://s1.ticketm.net/dam/a/e66/6f2284d0-f10e-4b88-8ed4-9b47c0f4de66_RETINA_PORTRAIT_16_9.jpg",
+      "source": {
+        "name": "Ticketmaster API",
+        "url": "https://app.ticketmaster.com/discovery/v2/events",
+        "scraped_at": "2026-11-02T23:01:34.808Z"
+      },
+      "url": "https://www.ticketmaster.com/el-temach-mg-addon-not-a-charlotte-north-carolina-11-15-2026/event/2D006481B0C52D2A",
       "confidence": 1,
       "tags": [
         "ticketmaster-api",
@@ -2199,7 +2198,7 @@
       "source": {
         "name": "Visit Charlotte",
         "url": "https://www.charlottesgotalot.com/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.810Z"
       },
       "url": "https://www.charlottesgotalot.com/things-to-do",
       "confidence": 0.4,
@@ -2232,7 +2231,7 @@
       "source": {
         "name": "Visit Charlotte",
         "url": "https://www.charlottesgotalot.com/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.810Z"
       },
       "url": "https://www.charlottesgotalot.com/eat-drink",
       "confidence": 0.4,
@@ -2265,7 +2264,7 @@
       "source": {
         "name": "Visit Charlotte",
         "url": "https://www.charlottesgotalot.com/events",
-        "scraped_at": "2026-10-26T20:22:13.293Z"
+        "scraped_at": "2026-11-02T23:01:34.810Z"
       },
       "url": "https://www.charlottesgotalot.com/places-to-stay",
       "confidence": 0.4,
